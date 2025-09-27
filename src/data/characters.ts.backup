@@ -537,8 +537,7 @@ export const characters: Character[] = [
     "image": "Glim Sparkwhistle Grand Artificer of Kronus",
     "creator": "Campaign Setting",
     "tags": ["character", "leader", "gnome", "kronus", "artificer", "clockwork", "engineering"]
-  },
-  {
+  },  {
     "id": "tinkernock-steambeard",
     "name": "Admiral Tinkernock Steambeard",
     "race": "Gnome",
@@ -680,8 +679,7 @@ export const characters: Character[] = [
     "image": "King Aric of Avalon",
     "creator": "Campaign Setting",
     "tags": ["character", "king", "human", "avalon", "maritime", "ruler", "nobility"]
-  },
-  {
+  },  {
     "id": "duke-alaric-aerlin",
     "name": "Duke Alaric of Aerlin",
     "race": "Human",
@@ -703,8 +701,7 @@ export const characters: Character[] = [
     "image": "Duke Branwen Duchy of Braeten",
     "creator": "Campaign Setting",
     "tags": ["character", "duke", "human", "avalon", "braeten", "shipbuilding", "forestry", "craftsmanship"]
-  },
-  {
+  },  {
     "id": "duke-idris-albion",
     "name": "Duke Idris of Albion",
     "race": "Human",
@@ -726,8 +723,7 @@ export const characters: Character[] = [
     "image": "Dutchess Valeria of Veringia",
     "creator": "Campaign Setting",
     "tags": ["character", "duchess", "human", "avalon", "veringia", "trade", "diplomacy", "commerce"]
-  },
-  {
+  },  {
     "id": "duke-cedric-merish",
     "name": "Duke Cedric of Merish",
     "race": "Human",
@@ -809,8 +805,7 @@ export const characters: Character[] = [
     "tags": ["character", "merchant", "dwarf", "lineton", "wealth", "trade", "prince", "business"]
   },
 
-  // Vandrhaf Military Leadership
-  {
+  // Vandrhaf Military Leadership  {
     "id": "drakar-clawforge",
     "name": "Lord Commander Drakar Clawforge",
     "race": "Dragonborn",
@@ -820,8 +815,7 @@ export const characters: Character[] = [
     "image": "Lord Commander Drakar Clawforge",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "dragonborn", "fighter"]
-  },
-  {
+  },  {
     "id": "selene-scalewarden",
     "name": "High Strategos Selene Scalewarden",
     "race": "Dragonborn",
@@ -831,8 +825,7 @@ export const characters: Character[] = [
     "image": "High Strategos Selene Scalewarden",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "dragonborn", "fighter"]
-  },
-  {
+  },  {
     "id": "vaelis-blackfang",
     "name": "Shadowmistress Vaelis Blackfang",
     "race": "Drow",
@@ -920,8 +913,7 @@ export const characters: Character[] = [
     "tags": ["character", "queen", "frost-giant", "frozen-vilos", "ice-magic", "sorcerer", "ruler", "giant"]
   },
 
-  // Gray Order - Council of Eldertomes
-  {
+  // Gray Order - Council of Eldertomes  {
     "id": "drakarn-spellbinder",
     "name": "Archmage Drakarn Spellbinder",
     "race": "Human",
@@ -931,8 +923,7 @@ export const characters: Character[] = [
     "image": "Archmage Drakarn Spellbinder",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "human", "wizard"]
-  },
-  {
+  },  {
     "id": "marwen-earthshaper",
     "name": "Professor Marwen Earthshaper",
     "race": "Human",
@@ -942,8 +933,7 @@ export const characters: Character[] = [
     "image": "Professor Marwen Earthshaper",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "human", "wizard"]
-  },
-  {
+  },  {
     "id": "vaelora-wordsmith",
     "name": "Lady Vaelora Wordsmith",
     "race": "Elf",
@@ -953,8 +943,7 @@ export const characters: Character[] = [
     "image": "Lady Vaelora Wordsmith",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "elf", "bard"]
-  },
-  {
+  },  {
     "id": "thalgrim-forgeheart",
     "name": "Master Thalgrim Forgeheart",
     "race": "Dwarf",
@@ -964,8 +953,7 @@ export const characters: Character[] = [
     "image": "Master Thalgrim Forgeheart",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "dwarf", "artificer"]
-  },
-  {
+  },  {
     "id": "lirael-starwhisper",
     "name": "High Priestess Lirael Starwhisper",
     "race": "Elf",
@@ -975,8 +963,7 @@ export const characters: Character[] = [
     "image": "High Priestess Lirael Starwhisper",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "elf", "cleric"]
-  },
-  {
+  },  {
     "id": "elandra-tomekeeper",
     "name": "Scribe Elandra Tomekeeper",
     "race": "Human",
@@ -986,8 +973,7 @@ export const characters: Character[] = [
     "image": "Scribe Elandra Tomekeeper",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "human", "scholar"]
-  },
-  {
+  },  {
     "id": "faelan-wildshadow",
     "name": "Ranger Faelan Wildshadow",
     "race": "Half-Elf",
@@ -997,8 +983,7 @@ export const characters: Character[] = [
     "image": "Ranger Faelan Wildshadow",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "half-elf", "ranger"]
-  },
-  {
+  },  {
     "id": "elysa-truthseeker",
     "name": "Mistress Elysa Truthseeker",
     "race": "Human",

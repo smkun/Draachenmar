@@ -1,0 +1,142 @@
+[
+  {
+    "characterId": "lysander-starreach",
+    "name": "Astronomer Lysander Starreach",
+    "description": "Astronomer Lysander Starreach leads the Celestial Observatory in Dale Lands Henge. His starreach abilities allow him to commune with celestial bodies and predict cosmic events. His astronomical research helps navigate the floating city and understand magical phenomena related to the heavens.",
+    "race": "Elf",
+    "class": "Wizard",
+    "priority": "low",
+    "aiPrompt": "Portrait of Astronomer Lysander Starreach, a elf wizard, tall and graceful, pointed ears, ethereal beauty, elegant features, flowing hair, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "faela-silverquill",
+    "name": "Lorekeeper Faela Silverquill",
+    "description": "Lorekeeper Faela Silverquill is the Keeper of the Grand Libraries in Runicar Spire. Her silver quill pen is enchanted to never run out of ink and can write in any language. She maintains the vast collection of dwarven knowledge and assists scholars from across the realm.",
+    "race": "Dwarf",
+    "class": "Wizard/Scribe",
+    "priority": "low",
+    "aiPrompt": "Portrait of Lorekeeper Faela Silverquill, a dwarf wizard/scribe, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "elandria-heartwhisper",
+    "name": "Headmistress Elandria Heartwhisper",
+    "description": "Headmistress Elandria Heartwhisper leads Mindweave Tower, the Enchantment school. Despite her tiefling heritage, she uses her natural charisma and understanding of minds to teach ethical enchantment magic. Her heartwhisper abilities allow her to sense the true intentions of others.",
+    "race": "Tiefling",
+    "class": "Wizard",
+    "priority": "low",
+    "aiPrompt": "Portrait of Headmistress Elandria Heartwhisper, a tiefling wizard, demonic heritage, horns, tail, unusual skin color, exotic appearance, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "nyble-ironsprocket",
+    "name": "Nyble Ironsprocket",
+    "description": "Nyble Ironsprocket is a legendary gnome tinkerer who bonded with a copper dragon during the Prophecy of Dragons campaign. His incredible steam and gear-based inventions, powered by his dragon bond, created mechanical marvels that aided the heroes. His copper dragon heritage grants him unique mechanical insights.",
+    "race": "Gnome",
+    "class": "Artificer",
+    "priority": "low",
+    "aiPrompt": "Portrait of Nyble Ironsprocket, a gnome artificer, small stature, curious expression, bright eyes, often with mechanical or magical accessories, mechanical gadgets, inventor's tools, technological accessories, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "graal-onetusk",
+    "name": "Graal Onetusk",
+    "description": "Graal Onetusk is a legendary orc druid with a green dragon heart, granting him extraordinary nature control and land healing abilities. Despite his orcish heritage, his connection to the natural world and role in the Prophecy of Dragons made him a respected hero. He could heal corrupted lands with his touch.",
+    "race": "Orc",
+    "class": "Druid",
+    "priority": "low",
+    "aiPrompt": "Portrait of Graal Onetusk, a orc druid, varied appearance, medium build, expressive features, diverse clothing styles, nature-themed clothing, animal motifs, earthy and wild appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "zander-lex",
+    "name": "Zander Lex",
+    "description": "Zander Lex is a legendary human cleric devoted to Solanar, the Shining Sentinel. His divine healing powers and unwavering faith were instrumental in The Abyssal Egg campaign. His connection to the god of light and justice provided crucial protection against demonic corruption.",
+    "race": "Human",
+    "class": "Cleric",
+    "priority": "low",
+    "aiPrompt": "Portrait of Zander Lex, a human cleric, varied appearance, medium build, expressive features, diverse clothing styles, holy symbols, divine vestments, blessed armor, serene or commanding presence, holy symbols, divine vestments, blessed accessories, spiritual aura, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "beryl-mcdoyle",
+    "name": "Beryl McDoyle",
+    "description": "Beryl McDoyle is a legendary human fighter known for her unwavering courage in the Crypts of Eternity campaign. Her determination and fighting prowess helped defeat the malevolent lich Vorloth the Soulrender. Her fearless leadership inspired her companions through the darkest crypts.",
+    "race": "Human",
+    "class": "Fighter",
+    "priority": "low",
+    "aiPrompt": "Portrait of Beryl McDoyle, a human fighter, varied appearance, medium build, expressive features, diverse clothing styles, warrior bearing weapons and armor, battle-ready stance, martial appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "glim-sparkwhistle",
+    "name": "Glim Sparkwhistle",
+    "description": "Glim Sparkwhistle is the Grand Artificer and leader of Kronus, the magnificent clockwork city. With wild white hair that seems to spark with magical energy, Glim embodies the vibrant and innovative spirit of gnomish engineering. His genius-level intellect has helped transform Kronus into the most technologically advanced city in all of Draachenmar, complete with floating spires and mechanical wonders.",
+    "race": "Gnome",
+    "class": "Artificer",
+    "priority": "low",
+    "aiPrompt": "Portrait of Glim Sparkwhistle, a gnome artificer, small stature, curious expression, bright eyes, often with mechanical or magical accessories, mechanical gadgets, inventor's tools, technological accessories, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "aurora-whimsylight",
+    "name": "Madame Aurora Whimsylight",
+    "description": "Madame Aurora Whimsylight serves as the keeper of the Celestial Archives at the Orbital Academy. Her whimsical approach to organizing magical knowledge has created the most comprehensive collection of astronomical and mechanical texts in the known world. Her light-based cataloging system makes finding information both efficient and beautiful.",
+    "race": "Gnome",
+    "class": "Wizard/Librarian",
+    "priority": "low",
+    "aiPrompt": "Portrait of Madame Aurora Whimsylight, a gnome wizard/librarian, small stature, curious expression, bright eyes, often with mechanical or magical accessories, rich clothing, jewelry, regal bearing, symbols of status and wealth, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "luna-lightcatcher",
+    "name": "Luna Lightcatcher",
+    "description": "Luna Lightcatcher is a brilliant research fellow at the Orbital Academy, born during the passage of the rare Astral Comet. Her birth under this celestial event granted her unique abilities to manipulate and capture starlight. Her research focuses on converting stellar energy into mechanical power for Kronus's innovations.",
+    "race": "Gnome",
+    "class": "Wizard",
+    "priority": "low",
+    "aiPrompt": "Portrait of Luna Lightcatcher, a gnome wizard, small stature, curious expression, bright eyes, often with mechanical or magical accessories, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "meera-gearspinner",
+    "name": "Meera Gearspinner",
+    "description": "Meera Gearspinner owns and operates the famous Cog and Gear Tavern, the social heart of Kronus. Her establishment features automated serving systems and mechanical entertainment that delights visitors from across the realm. Her warm hospitality and innovative approach to tavern-keeping make her establishment legendary.",
+    "race": "Gnome",
+    "class": "Artificer/Innkeeper",
+    "priority": "low",
+    "aiPrompt": "Portrait of Meera Gearspinner, a gnome artificer/innkeeper, small stature, curious expression, bright eyes, often with mechanical or magical accessories, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "fizzlewick-geargrinder",
+    "name": "Fizzlewick Geargrinder",
+    "description": "Fizzlewick Geargrinder runs the Cog & Sprocket Emporium, Kronus's premier mechanical parts and gadget shop. His expertise in gear ratios and mechanical systems makes him the go-to gnome for anyone needing precision parts. His shop contains an amazing array of clockwork components and magical mechanical devices.",
+    "race": "Gnome",
+    "class": "Artificer/Merchant",
+    "priority": "low",
+    "aiPrompt": "Portrait of Fizzlewick Geargrinder, a gnome artificer/merchant, small stature, curious expression, bright eyes, often with mechanical or magical accessories, rich clothing, jewelry, regal bearing, symbols of status and wealth, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "threx-silver-stag",
+    "name": "Threx, Keeper of the Silver Stag",
+    "description": "Threx is a silver dragonborn who owns and operates the famous Silver Stag tavern in Lineton. His gleaming silver scales and imposing presence make him a memorable figure, but his warm hospitality and excellent ale have made his establishment the social heart of the town. His tavern serves as neutral ground for travelers from all territories.",
+    "race": "Dragonborn",
+    "class": "Fighter/Innkeeper",
+    "priority": "low",
+    "aiPrompt": "Portrait of Threx, Keeper of the Silver Stag, a dragonborn fighter/innkeeper, draconic features, scaled skin, reptilian eyes, powerful build, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "chief-scalesong",
+    "name": "Chief Scalesong",
+    "description": "Chief Scalesong leads the Lizardfolk faction within Uxmal's Council of Alathar. His wisdom in both strategic planning and ancient tribal knowledge makes him one of the most respected leaders on the island. His deep connection to the swamplands and volcanic environment of Uxmal gives him unique insights into the island's natural defenses.",
+    "race": "Lizardfolk",
+    "class": "Druid/Chieftain",
+    "priority": "low",
+    "aiPrompt": "Portrait of Chief Scalesong, a lizardfolk druid/chieftain, varied appearance, medium build, expressive features, diverse clothing styles, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  }
+]

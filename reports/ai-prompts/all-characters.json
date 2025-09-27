@@ -1,0 +1,492 @@
+[
+  {
+    "characterId": "aldrik-thunderfoot",
+    "name": "Captain Aldrik Thunderfoot",
+    "description": "Captain Aldrik Thunderfoot serves as Lieutenant of External Defense in Nebelgar Heights. His thunderous footsteps can be heard echoing through the fortress halls as he conducts inspections. He is King Baelgin's most trusted military advisor and field commander.",
+    "race": "Dwarf",
+    "class": "Fighter",
+    "priority": "critical",
+    "aiPrompt": "Portrait of Captain Aldrik Thunderfoot, a dwarf fighter, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, warrior bearing weapons and armor, battle-ready stance, martial appearance, royal crown or circlet, rich royal garments, regal bearing, military insignia, weapons, armor, commanding presence, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "brondar-stormfist",
+    "name": "Headmaster Brondar Stormfist",
+    "description": "Headmaster Brondar Stormfist oversees Stormforge Bastion, the school of Evocation. This massive goliath combines physical prowess with devastating magical power. His stormfist technique can channel lightning and thunder through his fists, making him a formidable evocation instructor.",
+    "race": "Goliath",
+    "class": "Wizard",
+    "priority": "critical",
+    "aiPrompt": "Portrait of Headmaster Brondar Stormfist, a goliath wizard, varied appearance, medium build, expressive features, diverse clothing styles, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, royal crown or circlet, rich royal garments, regal bearing, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "ellgrid-earthforge",
+    "name": "King Ellgrid Earthforge",
+    "description": "King Ellgrid Earthforge rules the Thrainforge district, the industrial heart of Gulanbarak. A master craftsman himself, he oversees the great forges and workshops that produce the finest dwarven weapons and armor. His domain is filled with the constant sound of hammers on anvils.",
+    "race": "Dwarf",
+    "class": "Noble/Artificer",
+    "priority": "critical",
+    "aiPrompt": "Portrait of King Ellgrid Earthforge, a dwarf noble/artificer, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, ornate armor, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "duke-branwen-braeten",
+    "name": "Duke Branwen of Braeten",
+    "description": "Duke Branwen of Braeten governs the Island Duchy of Braeten, known for its vast forests and exceptional shipbuilding industry. His expertise in forestry management and ship construction has made Braeten's vessels highly sought after throughout the realm. He personally oversees the selection of timber for the kingdom's finest ships.",
+    "race": "Human",
+    "class": "Noble/Artificer",
+    "priority": "critical",
+    "aiPrompt": "Portrait of Duke Branwen of Braeten, a human noble/artificer, varied appearance, medium build, expressive features, diverse clothing styles, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, precious jewelry, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "queen-yurta-frost",
+    "name": "Queen Yurta",
+    "description": "Queen Yurta is the towering ruler of Frozen Vilos, a frost giant of immense power and presence. Her piercing blue eyes can freeze opponents with a glance, and her mastery of ice magic is legendary throughout the frozen realm. As both a warrior and sorceress, she commands absolute respect from her subjects and strikes fear into any who would threaten her domain.",
+    "race": "Frost Giant",
+    "class": "Noble/Sorcerer",
+    "priority": "critical",
+    "aiPrompt": "Portrait of Queen Yurta, a frost giant noble/sorcerer, varied appearance, medium build, expressive features, diverse clothing styles, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, military insignia, weapons, armor, commanding presence, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "elowen-windwhisper",
+    "name": "High Counselor Elowen Windwhisper",
+    "description": "High Counselor Elowen Windwhisper is Queen Cirilia's chief advisor. She possesses a deep understanding of the political landscape and is a skilled negotiator. Elowen's wisdom and keen intellect make her an invaluable asset to the queen.",
+    "race": "Elf",
+    "class": "Noble",
+    "priority": "critical",
+    "aiPrompt": "Portrait of High Counselor Elowen Windwhisper, a elf noble, tall and graceful, pointed ears, ethereal beauty, elegant features, flowing hair, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "rathgar-stoneforge-ironhammer",
+    "name": "High King Rathgar \"Stoneforge\" Ironhammer",
+    "description": "King Rathgar \"Stoneforge\" Ironhammer is the revered ruler of Gulanbarak. He earned the moniker \"Stoneforge\" due to his unparalleled skill in crafting and forging, which has enriched the kingdom's wealth and defensive capabilities. Rathgar is a stout, bearded dwarf with a strong presence, often seen wearing regal armor adorned with intricate, rune-inscribed designs. He wields the legendary waraxe, \"Earthshaker,\" a symbol of his authority and craftsmanship. He rules over the seven dwarven Kings and guards the massive dwarven wall nation of Gulanbarak from the evil hordes of the Shard Lands.",
+    "race": "Dwarf",
+    "class": "Noble/Artificer",
+    "priority": "critical",
+    "aiPrompt": "Portrait of High King Rathgar \"Stoneforge\" Ironhammer, a dwarf noble/artificer, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, military insignia, weapons, armor, commanding presence, distinctive beard, ornate armor, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "bulgad-grimmantle",
+    "name": "King Bulgad Grimmantle",
+    "description": "King Bulgad Grimmantle is the ruler of Durinhold district in Gulanbarak. Known for his grim demeanor and unwavering dedication to duty, he oversees the spiritual and cultural heart of the dwarven realm. His district houses grand temples and maintains the sacred traditions of the dwarven people.",
+    "race": "Dwarf",
+    "class": "Noble/Fighter",
+    "priority": "critical",
+    "aiPrompt": "Portrait of King Bulgad Grimmantle, a dwarf noble/fighter, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, holy symbols, divine vestments, blessed accessories, spiritual aura, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "naser-graybeard",
+    "name": "King Naser Graybeard",
+    "description": "King Naser Graybeard governs the Morndrak Depths district, the mining heart of Gulanbarak. His long gray beard is a symbol of wisdom earned through decades of delving into the deepest mines. He oversees the extraction of precious gems and metals that fuel the kingdom's wealth.",
+    "race": "Dwarf",
+    "class": "Noble/Cleric",
+    "priority": "critical",
+    "aiPrompt": "Portrait of King Naser Graybeard, a dwarf noble/cleric, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, distinctive beard, precious jewelry, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "baelgin-ironhand",
+    "name": "King Baelgin Ironhand",
+    "description": "King Baelgin Ironhand rules Nebelgar Heights, the military stronghold of Gulanbarak. His iron prosthetic hand, earned in battle against orc raiders, is both a symbol of sacrifice and strength. He commands the external defenses and elite military units.",
+    "race": "Dwarf",
+    "class": "Noble/Fighter",
+    "priority": "critical",
+    "aiPrompt": "Portrait of King Baelgin Ironhand, a dwarf noble/fighter, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "gromli-steelarm",
+    "name": "King Gromli Steelarm",
+    "description": "King Gromli Steelarm oversees Runicar Spire, the scholarly and magical center of Gulanbarak. His steel arm gauntlet is inscribed with powerful runes that aid in his magical studies. He governs the great libraries and maintains the ancient dwarven magical traditions.",
+    "race": "Dwarf",
+    "class": "Noble/Wizard",
+    "priority": "critical",
+    "aiPrompt": "Portrait of King Gromli Steelarm, a dwarf noble/wizard, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "velog-stormshield",
+    "name": "King Velog Stormshield",
+    "description": "King Velog Stormshield rules Stoneharbor district, the maritime hub of Gulanbarak. His storm-weathered shield bears the scars of countless sea battles. He commands the dwarven fleet and oversees all maritime trade and naval defenses.",
+    "race": "Dwarf",
+    "class": "Noble/Ranger",
+    "priority": "critical",
+    "aiPrompt": "Portrait of King Velog Stormshield, a dwarf noble/ranger, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, battle scars, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "hjalmar-anvilheart",
+    "name": "King Hjalmar Anvilheart",
+    "description": "King Hjalmar Anvilheart governs Valthor Hollow, the residential and community center of Gulanbarak. His heart burns with passion for his people's welfare, earning him the name 'Anvilheart'. He focuses on housing, community services, and maintaining dwarven social bonds.",
+    "race": "Dwarf",
+    "class": "Noble/Paladin",
+    "priority": "critical",
+    "aiPrompt": "Portrait of King Hjalmar Anvilheart, a dwarf noble/paladin, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "king-arie-avalon",
+    "name": "King Arie of Avalon",
+    "description": "King Arie of Avalon is the maritime ruler of the Kingdom of Avalon, distinguished by his regal crown adorned with seashells and pearls that symbolize his realm's connection to the sea. He governs the five duchies of Avalon with wisdom and strength, balancing the needs of both island and mainland territories. His leadership has made Avalon a prosperous maritime power.",
+    "race": "Human",
+    "class": "Noble/Fighter",
+    "priority": "critical",
+    "aiPrompt": "Portrait of King Arie of Avalon, a human noble/fighter, varied appearance, medium build, expressive features, diverse clothing styles, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "cirilia-moonshadow",
+    "name": "Queen Cirilia Moonshadow",
+    "description": "Queen Cirilia Moonshadow is the elegant and wise ruler of the Great Woods of Averlys. She is known for her ethereal beauty, with silver hair that shimmers like moonlight and piercing emerald eyes that radiate wisdom and grace. Cirilia is a skilled diplomat and a powerful enchantress, with a deep connection to the forest and its magical energies. She is revered by her subjects for her dedication to preserving the natural balance of Averlys and her commitment to peaceful coexistence with neighboring realms.",
+    "race": "Elf",
+    "class": "Noble/Enchanter",
+    "priority": "critical",
+    "aiPrompt": "Portrait of Queen Cirilia Moonshadow, a elf noble/enchanter, tall and graceful, pointed ears, ethereal beauty, elegant features, flowing hair, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "aldus-byrne",
+    "name": "Aldus Byrne",
+    "description": "Aldus Byrne is a legendary warrior with fiery red hair and a brass dragon heart. His fire-breathing powers and unwavering courage made him a key figure in the Prophecy of Dragons. His brass heart grants him resistance to fire and the ability to breathe flames in battle, marking him as one of the eight chosen heroes.",
+    "race": "Human",
+    "class": "Fighter",
+    "priority": "critical",
+    "aiPrompt": "Portrait of Aldus Byrne, a human fighter, varied appearance, medium build, expressive features, diverse clothing styles, warrior bearing weapons and armor, battle-ready stance, martial appearance, royal crown or circlet, rich royal garments, regal bearing, military insignia, weapons, armor, commanding presence, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "vortex-steamweaver",
+    "name": "Dr. Vortex Steamweaver",
+    "description": "Dr. Vortex Steamweaver is a pioneer in elemental propulsion research at the Orbital Academy. His groundbreaking work on steam-powered magical engines and elemental fusion drives has advanced Kronus's airship technology by decades. His experiments with controlled magical vortexes power many of the city's mechanical systems.",
+    "race": "Gnome",
+    "class": "Artificer",
+    "priority": "critical",
+    "aiPrompt": "Portrait of Dr. Vortex Steamweaver, a gnome artificer, small stature, curious expression, bright eyes, often with mechanical or magical accessories, mechanical gadgets, inventor's tools, technological accessories, royal crown or circlet, rich royal garments, regal bearing, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "thaldir-stonebinder",
+    "name": "Magister Thaldir Stonebinder",
+    "description": "Magister Thaldir Stonebinder is an earth mage and geomancy expert on the Conclave of Arcane Sovereigns. He can shape stone and earth with ease, and his mastery of geological magic has helped design the floating spires of Dale Lands Henge. His deep connection to the earth provides stability to the aerial city.",
+    "race": "Human",
+    "class": "Wizard",
+    "priority": "high",
+    "aiPrompt": "Portrait of Magister Thaldir Stonebinder, a human wizard, varied appearance, medium build, expressive features, diverse clothing styles, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "thaldor-stoneguard",
+    "name": "Headmaster Thaldor Stoneguard",
+    "description": "Headmaster Thaldor Stoneguard leads the Aegis Enclave, the university's school of Abjuration magic. This stout dwarf specializes in protective magic and defensive spells. His unwavering dedication to safeguarding students and knowledge makes him one of the most respected educators in the magical city.",
+    "race": "Dwarf",
+    "class": "Wizard",
+    "priority": "high",
+    "aiPrompt": "Portrait of Headmaster Thaldor Stoneguard, a dwarf wizard, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, military insignia, weapons, armor, commanding presence, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "faelar-starsight",
+    "name": "Headmaster Faelar Starsight",
+    "description": "Headmaster Faelar Starsight runs the Oracle's Den, the school of Divination. This wise aarakocra has an extraordinary gift for foresight and stargazing. His aerial perspective and natural connection to the skies make him an exceptional divination teacher in the floating city.",
+    "race": "Aarakocra",
+    "class": "Wizard",
+    "priority": "high",
+    "aiPrompt": "Portrait of Headmaster Faelar Starsight, a aarakocra wizard, varied appearance, medium build, expressive features, diverse clothing styles, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "borin-flamebeard",
+    "name": "Master Borin Flamebeard",
+    "description": "Master Borin Flamebeard is the Chief Blacksmith of Thrainforge district. His red beard seems to flicker like flames when he works at the forge. He is renowned throughout Gulanbarak for creating weapons and armor of exceptional quality, including pieces for the royal family.",
+    "race": "Dwarf",
+    "class": "Artificer",
+    "priority": "high",
+    "aiPrompt": "Portrait of Master Borin Flamebeard, a dwarf artificer, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, mechanical gadgets, inventor's tools, technological accessories, distinctive beard, ornate armor, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "duchess-valeria-veringia",
+    "name": "Duchess Valeria of Veringia",
+    "description": "Duchess Valeria of Veringia governs the Island Duchy of Veringia, specializing in maritime trade and diplomacy. Her charismatic personality and extensive trade networks have made Veringia the commercial heart of Avalon. She is renowned for her elegant diplomatic receptions and her ability to negotiate favorable trade agreements.",
+    "race": "Human",
+    "class": "Noble/Bard",
+    "priority": "high",
+    "aiPrompt": "Portrait of Duchess Valeria of Veringia, a human noble/bard, varied appearance, medium build, expressive features, diverse clothing styles, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "elysor-spellscribe",
+    "name": "Master Tomekeeper Elysor Spellscribe",
+    "description": "Master Tomekeeper Elysor Spellscribe manages the vast Nexus Arcanum, the central library of Dale Lands Henge. His ability to magically preserve and organize knowledge makes him invaluable to the magical community. He can instantly locate any spell or magical theory within the vast collection.",
+    "race": "Half-Elf",
+    "class": "Wizard/Scribe",
+    "priority": "high",
+    "aiPrompt": "Portrait of Master Tomekeeper Elysor Spellscribe, a half-elf wizard/scribe, varied appearance, medium build, expressive features, diverse clothing styles, rich clothing, jewelry, regal bearing, symbols of status and wealth, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "garnar-lightbearer",
+    "name": "High Priest Garnar Lightbearer",
+    "description": "High Priest Garnar Lightbearer is the spiritual leader of Durinhold district. He carries an ancient blessed hammer that glows with divine light during ceremonies. He conducts the most important religious rituals and provides spiritual guidance to the royal family.",
+    "race": "Dwarf",
+    "class": "Cleric",
+    "priority": "high",
+    "aiPrompt": "Portrait of High Priest Garnar Lightbearer, a dwarf cleric, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, holy symbols, divine vestments, blessed armor, serene or commanding presence, holy symbols, divine vestments, blessed accessories, spiritual aura, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "lorna-wavebreaker",
+    "name": "Captain Lorna Wavebreaker",
+    "description": "Captain Lorna Wavebreaker commands the dwarven fleet from Stoneharbor. Despite the dwarven preference for solid ground, she has mastered the seas and leads daring naval expeditions. Her ship 'The Granite Tide' is the flagship of the dwarven navy.",
+    "race": "Dwarf",
+    "class": "Fighter/Navigator",
+    "priority": "high",
+    "aiPrompt": "Portrait of Captain Lorna Wavebreaker, a dwarf fighter/navigator, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, military insignia, weapons, armor, commanding presence, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "lysandra-moonshade",
+    "name": "Headmistress Lysandra Moonshade",
+    "description": "Headmistress Lysandra Moonshade oversees Callkeep Spire, the Conjuration school. This graceful high elf has mastered the art of summoning and creation magic. Her moonshade abilities allow her to work with shadow and moonlight to enhance her conjuration spells.",
+    "race": "High Elf",
+    "class": "Wizard",
+    "priority": "high",
+    "aiPrompt": "Portrait of Headmistress Lysandra Moonshade, a high elf wizard, varied appearance, medium build, expressive features, diverse clothing styles, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "keryth-aedithas",
+    "name": "Keryth Aedithas",
+    "description": "Keryth Aedithas is a legendary mage with piercing blue eyes and mastery over ancient ice magic. One of the eight heroes of the Prophecy of Dragons, his control over frost and winter magic proved instrumental in the campaign. His icy spells could freeze entire battlefields and create barriers of solid ice.",
+    "race": "Human",
+    "class": "Wizard",
+    "priority": "high",
+    "aiPrompt": "Portrait of Keryth Aedithas, a human wizard, varied appearance, medium build, expressive features, diverse clothing styles, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "alric-timekeeper",
+    "name": "Master Alric Timekeeper",
+    "description": "Master Alric Timekeeper is the academy's expert in chronomancy and temporal magic. His studies of time manipulation and temporal mechanics have led to breakthrough discoveries in clockwork precision and magical timing systems. He maintains the great chronometer that synchronizes all of Kronus's mechanical operations.",
+    "race": "Gnome",
+    "class": "Wizard",
+    "priority": "high",
+    "aiPrompt": "Portrait of Master Alric Timekeeper, a gnome wizard, small stature, curious expression, bright eyes, often with mechanical or magical accessories, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "elara-moonlatch",
+    "name": "Lady Elara Moonlatch",
+    "description": "Lady Elara Moonlatch serves as the Keeper of Arcane Archives in Kronus. Distinguished by her silvery-blue hair and elegant moon-shaped spectacles, she maintains the city's vast collection of magical knowledge and mechanical blueprints. Her archival system combines magical preservation with mechanical organization.",
+    "race": "Gnome",
+    "class": "Wizard/Archivist",
+    "priority": "high",
+    "aiPrompt": "Portrait of Lady Elara Moonlatch, a gnome wizard/archivist, small stature, curious expression, bright eyes, often with mechanical or magical accessories, rich clothing, jewelry, regal bearing, symbols of status and wealth, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "high-priestess-seri",
+    "name": "High Priestess Seri",
+    "description": "High Priestess Seri leads the Temple of Luminara in Lineton, providing spiritual guidance to the diverse community. Her elven wisdom and deep connection to the divine make her a respected figure among all races and cultures in the town. She often mediates conflicts through spiritual counsel and divine insight.",
+    "race": "Elf",
+    "class": "Cleric",
+    "priority": "high",
+    "aiPrompt": "Portrait of High Priestess Seri, a elf cleric, tall and graceful, pointed ears, ethereal beauty, elegant features, flowing hair, holy symbols, divine vestments, blessed armor, serene or commanding presence, holy symbols, divine vestments, blessed accessories, spiritual aura, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "master-elrin-academy",
+    "name": "Master Elrin",
+    "description": "Master Elrin heads the Arcane Academy in Lineton, bringing magical education to the border region. His gnomish intellect and vast magical knowledge have made the academy a respected institution for magical learning. He is known for his patient teaching methods and innovative approaches to magical education.",
+    "race": "Gnome",
+    "class": "Wizard",
+    "priority": "high",
+    "aiPrompt": "Portrait of Master Elrin, a gnome wizard, small stature, curious expression, bright eyes, often with mechanical or magical accessories, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "baelor-merchant-prince",
+    "name": "Baelor, the Merchant Prince",
+    "description": "Baelor is a wealthy dwarven trader known throughout Lineton as the 'Merchant Prince.' His beard is intricately braided with gold threads and adorned with precious gemstones, displaying his immense wealth. His extensive trade networks and business acumen have made him one of the most influential figures in Lineton's economy.",
+    "race": "Dwarf",
+    "class": "Noble/Merchant",
+    "priority": "high",
+    "aiPrompt": "Portrait of Baelor, the Merchant Prince, a dwarf noble/merchant, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, royal crown or circlet, rich royal garments, regal bearing, distinctive beard, precious jewelry, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "yorandis",
+    "name": "Yorandis the Archmage",
+    "description": "Yorandis is a legendary figure known for his extraordinary skills as a mage and his creation of the Luminous Amulet. An aged wizard with wisdom gained over a lifetime of magical study and experimentation, he began his journey as an apprentice to a renowned mage, learning the intricacies of arcane arts and mastering various spells and incantations.",
+    "race": "Human",
+    "class": "Wizard",
+    "priority": "high",
+    "aiPrompt": "Portrait of Yorandis the Archmage, a human wizard, varied appearance, medium build, expressive features, diverse clothing styles, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "mirna-stonereader",
+    "name": "Elder Mirna Stonereader",
+    "description": "Elder Mirna Stonereader is a powerful seeress in Runicar Spire. She can read the future in the patterns of stone and crystal, providing guidance to both the royal family and common folk. Her prophecies have saved Gulanbarak from disaster multiple times.",
+    "race": "Dwarf",
+    "class": "Cleric/Diviner",
+    "priority": "medium",
+    "aiPrompt": "Portrait of Elder Mirna Stonereader, a dwarf cleric/diviner, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "stella-starshaper",
+    "name": "Professor Stella Starshaper",
+    "description": "Professor Stella Starshaper is the academy's leading expert in celestial magic and astronomical studies. Her research into the magical properties of stars and celestial bodies has revolutionized gnomish understanding of cosmic forces. She teaches advanced courses in stellar manipulation and celestial navigation.",
+    "race": "Gnome",
+    "class": "Wizard",
+    "priority": "medium",
+    "aiPrompt": "Portrait of Professor Stella Starshaper, a gnome wizard, small stature, curious expression, bright eyes, often with mechanical or magical accessories, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "lysander-starreach",
+    "name": "Astronomer Lysander Starreach",
+    "description": "Astronomer Lysander Starreach leads the Celestial Observatory in Dale Lands Henge. His starreach abilities allow him to commune with celestial bodies and predict cosmic events. His astronomical research helps navigate the floating city and understand magical phenomena related to the heavens.",
+    "race": "Elf",
+    "class": "Wizard",
+    "priority": "low",
+    "aiPrompt": "Portrait of Astronomer Lysander Starreach, a elf wizard, tall and graceful, pointed ears, ethereal beauty, elegant features, flowing hair, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "faela-silverquill",
+    "name": "Lorekeeper Faela Silverquill",
+    "description": "Lorekeeper Faela Silverquill is the Keeper of the Grand Libraries in Runicar Spire. Her silver quill pen is enchanted to never run out of ink and can write in any language. She maintains the vast collection of dwarven knowledge and assists scholars from across the realm.",
+    "race": "Dwarf",
+    "class": "Wizard/Scribe",
+    "priority": "low",
+    "aiPrompt": "Portrait of Lorekeeper Faela Silverquill, a dwarf wizard/scribe, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "elandria-heartwhisper",
+    "name": "Headmistress Elandria Heartwhisper",
+    "description": "Headmistress Elandria Heartwhisper leads Mindweave Tower, the Enchantment school. Despite her tiefling heritage, she uses her natural charisma and understanding of minds to teach ethical enchantment magic. Her heartwhisper abilities allow her to sense the true intentions of others.",
+    "race": "Tiefling",
+    "class": "Wizard",
+    "priority": "low",
+    "aiPrompt": "Portrait of Headmistress Elandria Heartwhisper, a tiefling wizard, demonic heritage, horns, tail, unusual skin color, exotic appearance, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "nyble-ironsprocket",
+    "name": "Nyble Ironsprocket",
+    "description": "Nyble Ironsprocket is a legendary gnome tinkerer who bonded with a copper dragon during the Prophecy of Dragons campaign. His incredible steam and gear-based inventions, powered by his dragon bond, created mechanical marvels that aided the heroes. His copper dragon heritage grants him unique mechanical insights.",
+    "race": "Gnome",
+    "class": "Artificer",
+    "priority": "low",
+    "aiPrompt": "Portrait of Nyble Ironsprocket, a gnome artificer, small stature, curious expression, bright eyes, often with mechanical or magical accessories, mechanical gadgets, inventor's tools, technological accessories, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "graal-onetusk",
+    "name": "Graal Onetusk",
+    "description": "Graal Onetusk is a legendary orc druid with a green dragon heart, granting him extraordinary nature control and land healing abilities. Despite his orcish heritage, his connection to the natural world and role in the Prophecy of Dragons made him a respected hero. He could heal corrupted lands with his touch.",
+    "race": "Orc",
+    "class": "Druid",
+    "priority": "low",
+    "aiPrompt": "Portrait of Graal Onetusk, a orc druid, varied appearance, medium build, expressive features, diverse clothing styles, nature-themed clothing, animal motifs, earthy and wild appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "zander-lex",
+    "name": "Zander Lex",
+    "description": "Zander Lex is a legendary human cleric devoted to Solanar, the Shining Sentinel. His divine healing powers and unwavering faith were instrumental in The Abyssal Egg campaign. His connection to the god of light and justice provided crucial protection against demonic corruption.",
+    "race": "Human",
+    "class": "Cleric",
+    "priority": "low",
+    "aiPrompt": "Portrait of Zander Lex, a human cleric, varied appearance, medium build, expressive features, diverse clothing styles, holy symbols, divine vestments, blessed armor, serene or commanding presence, holy symbols, divine vestments, blessed accessories, spiritual aura, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "beryl-mcdoyle",
+    "name": "Beryl McDoyle",
+    "description": "Beryl McDoyle is a legendary human fighter known for her unwavering courage in the Crypts of Eternity campaign. Her determination and fighting prowess helped defeat the malevolent lich Vorloth the Soulrender. Her fearless leadership inspired her companions through the darkest crypts.",
+    "race": "Human",
+    "class": "Fighter",
+    "priority": "low",
+    "aiPrompt": "Portrait of Beryl McDoyle, a human fighter, varied appearance, medium build, expressive features, diverse clothing styles, warrior bearing weapons and armor, battle-ready stance, martial appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "glim-sparkwhistle",
+    "name": "Glim Sparkwhistle",
+    "description": "Glim Sparkwhistle is the Grand Artificer and leader of Kronus, the magnificent clockwork city. With wild white hair that seems to spark with magical energy, Glim embodies the vibrant and innovative spirit of gnomish engineering. His genius-level intellect has helped transform Kronus into the most technologically advanced city in all of Draachenmar, complete with floating spires and mechanical wonders.",
+    "race": "Gnome",
+    "class": "Artificer",
+    "priority": "low",
+    "aiPrompt": "Portrait of Glim Sparkwhistle, a gnome artificer, small stature, curious expression, bright eyes, often with mechanical or magical accessories, mechanical gadgets, inventor's tools, technological accessories, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "aurora-whimsylight",
+    "name": "Madame Aurora Whimsylight",
+    "description": "Madame Aurora Whimsylight serves as the keeper of the Celestial Archives at the Orbital Academy. Her whimsical approach to organizing magical knowledge has created the most comprehensive collection of astronomical and mechanical texts in the known world. Her light-based cataloging system makes finding information both efficient and beautiful.",
+    "race": "Gnome",
+    "class": "Wizard/Librarian",
+    "priority": "low",
+    "aiPrompt": "Portrait of Madame Aurora Whimsylight, a gnome wizard/librarian, small stature, curious expression, bright eyes, often with mechanical or magical accessories, rich clothing, jewelry, regal bearing, symbols of status and wealth, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "luna-lightcatcher",
+    "name": "Luna Lightcatcher",
+    "description": "Luna Lightcatcher is a brilliant research fellow at the Orbital Academy, born during the passage of the rare Astral Comet. Her birth under this celestial event granted her unique abilities to manipulate and capture starlight. Her research focuses on converting stellar energy into mechanical power for Kronus's innovations.",
+    "race": "Gnome",
+    "class": "Wizard",
+    "priority": "low",
+    "aiPrompt": "Portrait of Luna Lightcatcher, a gnome wizard, small stature, curious expression, bright eyes, often with mechanical or magical accessories, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "meera-gearspinner",
+    "name": "Meera Gearspinner",
+    "description": "Meera Gearspinner owns and operates the famous Cog and Gear Tavern, the social heart of Kronus. Her establishment features automated serving systems and mechanical entertainment that delights visitors from across the realm. Her warm hospitality and innovative approach to tavern-keeping make her establishment legendary.",
+    "race": "Gnome",
+    "class": "Artificer/Innkeeper",
+    "priority": "low",
+    "aiPrompt": "Portrait of Meera Gearspinner, a gnome artificer/innkeeper, small stature, curious expression, bright eyes, often with mechanical or magical accessories, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "fizzlewick-geargrinder",
+    "name": "Fizzlewick Geargrinder",
+    "description": "Fizzlewick Geargrinder runs the Cog & Sprocket Emporium, Kronus's premier mechanical parts and gadget shop. His expertise in gear ratios and mechanical systems makes him the go-to gnome for anyone needing precision parts. His shop contains an amazing array of clockwork components and magical mechanical devices.",
+    "race": "Gnome",
+    "class": "Artificer/Merchant",
+    "priority": "low",
+    "aiPrompt": "Portrait of Fizzlewick Geargrinder, a gnome artificer/merchant, small stature, curious expression, bright eyes, often with mechanical or magical accessories, rich clothing, jewelry, regal bearing, symbols of status and wealth, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "threx-silver-stag",
+    "name": "Threx, Keeper of the Silver Stag",
+    "description": "Threx is a silver dragonborn who owns and operates the famous Silver Stag tavern in Lineton. His gleaming silver scales and imposing presence make him a memorable figure, but his warm hospitality and excellent ale have made his establishment the social heart of the town. His tavern serves as neutral ground for travelers from all territories.",
+    "race": "Dragonborn",
+    "class": "Fighter/Innkeeper",
+    "priority": "low",
+    "aiPrompt": "Portrait of Threx, Keeper of the Silver Stag, a dragonborn fighter/innkeeper, draconic features, scaled skin, reptilian eyes, powerful build, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "chief-scalesong",
+    "name": "Chief Scalesong",
+    "description": "Chief Scalesong leads the Lizardfolk faction within Uxmal's Council of Alathar. His wisdom in both strategic planning and ancient tribal knowledge makes him one of the most respected leaders on the island. His deep connection to the swamplands and volcanic environment of Uxmal gives him unique insights into the island's natural defenses.",
+    "race": "Lizardfolk",
+    "class": "Druid/Chieftain",
+    "priority": "low",
+    "aiPrompt": "Portrait of Chief Scalesong, a lizardfolk druid/chieftain, varied appearance, medium build, expressive features, diverse clothing styles, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  }
+]

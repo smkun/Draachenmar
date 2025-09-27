@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Captain Aldrik Thunderfoot",
+    "priority": "critical",
+    "importance": 185,
+    "category": "npc"
+  },
+  {
+    "name": "Headmaster Brondar Stormfist",
+    "priority": "critical",
+    "importance": 185,
+    "category": "npc"
+  },
+  {
+    "name": "King Ellgrid Earthforge",
+    "priority": "critical",
+    "importance": 180,
+    "category": "npc"
+  },
+  {
+    "name": "Duke Branwen of Braeten",
+    "priority": "critical",
+    "importance": 160,
+    "category": "npc"
+  },
+  {
+    "name": "Queen Yurta",
+    "priority": "critical",
+    "importance": 160,
+    "category": "npc"
+  },
+  {
+    "name": "High Counselor Elowen Windwhisper",
+    "priority": "critical",
+    "importance": 135,
+    "category": "npc"
+  },
+  {
+    "name": "High King Rathgar \"Stoneforge\" Ironhammer",
+    "priority": "critical",
+    "importance": 130,
+    "category": "npc"
+  },
+  {
+    "name": "King Bulgad Grimmantle",
+    "priority": "critical",
+    "importance": 130,
+    "category": "npc"
+  },
+  {
+    "name": "King Naser Graybeard",
+    "priority": "critical",
+    "importance": 130,
+    "category": "npc"
+  },
+  {
+    "name": "King Baelgin Ironhand",
+    "priority": "critical",
+    "importance": 130,
+    "category": "npc"
+  },
+  {
+    "name": "King Gromli Steelarm",
+    "priority": "critical",
+    "importance": 130,
+    "category": "npc"
+  },
+  {
+    "name": "King Velog Stormshield",
+    "priority": "critical",
+    "importance": 130,
+    "category": "npc"
+  },
+  {
+    "name": "King Hjalmar Anvilheart",
+    "priority": "critical",
+    "importance": 130,
+    "category": "npc"
+  },
+  {
+    "name": "King Arie of Avalon",
+    "priority": "critical",
+    "importance": 125,
+    "category": "npc"
+  },
+  {
+    "name": "Queen Cirilia Moonshadow",
+    "priority": "critical",
+    "importance": 110,
+    "category": "npc"
+  },
+  {
+    "name": "Aldus Byrne",
+    "priority": "critical",
+    "importance": 110,
+    "category": "player"
+  },
+  {
+    "name": "Dr. Vortex Steamweaver",
+    "priority": "critical",
+    "importance": 110,
+    "category": "npc"
+  },
+  {
+    "name": "Magister Thaldir Stonebinder",
+    "priority": "high",
+    "importance": 95,
+    "category": "npc"
+  },
+  {
+    "name": "Headmaster Thaldor Stoneguard",
+    "priority": "high",
+    "importance": 85,
+    "category": "npc"
+  },
+  {
+    "name": "Headmaster Faelar Starsight",
+    "priority": "high",
+    "importance": 85,
+    "category": "npc"
+  },
+  {
+    "name": "Master Borin Flamebeard",
+    "priority": "high",
+    "importance": 80,
+    "category": "npc"
+  },
+  {
+    "name": "Duchess Valeria of Veringia",
+    "priority": "high",
+    "importance": 75,
+    "category": "npc"
+  },
+  {
+    "name": "Master Tomekeeper Elysor Spellscribe",
+    "priority": "high",
+    "importance": 70,
+    "category": "npc"
+  },
+  {
+    "name": "High Priest Garnar Lightbearer",
+    "priority": "high",
+    "importance": 60,
+    "category": "npc"
+  },
+  {
+    "name": "Captain Lorna Wavebreaker",
+    "priority": "high",
+    "importance": 60,
+    "category": "npc"
+  },
+  {
+    "name": "Headmistress Lysandra Moonshade",
+    "priority": "high",
+    "importance": 60,
+    "category": "npc"
+  },
+  {
+    "name": "Keryth Aedithas",
+    "priority": "high",
+    "importance": 60,
+    "category": "player"
+  },
+  {
+    "name": "Master Alric Timekeeper",
+    "priority": "high",
+    "importance": 60,
+    "category": "npc"
+  },
+  {
+    "name": "Lady Elara Moonlatch",
+    "priority": "high",
+    "importance": 60,
+    "category": "npc"
+  },
+  {
+    "name": "High Priestess Seri",
+    "priority": "high",
+    "importance": 60,
+    "category": "npc"
+  },
+  {
+    "name": "Master Elrin",
+    "priority": "high",
+    "importance": 60,
+    "category": "npc"
+  },
+  {
+    "name": "Baelor, the Merchant Prince",
+    "priority": "high",
+    "importance": 60,
+    "category": "npc"
+  },
+  {
+    "name": "Yorandis the Archmage",
+    "priority": "high",
+    "importance": 60,
+    "category": "npc"
+  },
+  {
+    "name": "Elder Mirna Stonereader",
+    "priority": "medium",
+    "importance": 55,
+    "category": "npc"
+  },
+  {
+    "name": "Professor Stella Starshaper",
+    "priority": "medium",
+    "importance": 35,
+    "category": "npc"
+  },
+  {
+    "name": "Astronomer Lysander Starreach",
+    "priority": "low",
+    "importance": 20,
+    "category": "npc"
+  },
+  {
+    "name": "Lorekeeper Faela Silverquill",
+    "priority": "low",
+    "importance": 10,
+    "category": "npc"
+  },
+  {
+    "name": "Headmistress Elandria Heartwhisper",
+    "priority": "low",
+    "importance": 10,
+    "category": "npc"
+  },
+  {
+    "name": "Nyble Ironsprocket",
+    "priority": "low",
+    "importance": 10,
+    "category": "player"
+  },
+  {
+    "name": "Graal Onetusk",
+    "priority": "low",
+    "importance": 10,
+    "category": "player"
+  },
+  {
+    "name": "Zander Lex",
+    "priority": "low",
+    "importance": 10,
+    "category": "player"
+  },
+  {
+    "name": "Beryl McDoyle",
+    "priority": "low",
+    "importance": 10,
+    "category": "player"
+  },
+  {
+    "name": "Glim Sparkwhistle",
+    "priority": "low",
+    "importance": 10,
+    "category": "npc"
+  },
+  {
+    "name": "Madame Aurora Whimsylight",
+    "priority": "low",
+    "importance": 10,
+    "category": "npc"
+  },
+  {
+    "name": "Luna Lightcatcher",
+    "priority": "low",
+    "importance": 10,
+    "category": "npc"
+  },
+  {
+    "name": "Meera Gearspinner",
+    "priority": "low",
+    "importance": 10,
+    "category": "npc"
+  },
+  {
+    "name": "Fizzlewick Geargrinder",
+    "priority": "low",
+    "importance": 10,
+    "category": "npc"
+  },
+  {
+    "name": "Threx, Keeper of the Silver Stag",
+    "priority": "low",
+    "importance": 10,
+    "category": "npc"
+  },
+  {
+    "name": "Chief Scalesong",
+    "priority": "low",
+    "importance": 10,
+    "category": "npc"
+  }
+]

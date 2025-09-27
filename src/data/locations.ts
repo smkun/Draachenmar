@@ -821,6 +821,492 @@ export const locations: Location[] = [
     "creator": "Campaign Setting"
   },
 
+  // The Six Dales of the Dale Lands
+  {
+    "id": "frostdale",
+    "name": "Frostdale",
+    "type": "dale",
+    "category": "settlement",
+    "description": "Named for its chilly, snow-covered landscapes, Frostdale is known for its stunning winter beauty. The dalesfolk here have mastered the art of ice magic, which they use to preserve food and craft intricate ice sculptures. The ice festivals held in Frostdale draw visitors from far and wide.",
+    "region": "Dale Lands",
+    "population": "Medium",
+    "government": "Dale Council",
+    "image": "The Dales",
+    "specialties": ["Ice magic", "Food preservation", "Ice sculptures", "Winter festivals"],
+    "tags": ["location", "dale", "winter", "magic", "festivals"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "highdale",
+    "name": "Highdale",
+    "type": "dale",
+    "category": "settlement",
+    "description": "Highdale boasts lush, rolling hills and fertile valleys. It is the primary source of grains, fruits, and vegetables for the entire Dale Lands region. The villagers of Highdale are skilled farmers and are known for their delicious, bountiful harvests.",
+    "region": "Dale Lands",
+    "population": "Large",
+    "government": "Dale Council",
+    "image": "The Dales",
+    "specialties": ["Agriculture", "Grains", "Fruits", "Vegetables", "Farming expertise"],
+    "economy": "Primary agricultural center providing food for the entire Dale Lands region through skilled farming and abundant harvests from fertile valleys.",
+    "tags": ["location", "dale", "agriculture", "farming", "fertile"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "mid-dale",
+    "name": "Mid-dale",
+    "type": "dale",
+    "category": "settlement",
+    "description": "Mid-dale is renowned for its masterful craftsmanship. Its skilled artisans produce exquisite jewelry, pottery, and woodwork. The village of Mid-dale is a hub of trade and commerce, attracting merchants and traders from distant lands.",
+    "region": "Dale Lands",
+    "population": "Medium",
+    "government": "Dale Council",
+    "image": "The Dales",
+    "specialties": ["Craftsmanship", "Jewelry", "Pottery", "Woodwork", "Trade"],
+    "economy": "Hub of trade and commerce centered on masterful craftsmanship, producing exquisite goods that attract merchants from distant lands.",
+    "tags": ["location", "dale", "craftsmanship", "trade", "artisans"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "riverdale",
+    "name": "Riverdale",
+    "type": "dale",
+    "category": "settlement",
+    "description": "Named for the winding River Orlin that runs through it, Riverdale is a vital center for freshwater fishing. Its fishermen catch a wide variety of fish and supply the region with fresh catches daily. Riverdale's bustling markets are a testament to the importance of its fishing industry.",
+    "region": "Dale Lands",
+    "population": "Medium",
+    "government": "Dale Council",
+    "image": "The Dales",
+    "specialties": ["Freshwater fishing", "Fish markets", "River navigation", "Daily fish supply"],
+    "economy": "Vital fishing center along River Orlin providing fresh fish daily to the region through skilled fishermen and bustling markets.",
+    "tags": ["location", "dale", "fishing", "river", "markets"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "hilldale",
+    "name": "Hilldale",
+    "type": "dale",
+    "category": "settlement",
+    "description": "Hilldale is characterized by its stunning highlands and rugged terrain. The dalesfolk of Hilldale are known for their resilience and are often skilled hunters and herders. They maintain a deep connection to the natural world and its creatures.",
+    "region": "Dale Lands",
+    "population": "Medium",
+    "government": "Dale Council",
+    "image": "The Dales",
+    "specialties": ["Hunting", "Herding", "Highland survival", "Natural connections"],
+    "economy": "Highland settlement focused on hunting and herding, with resilient dalesfolk who maintain deep connections to the natural world.",
+    "tags": ["location", "dale", "highlands", "hunting", "nature"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "caerndale",
+    "name": "Caerndale",
+    "type": "dale",
+    "category": "settlement",
+    "description": "Caerndale is home to ancient, weathered fortresses and fortifications that stand as a testament to the region's history. It is known for its scholars and historians who study the land's rich past. The village's libraries house a wealth of knowledge about the Dale Lands.",
+    "region": "Dale Lands",
+    "population": "Medium",
+    "government": "Dale Council",
+    "image": "The Dales",
+    "establishments": [
+      {
+        "name": "Ancient Fortress Libraries",
+        "type": "library",
+        "description": "Weathered fortifications converted into extensive libraries housing a wealth of knowledge about Dale Lands history."
+      },
+      {
+        "name": "Scholars' Academy",
+        "type": "academy",
+        "description": "Institution where historians and scholars study the region's rich past and preserve ancient knowledge."
+      }
+    ],
+    "specialties": ["Historical research", "Ancient fortresses", "Scholarly studies", "Knowledge preservation"],
+    "economy": "Scholarly center with ancient fortresses converted to libraries, supporting historians and researchers studying the Dale Lands' rich heritage.",
+    "tags": ["location", "dale", "history", "scholars", "fortresses"],
+    "creator": "Campaign Setting"
+  },
+
+  // The Five Duchies of Avalon
+  {
+    "id": "duchy-aerlin",
+    "name": "Duchy of Aerlin",
+    "type": "duchy",
+    "category": "settlement",
+    "description": "An island duchy governed by Duke Alaric, famous for its skilled fishermen and whalers. This rugged coastal territory has developed a deep maritime culture with expertise in sustainable fishing practices and shipbuilding excellence. The duchy's weathered coastlines and experienced sailors make it a vital part of Avalon's naval strength.",
+    "region": "Kingdom of Avalon",
+    "population": "Medium",
+    "government": "Duchy under Duke Alaric",
+    "image": "Kaltfish",
+    "specialties": ["Fishing", "Whaling", "Shipbuilding", "Sustainable practices"],
+    "economy": "Maritime economy focused on skilled fishing, whaling operations, and shipbuilding excellence with commitment to sustainable practices.",
+    "tags": ["location", "duchy", "island", "maritime", "fishing"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "duchy-braeten",
+    "name": "Duchy of Braeten",
+    "type": "duchy",
+    "category": "settlement",
+    "description": "An island duchy ruled by Duke Branwen, known for its dense forests and shipbuilding expertise. This green territory maintains strong connections to elven communities and produces the finest ships in the kingdom. Duke Branwen's expertise in archery and coastal protection makes this duchy a guardian of Avalon's shores.",
+    "region": "Kingdom of Avalon",
+    "population": "Medium",
+    "government": "Duchy under Duke Branwen",
+    "image": "Everleaf Spire",
+    "specialties": ["Shipbuilding", "Forest management", "Archery", "Coastal defense"],
+    "economy": "Forest-based economy specializing in shipbuilding expertise, with sustainable forestry supporting the kingdom's finest naval vessels.",
+    "tags": ["location", "duchy", "island", "forest", "shipbuilding"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "duchy-albion",
+    "name": "Duchy of Albion",
+    "type": "duchy",
+    "category": "settlement",
+    "description": "A mainland duchy ruled by Duke Idris, serving as a strategic border region known for its fortified cities and martial traditions. This disciplined territory focuses on defense of Avalon's borders with well-trained military forces and strong fortifications. Duke Idris's stern leadership ensures the realm's security.",
+    "region": "Kingdom of Avalon",
+    "population": "Large",
+    "government": "Duchy under Duke Idris",
+    "image": "Gulanbarak - The Wall",
+    "specialties": ["Border defense", "Military training", "Fortified cities", "Martial traditions"],
+    "economy": "Military-focused economy supporting border defense through fortified cities, trained forces, and strategic positioning protecting Avalon's mainland borders.",
+    "tags": ["location", "duchy", "mainland", "military", "border"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "duchy-veringia",
+    "name": "Duchy of Veringia",
+    "type": "duchy",
+    "category": "settlement",
+    "description": "An island duchy overseen by Duchess Valeria, celebrated for its bustling ports and maritime trade expertise. This wealthy coastal region serves as Avalon's primary commercial hub with extensive trade networks. Duchess Valeria's diplomatic skills and naval strategy expertise drive the kingdom's maritime influence.",
+    "region": "Kingdom of Avalon",
+    "population": "Large",
+    "government": "Duchy under Duchess Valeria",
+    "image": "Lineton",
+    "specialties": ["Maritime trade", "Port management", "Naval strategy", "Diplomacy"],
+    "economy": "Commercial maritime economy with bustling ports driving extensive trade networks and expanding Avalon's economic influence across the seas.",
+    "tags": ["location", "duchy", "island", "trade", "ports"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "duchy-merish",
+    "name": "Duchy of Merish",
+    "type": "duchy",
+    "category": "settlement",
+    "description": "A mainland duchy governed by Duke Cedric, known for its rolling hills and majestic castles. This cultural heartland of Avalon patronizes bards and artists throughout the kingdom. Duke Cedric's charismatic leadership and promotion of creativity make this duchy the cultural center of the realm.",
+    "region": "Kingdom of Avalon",
+    "population": "Large",
+    "government": "Duchy under Duke Cedric",
+    "image": "Upsala",
+    "specialties": ["Cultural arts", "Castle architecture", "Bardic traditions", "Artistic patronage"],
+    "economy": "Cultural economy supporting bards, artists, and creative endeavors throughout Avalon, with majestic castles serving as centers of artistic patronage.",
+    "tags": ["location", "duchy", "mainland", "culture", "arts"],
+    "creator": "Campaign Setting"
+  },
+
+  // Major Geographic Features and Bodies of Water
+  {
+    "id": "dales-sea",
+    "name": "Dales Sea",
+    "type": "sea",
+    "category": "landmark",
+    "description": "A vast and bountiful body of water that borders the Dale Lands, providing maritime access and rich fishing grounds. The Dales Sea supports the coastal communities and serves as a major trade route connecting the Dale Lands to other realms across the waters.",
+    "region": "Dale Lands Coast",
+    "population": "None",
+    "government": "None",
+    "image": "The Dales",
+    "tags": ["location", "sea", "fishing", "trade", "coastal"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "river-orlin",
+    "name": "River Orlin",
+    "type": "river",
+    "category": "landmark",
+    "description": "The winding river that flows through Riverdale, serving as the lifeblood of the dale's fishing industry. River Orlin provides fresh water, transportation, and abundant fish that supply the entire Dale Lands region with daily catches.",
+    "region": "Dale Lands",
+    "population": "None",
+    "government": "None",
+    "image": "The Dales",
+    "tags": ["location", "river", "fishing", "freshwater", "transportation"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "drakes-sea",
+    "name": "Drakes Sea",
+    "type": "sea",
+    "category": "landmark",
+    "description": "A significant body of water where the River Dray flows, connecting the inland territories to the ocean. The Drakes Sea serves as an important maritime route and fishing ground, supporting coastal communities and trade between various realms.",
+    "region": "Avalon Coast",
+    "population": "None",
+    "government": "None",
+    "image": "Lineton",
+    "tags": ["location", "sea", "maritime", "trade", "coastal"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "river-dray",
+    "name": "River Dray",
+    "type": "river",
+    "category": "landmark",
+    "description": "The river that flows through Lineton and feeds into the Drakes Sea. River Dray serves as a vital waterway for trade and transportation, with its tranquil banks home to important establishments like the Starlight Haven Orphanage. The river is central to Lineton's prosperity and annual Twilight Festival.",
+    "region": "Avalon Border",
+    "population": "None",
+    "government": "None",
+    "image": "Lineton",
+    "tags": ["location", "river", "trade", "transportation", "festivals"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "shattered-sea",
+    "name": "Shattered Sea",
+    "type": "sea",
+    "category": "landmark",
+    "description": "A mystical body of water where the lost city of Parlainth returned from its mysterious disappearance. The Shattered Sea is known for its unpredictable currents and the ancient mysteries that lie beneath its waves, making it both a place of wonder and danger.",
+    "region": "Eastern Waters",
+    "population": "None",
+    "government": "None",
+    "image": "The Lost City of Eldrathis",
+    "tags": ["location", "sea", "mystical", "ancient", "dangerous"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "orc-kettles",
+    "name": "The Orc Kettles",
+    "type": "wasteland",
+    "category": "landmark",
+    "description": "The corrupted homeland where K'Hara rose to power after The Emissary's comet fragment crashed, creating The Wound. Once home to scattered orc and goblin tribes, the Kettles were transformed into a twisted wasteland where the surviving orcs were changed by the evil that leaked from the impact site. This desolate region remains a source of ongoing threats.",
+    "region": "Southern Wastelands",
+    "population": "Small",
+    "government": "Orcish Warbands",
+    "image": "Pelthorn Fortress",
+    "tags": ["location", "wasteland", "corrupted", "orc", "dangerous"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "the-wound",
+    "name": "The Wound",
+    "type": "crater",
+    "category": "landmark",
+    "description": "The great scar torn in the land when The Emissary's comet fragment crashed into the Orc Kettles over 250 years ago. The Wound spread filth and evil, infecting the soil, water, and air, and changing the surviving orcs forever. This crater remains a source of corruption and the birthplace of K'Hara's transformation.",
+    "region": "Orc Kettles",
+    "population": "None",
+    "government": "None",
+    "image": "Pelthorn Fortress",
+    "tags": ["location", "crater", "corrupted", "evil", "comet"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "shard-lands",
+    "name": "The Shard Lands",
+    "type": "wasteland",
+    "category": "landmark",
+    "description": "The corrupted southern territories that pose a constant threat to Gulanbarak and the northern realms. These twisted lands are home to horrors and monsters that the dwarven Wall was built to contain. The Shard Lands represent the ongoing legacy of corruption that spread from The Wound.",
+    "region": "Southern Wastelands",
+    "population": "Unknown",
+    "government": "None",
+    "image": "Pelthorn Fortress",
+    "tags": ["location", "wasteland", "corrupted", "dangerous", "monsters"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "bone-fields",
+    "name": "The Bone Fields",
+    "type": "battlefield",
+    "category": "landmark",
+    "description": "The site where the Dragon Conclave made their final sacrifice to halt K'Hara's advancing horde at Gulanbarak. This hallowed and tragic ground is where hundreds of dragons of every color darkened the skies in their last stand, achieving victory through their extinction. The Bone Fields serve as a monument to the dragons' sacrifice.",
+    "region": "Near Gulanbarak",
+    "population": "None",
+    "government": "None",
+    "image": "Gulanbarak - The Wall",
+    "tags": ["location", "battlefield", "sacrifice", "dragons", "memorial"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "great-vale-khartun",
+    "name": "The Great Vale of Khartun",
+    "type": "valley",
+    "category": "landmark",
+    "description": "Once renowned for rolling hills painted with Dragon Poppies, Lily Trees, and wildflowers, this valley is now grey and ruined - a desolate wasteland. The Great Vale was the site of the final stand of the Bargothian armies, where voices of fallen heroes can still be heard by those who listen carefully.",
+    "region": "Former Bargothia",
+    "population": "None",
+    "government": "None",
+    "image": "Respite",
+    "tags": ["location", "valley", "ruined", "battlefield", "memorial"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "great-fields-achenor",
+    "name": "The Great Fields of Achenor",
+    "type": "plains",
+    "category": "landmark",
+    "description": "Ancient fields that have been sown with bones and watered with the blood of fallen Bargothians. These once-fertile plains now serve as a grim reminder of the great war that brought down Shining Bargothia, their soil forever marked by the tragedy of that ancient conflict.",
+    "region": "Former Bargothia",
+    "population": "None",
+    "government": "None",
+    "image": "Respite",
+    "tags": ["location", "plains", "battlefield", "memorial", "ancient"],
+    "creator": "Campaign Setting"
+  },
+
+  // Historical and Important Cities
+  {
+    "id": "haven",
+    "name": "Haven",
+    "type": "town",
+    "category": "settlement",
+    "description": "A frontier town established in Year 306 AF near the returned lost city of Parlainth on the shores of the Shattered Sea. Haven serves as a base for adventurers exploring the ruined metropolis of Parlainth, providing supplies, lodging, and safety for those brave enough to delve into the ancient city's mysteries and dangers.",
+    "region": "Shattered Sea Coast",
+    "population": "Small",
+    "government": "Frontier Council",
+    "image": "The Lost City of Eldrathis",
+    "establishments": [
+      {
+        "name": "Adventurer's Rest Inn",
+        "type": "inn",
+        "description": "Primary lodging for explorers preparing to venture into Parlainth's ruins."
+      },
+      {
+        "name": "Ruins Outfitters",
+        "type": "shop",
+        "description": "Specialized equipment store catering to dungeon delvers and ruin explorers."
+      },
+      {
+        "name": "The Survivor's Tale Tavern",
+        "type": "tavern",
+        "description": "Where adventurers share stories and warnings about their experiences in Parlainth."
+      }
+    ],
+    "economy": "Frontier economy supporting adventurers and explorers of Parlainth through supply services, lodging, and equipment provision.",
+    "challenges": "Managing the constant influx of treasure seekers, protecting the town from dangers emerging from Parlainth ruins, and maintaining order among diverse groups of adventurers.",
+    "tags": ["location", "town", "frontier", "exploration", "adventure"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "parlainth-lost-city",
+    "name": "Parlainth: The Lost City",
+    "type": "city",
+    "category": "ruin",
+    "description": "The legendary lost city that mysteriously returned to the shores of the Shattered Sea in Year 305 AF after centuries of absence. Once a great metropolis, Parlainth now stands as a dangerous ruined city filled with ancient mysteries, forgotten magic, and untold treasures. The city's return has drawn adventurers from across the realm to explore its treacherous streets and buildings.",
+    "region": "Shattered Sea Coast",
+    "population": "Abandoned",
+    "government": "None",
+    "image": "The Lost City of Eldrathis",
+    "establishments": [
+      {
+        "name": "The Great Library of Parlainth",
+        "type": "library",
+        "description": "Ancient library containing lost knowledge and magical texts, heavily trapped and guarded by magical defenses."
+      },
+      {
+        "name": "Royal Palace Ruins",
+        "type": "palace",
+        "description": "Crumbling remains of the royal palace, rumored to contain the greatest treasures and most dangerous guardians."
+      },
+      {
+        "name": "Temple District",
+        "type": "temple complex",
+        "description": "Complex of ruined temples to forgotten gods, each presenting unique magical challenges and ancient secrets."
+      },
+      {
+        "name": "Merchant Quarter",
+        "type": "commercial district",
+        "description": "Once-bustling trade district now filled with abandoned shops, hidden vaults, and commercial mysteries."
+      }
+    ],
+    "challenges": "Extremely dangerous ruins filled with magical traps, ancient guardians, unstable magic, collapsing structures, and competing groups of treasure hunters.",
+    "tags": ["location", "ruin", "ancient", "dangerous", "exploration", "magical"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "the-stein-guild-hall",
+    "name": "The Stein: Guild Hall of the Gray Order",
+    "type": "guild hall",
+    "category": "settlement",
+    "description": "The hidden clandestine guild hall, tavern, and inn serving as headquarters for the Gray Order, seekers of Bargothia's secrets. Nestled within a concealed alcove and protected by ancient trees and enchanted wards, The Stein ('sanctuary' in old Bargothian) serves as a meeting place for the organization dedicated to exploring and preserving the lost knowledge of ancient Bargothia.",
+    "region": "Hidden Location",
+    "population": "Small",
+    "government": "Council of Eldertomes",
+    "image": "Henge",
+    "establishments": [
+      {
+        "name": "The Great Hall",
+        "type": "meeting hall",
+        "description": "Spacious hall with mystical tapestries and magical lighting where Gray Order members gather for meetings and planning expeditions."
+      },
+      {
+        "name": "The Archives",
+        "type": "library",
+        "description": "Secretive repository containing recovered Bargothian artifacts, scrolls, and research documentation maintained by the Order."
+      },
+      {
+        "name": "Sanctum Chambers",
+        "type": "research facility",
+        "description": "Private rooms where Council of Eldertomes members conduct magical research and analyze recovered Bargothian relics."
+      },
+      {
+        "name": "The Hidden Vaults",
+        "type": "storage",
+        "description": "Secure storage areas for dangerous or powerful Bargothian artifacts requiring special containment and protection."
+      }
+    ],
+    "notableFigures": [
+      {
+        "name": "Archmage Drakarn Spellbinder",
+        "race": "Human",
+        "role": "Council Leader",
+        "description": "Master of arcane arts specializing in deciphering Bargothian magical scripts and rituals, leading the Council of Eldertomes."
+      },
+      {
+        "name": "Professor Marwen Earthshaper",
+        "race": "Human",
+        "role": "Chief Archaeologist",
+        "description": "Seasoned archaeologist and geologist with profound understanding of Bargothian ruins and hidden passages."
+      },
+      {
+        "name": "Lady Vaelora Wordsmith",
+        "race": "Elf",
+        "role": "Chief Linguist",
+        "description": "Expert diplomat and linguist skilled in deciphering Bargothian texts and cross-cultural communication."
+      }
+    ],
+    "government": "Governed by the Council of Eldertomes, eight specialized members each focusing on different aspects of Bargothian lore and exploration, making decisions on expeditions and artifact preservation.",
+    "economy": "Self-sufficient organization funded through recovered treasures, scholarly patronage, and discrete influence over political and magical organizations.",
+    "challenges": "Maintaining absolute secrecy while conducting dangerous expeditions, protecting recovered artifacts from theft, and ensuring ethical exploration of Bargothian heritage.",
+    "tags": ["location", "guild", "secret", "magic", "research", "bargothia"],
+    "creator": "Campaign Setting"
+  },
+  {
+    "id": "wildengarde",
+    "name": "Wildengarde",
+    "type": "region",
+    "category": "settlement",
+    "description": "A vast wilderness region home to rangers and druids who live in harmony with nature. The Wildengarde served as sanctuary for orcish refugees fleeing the corruption of the Orc Kettles, providing aid when the kingdoms of men turned them away. This untamed land represents the balance between civilization and the wild.",
+    "region": "Wilderness Territories",
+    "population": "Small",
+    "government": "Druidic Circles",
+    "image": "Everleaf Spire",
+    "establishments": [
+      {
+        "name": "Grove of the First Tree",
+        "type": "druidic sanctuary",
+        "description": "Sacred grove where the eldest druids gather to maintain the balance of nature and guide the Wildengarde's inhabitants."
+      },
+      {
+        "name": "Ranger Outposts",
+        "type": "military installation",
+        "description": "Hidden outposts throughout the wilderness where rangers monitor the borders and provide aid to travelers and refugees."
+      },
+      {
+        "name": "Refugee Settlements",
+        "type": "camps",
+        "description": "Temporary and semi-permanent settlements where the rangers and druids have provided sanctuary for displaced peoples."
+      }
+    ],
+    "specialties": ["Nature magic", "Wilderness survival", "Refugee aid", "Border monitoring"],
+    "economy": "Subsistence economy based on harmony with nature, supplemented by aid to refugees and cooperation with ranger networks.",
+    "challenges": "Balancing protection of wilderness with aid to refugees, defending against encroachment from corrupted lands, and maintaining neutrality in political conflicts.",
+    "tags": ["location", "wilderness", "rangers", "druids", "sanctuary"],
+    "creator": "Campaign Setting"
+  },
+
   // Legacy locations (keeping a few for continuity)
   {
     "id": "respite-walled-sanctuary",
@@ -926,16 +1412,64 @@ export const locations: Location[] = [
     "creator": "Campaign Setting"
   },
   {
-    "id": "providence-badlands-settlement",
-    "name": "Providence",
-    "type": "town",
+    "id": "providence-mountain-city",
+    "name": "Providence: The Mountain City",
+    "type": "city",
     "category": "settlement",
-    "description": "A frontier settlement in the Badlands, one of the communities that have managed to establish themselves in this challenging region. Providence represents the determination of settlers to carve out a living in the hostile environment south of the Wall.",
+    "description": "A remarkable city situated deep within the treacherous Badlands, perched atop a massive mountain affording breathtaking views of the surrounding desolation. Providence is renowned as the home of the Erie, a noble order of Dragon Riders who have formed mystical bonds with the dragons of the region. These skilled warriors and their mighty dragon companions serve as both protectors and explorers of the unforgiving Badlands.",
     "region": "Badlands",
-    "population": "Small",
-    "government": "Local Leadership",
+    "population": "Medium",
+    "government": "Council of Three",
     "image": "Providence",
-    "tags": ["location", "town", "badlands", "frontier", "settlement"],
+    "establishments": [
+      {
+        "name": "Dragon Roosts",
+        "type": "dragon habitat",
+        "description": "Elaborate stone roosts constructed with protective runes where mighty dragons reside when not in flight, ensuring safety and comfort for both dragons and their riders."
+      },
+      {
+        "name": "Aerie Plaza",
+        "type": "training ground",
+        "description": "Vast open space at the center of the city where dragon riders gather for training, ceremonies, and the sacred bonding rituals with their dragon companions."
+      },
+      {
+        "name": "Stone Carved Tunnels",
+        "type": "infrastructure",
+        "description": "Intricate tunnel network connecting various districts, providing protection from harsh Badlands weather and enabling safe movement throughout the city."
+      },
+      {
+        "name": "Hanging Gardens",
+        "type": "garden",
+        "description": "Terraced gardens that counteract the harsh environment, flourishing with exotic plants and vibrant flowers as a testament to the city's commitment to sustainability and beauty."
+      },
+      {
+        "name": "The Great Hall at the Erie",
+        "type": "meeting hall",
+        "description": "Main assembly hall where murals of the Heroes can be seen, serving as the center of the Erie's activities and ceremonies."
+      },
+      {
+        "name": "Runic Workshops",
+        "type": "workshop",
+        "description": "Specialized workshops where skilled runemasters create enchanted symbols to enhance daily life and defend against the Badlands' hostile forces."
+      }
+    ],
+    "notableFigures": [
+      {
+        "name": "Council of Three",
+        "race": "Mixed",
+        "role": "Ruling Triumvirate",
+        "description": "Three individuals representing strength, wisdom, and knowledge who govern Providence with combined leadership ensuring the city's safety, prosperity, and preservation of the sacred dragon-rider bond."
+      }
+    ],
+    "specialties": ["Dragon riding", "Runic magic", "Mountain survival", "Aerial reconnaissance", "Dragon bonding"],
+    "government": "Governed by the Council of Three, a triumvirate representing the city's core values of strength, wisdom, and knowledge, ensuring unity and preserving the sacred bond between the Erie and their dragon companions.",
+    "economy": "Specialized economy based on dragon rider services, runic craftsmanship, and exploration of the Badlands for hidden treasures and ancient artifacts, with sustainable practices maintaining the hanging gardens.",
+    "challenges": "Maintaining the mystical dragon bonds, defending against Badlands threats, managing the harsh mountain environment, training new dragon riders, and exploring dangerous territories while protecting the city.",
+    "culture": {
+      "festivals": ["Dragon Festivals with aerial displays and demonstrations of dragon-rider bonds"],
+      "traditions": ["Sacred bonding rituals between riders and dragons", "Runic enhancement of daily life", "Aerial exploration missions"]
+    },
+    "tags": ["location", "city", "dragons", "mountain", "badlands", "riders"],
     "creator": "Campaign Setting"
   },
   {

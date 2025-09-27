@@ -1,0 +1,402 @@
+{
+  "critical": [
+    {
+      "characterId": "aldrik-thunderfoot",
+      "name": "Captain Aldrik Thunderfoot",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 185
+    },
+    {
+      "characterId": "brondar-stormfist",
+      "name": "Headmaster Brondar Stormfist",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 185
+    },
+    {
+      "characterId": "ellgrid-earthforge",
+      "name": "King Ellgrid Earthforge",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 180
+    },
+    {
+      "characterId": "duke-branwen-braeten",
+      "name": "Duke Branwen of Braeten",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 160
+    },
+    {
+      "characterId": "queen-yurta-frost",
+      "name": "Queen Yurta",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 160
+    },
+    {
+      "characterId": "elowen-windwhisper",
+      "name": "High Counselor Elowen Windwhisper",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 135
+    },
+    {
+      "characterId": "rathgar-stoneforge-ironhammer",
+      "name": "High King Rathgar \"Stoneforge\" Ironhammer",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 130
+    },
+    {
+      "characterId": "bulgad-grimmantle",
+      "name": "King Bulgad Grimmantle",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 130
+    },
+    {
+      "characterId": "naser-graybeard",
+      "name": "King Naser Graybeard",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 130
+    },
+    {
+      "characterId": "baelgin-ironhand",
+      "name": "King Baelgin Ironhand",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 130
+    },
+    {
+      "characterId": "gromli-steelarm",
+      "name": "King Gromli Steelarm",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 130
+    },
+    {
+      "characterId": "velog-stormshield",
+      "name": "King Velog Stormshield",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 130
+    },
+    {
+      "characterId": "hjalmar-anvilheart",
+      "name": "King Hjalmar Anvilheart",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 130
+    },
+    {
+      "characterId": "king-arie-avalon",
+      "name": "King Arie of Avalon",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 125
+    },
+    {
+      "characterId": "cirilia-moonshadow",
+      "name": "Queen Cirilia Moonshadow",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 110
+    },
+    {
+      "characterId": "aldus-byrne",
+      "name": "Aldus Byrne",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "player",
+      "importance": 110
+    },
+    {
+      "characterId": "vortex-steamweaver",
+      "name": "Dr. Vortex Steamweaver",
+      "hasImage": false,
+      "priority": "critical",
+      "category": "npc",
+      "importance": 110
+    }
+  ],
+  "high": [
+    {
+      "characterId": "thaldir-stonebinder",
+      "name": "Magister Thaldir Stonebinder",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 95
+    },
+    {
+      "characterId": "thaldor-stoneguard",
+      "name": "Headmaster Thaldor Stoneguard",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 85
+    },
+    {
+      "characterId": "faelar-starsight",
+      "name": "Headmaster Faelar Starsight",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 85
+    },
+    {
+      "characterId": "borin-flamebeard",
+      "name": "Master Borin Flamebeard",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 80
+    },
+    {
+      "characterId": "duchess-valeria-veringia",
+      "name": "Duchess Valeria of Veringia",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 75
+    },
+    {
+      "characterId": "elysor-spellscribe",
+      "name": "Master Tomekeeper Elysor Spellscribe",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 70
+    },
+    {
+      "characterId": "garnar-lightbearer",
+      "name": "High Priest Garnar Lightbearer",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 60
+    },
+    {
+      "characterId": "lorna-wavebreaker",
+      "name": "Captain Lorna Wavebreaker",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 60
+    },
+    {
+      "characterId": "lysandra-moonshade",
+      "name": "Headmistress Lysandra Moonshade",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 60
+    },
+    {
+      "characterId": "keryth-aedithas",
+      "name": "Keryth Aedithas",
+      "hasImage": false,
+      "priority": "high",
+      "category": "player",
+      "importance": 60
+    },
+    {
+      "characterId": "alric-timekeeper",
+      "name": "Master Alric Timekeeper",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 60
+    },
+    {
+      "characterId": "elara-moonlatch",
+      "name": "Lady Elara Moonlatch",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 60
+    },
+    {
+      "characterId": "high-priestess-seri",
+      "name": "High Priestess Seri",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 60
+    },
+    {
+      "characterId": "master-elrin-academy",
+      "name": "Master Elrin",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 60
+    },
+    {
+      "characterId": "baelor-merchant-prince",
+      "name": "Baelor, the Merchant Prince",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 60
+    },
+    {
+      "characterId": "yorandis",
+      "name": "Yorandis the Archmage",
+      "hasImage": false,
+      "priority": "high",
+      "category": "npc",
+      "importance": 60
+    }
+  ],
+  "medium": [
+    {
+      "characterId": "mirna-stonereader",
+      "name": "Elder Mirna Stonereader",
+      "hasImage": false,
+      "priority": "medium",
+      "category": "npc",
+      "importance": 55
+    },
+    {
+      "characterId": "stella-starshaper",
+      "name": "Professor Stella Starshaper",
+      "hasImage": false,
+      "priority": "medium",
+      "category": "npc",
+      "importance": 35
+    }
+  ],
+  "low": [
+    {
+      "characterId": "lysander-starreach",
+      "name": "Astronomer Lysander Starreach",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 20
+    },
+    {
+      "characterId": "faela-silverquill",
+      "name": "Lorekeeper Faela Silverquill",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 10
+    },
+    {
+      "characterId": "elandria-heartwhisper",
+      "name": "Headmistress Elandria Heartwhisper",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 10
+    },
+    {
+      "characterId": "nyble-ironsprocket",
+      "name": "Nyble Ironsprocket",
+      "hasImage": false,
+      "priority": "low",
+      "category": "player",
+      "importance": 10
+    },
+    {
+      "characterId": "graal-onetusk",
+      "name": "Graal Onetusk",
+      "hasImage": false,
+      "priority": "low",
+      "category": "player",
+      "importance": 10
+    },
+    {
+      "characterId": "zander-lex",
+      "name": "Zander Lex",
+      "hasImage": false,
+      "priority": "low",
+      "category": "player",
+      "importance": 10
+    },
+    {
+      "characterId": "beryl-mcdoyle",
+      "name": "Beryl McDoyle",
+      "hasImage": false,
+      "priority": "low",
+      "category": "player",
+      "importance": 10
+    },
+    {
+      "characterId": "glim-sparkwhistle",
+      "name": "Glim Sparkwhistle",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 10
+    },
+    {
+      "characterId": "aurora-whimsylight",
+      "name": "Madame Aurora Whimsylight",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 10
+    },
+    {
+      "characterId": "luna-lightcatcher",
+      "name": "Luna Lightcatcher",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 10
+    },
+    {
+      "characterId": "meera-gearspinner",
+      "name": "Meera Gearspinner",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 10
+    },
+    {
+      "characterId": "fizzlewick-geargrinder",
+      "name": "Fizzlewick Geargrinder",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 10
+    },
+    {
+      "characterId": "threx-silver-stag",
+      "name": "Threx, Keeper of the Silver Stag",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 10
+    },
+    {
+      "characterId": "chief-scalesong",
+      "name": "Chief Scalesong",
+      "hasImage": false,
+      "priority": "low",
+      "category": "npc",
+      "importance": 10
+    }
+  ]
+}

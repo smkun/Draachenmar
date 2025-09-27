@@ -537,8 +537,7 @@ export const characters: Character[] = [
     "image": "Glim Sparkwhistle Grand Artificer of Kronus",
     "creator": "Campaign Setting",
     "tags": ["character", "leader", "gnome", "kronus", "artificer", "clockwork", "engineering"]
-  },
-  {
+  },  {
     "id": "tinkernock-steambeard",
     "name": "Admiral Tinkernock Steambeard",
     "race": "Gnome",
@@ -680,8 +679,7 @@ export const characters: Character[] = [
     "image": "King Aric of Avalon",
     "creator": "Campaign Setting",
     "tags": ["character", "king", "human", "avalon", "maritime", "ruler", "nobility"]
-  },
-  {
+  },  {
     "id": "duke-alaric-aerlin",
     "name": "Duke Alaric of Aerlin",
     "race": "Human",
@@ -703,8 +701,7 @@ export const characters: Character[] = [
     "image": "Duke Branwen Duchy of Braeten",
     "creator": "Campaign Setting",
     "tags": ["character", "duke", "human", "avalon", "braeten", "shipbuilding", "forestry", "craftsmanship"]
-  },
-  {
+  },  {
     "id": "duke-idris-albion",
     "name": "Duke Idris of Albion",
     "race": "Human",
@@ -726,8 +723,7 @@ export const characters: Character[] = [
     "image": "Dutchess Valeria of Veringia",
     "creator": "Campaign Setting",
     "tags": ["character", "duchess", "human", "avalon", "veringia", "trade", "diplomacy", "commerce"]
-  },
-  {
+  },  {
     "id": "duke-cedric-merish",
     "name": "Duke Cedric of Merish",
     "race": "Human",
@@ -820,8 +816,7 @@ export const characters: Character[] = [
     "image": "Lord Commander Drakar Clawforge",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "dragonborn", "fighter"]
-  },
-  {
+  },  {
     "id": "selene-scalewarden",
     "name": "High Strategos Selene Scalewarden",
     "race": "Dragonborn",
@@ -831,8 +826,7 @@ export const characters: Character[] = [
     "image": "High Strategos Selene Scalewarden",
     "creator": "Campaign Setting",
     "tags": ["character", "npc", "dragonborn", "fighter"]
-  },
-  {
+  },  {
     "id": "vaelis-blackfang",
     "name": "Shadowmistress Vaelis Blackfang",
     "race": "Drow",
@@ -919,6 +913,87 @@ export const characters: Character[] = [
     "creator": "Campaign Setting",
     "tags": ["character", "queen", "frost-giant", "frozen-vilos", "ice-magic", "sorcerer", "ruler", "giant"]
   },
+
+  // Gray Order - Council of Eldertomes  {
+    "id": "drakarn-spellbinder",
+    "name": "Archmage Drakarn Spellbinder",
+    "race": "Human",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Archmage Drakarn Spellbinder is a master of arcane arts and leader within the Gray Order's Council of Eldertomes. His expertise in magical scripts and spellbinding makes him one of the most powerful wizards in the realm. Known for his vast library of ancient tomes and his ability to unravel the most complex magical mysteries, he serves as both scholar and protector of mystical knowledge.",
+    "image": "Archmage Drakarn Spellbinder",
+    "creator": "Campaign Setting",
+    "tags": ["character", "npc", "human", "wizard"]
+  },  {
+    "id": "marwen-earthshaper",
+    "name": "Professor Marwen Earthshaper",
+    "race": "Human",
+    "class": "Wizard/Scholar",
+    "category": "npc",
+    "description": "Professor Marwen Earthshaper is a renowned scholar and member of the Gray Order's Council, specializing in archaeology, geology, and earth magic. His research into ancient civilizations and geological formations has uncovered many secrets of the past. His ability to shape stone and earth makes him invaluable in both academic research and practical applications of magical knowledge.",
+    "image": "Professor Marwen Earthshaper",
+    "creator": "Campaign Setting",
+    "tags": ["character", "npc", "human", "wizard"]
+  },  {
+    "id": "vaelora-wordsmith",
+    "name": "Lady Vaelora Wordsmith",
+    "race": "Elf",
+    "class": "Bard/Scholar",
+    "category": "npc",
+    "description": "Lady Vaelora Wordsmith is an eloquent elven noble and master of written and spoken word. Her skills in diplomacy, linguistics, and literary arts make her an invaluable advisor and cultural ambassador. She has authored several influential treatises on inter-cultural communication and serves as a bridge between different races and nations through her gift for languages and storytelling.",
+    "image": "Lady Vaelora Wordsmith",
+    "creator": "Campaign Setting",
+    "tags": ["character", "npc", "elf", "bard"]
+  },  {
+    "id": "thalgrim-forgeheart",
+    "name": "Master Thalgrim Forgeheart",
+    "race": "Dwarf",
+    "class": "Artificer",
+    "category": "npc",
+    "description": "Master Thalgrim Forgeheart is a dwarven master craftsman whose skill at the forge is legendary throughout the realm. His ability to create magical items and weapons of extraordinary quality has made him one of the most sought-after artificers. His workshop produces items that are not only functional but works of art, combining traditional dwarven craftsmanship with innovative magical techniques.",
+    "image": "Master Thalgrim Forgeheart",
+    "creator": "Campaign Setting",
+    "tags": ["character", "npc", "dwarf", "artificer"]
+  },  {
+    "id": "lirael-starwhisper",
+    "name": "High Priestess Lirael Starwhisper",
+    "race": "Elf",
+    "class": "Cleric",
+    "category": "npc",
+    "description": "High Priestess Lirael Starwhisper is a devoted elven cleric who serves as a spiritual leader and divine conduit. Her connection to celestial powers and her wisdom in matters of faith make her a beacon of hope in troubled times. Known for her healing abilities and prophetic insights, she provides guidance to both common folk and nobles who seek divine intervention or spiritual counsel.",
+    "image": "High Priestess Lirael Starwhisper",
+    "creator": "Campaign Setting",
+    "tags": ["character", "npc", "elf", "cleric"]
+  },  {
+    "id": "elandra-tomekeeper",
+    "name": "Scribe Elandra Tomekeeper",
+    "race": "Human",
+    "class": "Scholar",
+    "category": "npc",
+    "description": "Scribe Elandra Tomekeeper is a meticulous keeper of records and ancient knowledge within the Gray Order. Her exceptional skill in copying, preserving, and organizing magical texts has made her indispensable to the scholarly community. She possesses an encyclopedic knowledge of the locations and contents of thousands of magical documents, making her a living index of arcane knowledge.",
+    "image": "Scribe Elandra Tomekeeper",
+    "creator": "Campaign Setting",
+    "tags": ["character", "npc", "human", "scholar"]
+  },  {
+    "id": "faelan-wildshadow",
+    "name": "Ranger Faelan Wildshadow",
+    "race": "Half-Elf",
+    "class": "Ranger",
+    "category": "npc",
+    "description": "Ranger Faelan Wildshadow is a skilled tracker and wilderness expert who serves as a guardian of the natural world. His half-elven heritage grants him keen senses and an intuitive understanding of both civilized and wild lands. Known for his ability to move unseen through any terrain and his expertise in hunting dangerous creatures, he serves as both guide and protector for those who venture into untamed regions.",
+    "image": "Ranger Faelan Wildshadow",
+    "creator": "Campaign Setting",
+    "tags": ["character", "npc", "half-elf", "ranger"]
+  },  {
+    "id": "elysa-truthseeker",
+    "name": "Mistress Elysa Truthseeker",
+    "race": "Human",
+    "class": "Inquisitor/Cleric",
+    "category": "npc",
+    "description": "Mistress Elysa Truthseeker is a dedicated inquisitor whose mission is to uncover hidden truths and expose deception. Her divine abilities allow her to see through lies and illusions, making her a formidable investigator of corruption and heresy. Her unwavering commitment to justice and truth has made her both feared by wrongdoers and respected by those who value honesty and integrity.",
+    "image": "Mistress Elysa Truthseeker",
+    "creator": "Campaign Setting",
+    "tags": ["character", "npc", "human", "inquisitor"]
 
   // Gray Order - Council of Eldertomes
   {

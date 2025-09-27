@@ -43,7 +43,7 @@ export interface Location {
   id: string;
   name: string;
   title?: string;
-  type: 'city' | 'town' | 'village' | 'fortress' | 'landmark' | 'region' | 'dungeon' | 'forest' | 'kingdom' | 'realm' | 'island';
+  type: 'city' | 'town' | 'village' | 'fortress' | 'landmark' | 'region' | 'dungeon' | 'forest' | 'kingdom' | 'realm' | 'island' | 'dale' | 'duchy' | 'sea' | 'river' | 'crater' | 'battlefield' | 'valley' | 'plains' | 'wasteland' | 'guild hall';
   category?: string;
   region?: string;
   population?: string;

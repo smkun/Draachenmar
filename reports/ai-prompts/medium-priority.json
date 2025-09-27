@@ -1,0 +1,22 @@
+[
+  {
+    "characterId": "mirna-stonereader",
+    "name": "Elder Mirna Stonereader",
+    "description": "Elder Mirna Stonereader is a powerful seeress in Runicar Spire. She can read the future in the patterns of stone and crystal, providing guidance to both the royal family and common folk. Her prophecies have saved Gulanbarak from disaster multiple times.",
+    "race": "Dwarf",
+    "class": "Cleric/Diviner",
+    "priority": "medium",
+    "aiPrompt": "Portrait of Elder Mirna Stonereader, a dwarf cleric/diviner, stocky build, thick beard, braided hair, sturdy features, often wearing metal armor or rich fabrics, rich clothing, jewelry, regal bearing, symbols of status and wealth, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  },
+  {
+    "characterId": "stella-starshaper",
+    "name": "Professor Stella Starshaper",
+    "description": "Professor Stella Starshaper is the academy's leading expert in celestial magic and astronomical studies. Her research into the magical properties of stars and celestial bodies has revolutionized gnomish understanding of cosmic forces. She teaches advanced courses in stellar manipulation and celestial navigation.",
+    "race": "Gnome",
+    "class": "Wizard",
+    "priority": "medium",
+    "aiPrompt": "Portrait of Professor Stella Starshaper, a gnome wizard, small stature, curious expression, bright eyes, often with mechanical or magical accessories, robes adorned with arcane symbols, holding staff or spellbook, scholarly appearance, magical aura, arcane symbols, staff or wand, mystical appearance, medieval fantasy aesthetic, detailed facial features, fantasy clothing and armor, high quality, 512x512 resolution, centered portrait, clean background",
+    "stylePrompt": "fantasy art, digital painting, portrait style, D&D character art, masterpiece, best quality, detailed, professional digital art, consistent fantasy art style matching existing character portraits"
+  }
+]

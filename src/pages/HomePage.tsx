@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { TrendingUp, BookOpen, Crown } from 'lucide-react';
 import { getStatistics } from '../data';
+import { ContentStats } from '../components/ContentStats';
 
 export function HomePage() {
   const stats = getStatistics();
@@ -77,47 +78,9 @@ export function HomePage() {
         </div>
       </section>
 
-      {/* Statistics Overview */}
+      {/* Enhanced Statistics Overview */}
       <section className="py-6">
-        <div className="text-center mb-6">
-          <h2 className="text-2xl font-fantasy font-semibold text-amber-800 dark:text-amber-50 mb-2">
-            Compendium Overview
-          </h2>
-          <p className="text-amber-600 dark:text-amber-50 font-serif">
-            A comprehensive collection of campaign content
-          </p>
-        </div>
-
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-7 gap-4 mb-8">
-          <div className="fantasy-card p-4 text-center">
-            <div className="text-2xl font-bold text-amber-800 dark:text-amber-50">{stats.total}</div>
-            <div className="text-sm text-amber-600 dark:text-amber-50">Total Entries</div>
-          </div>
-          <div className="fantasy-card p-4 text-center">
-            <div className="text-2xl font-bold text-blue-600">{stats.characters}</div>
-            <div className="text-sm text-amber-600 dark:text-amber-50">People</div>
-          </div>
-          <div className="fantasy-card p-4 text-center">
-            <div className="text-2xl font-bold text-green-600">{stats.locations}</div>
-            <div className="text-sm text-amber-600 dark:text-amber-50">Places</div>
-          </div>
-          <div className="fantasy-card p-4 text-center">
-            <div className="text-2xl font-bold text-purple-600">{stats.items}</div>
-            <div className="text-sm text-amber-600 dark:text-amber-50">Items</div>
-          </div>
-          <div className="fantasy-card p-4 text-center">
-            <div className="text-2xl font-bold text-orange-600">{stats.adventures}</div>
-            <div className="text-sm text-amber-600 dark:text-amber-50">Adventures</div>
-          </div>
-          <div className="fantasy-card p-4 text-center">
-            <div className="text-2xl font-bold text-red-600">{stats.organizations}</div>
-            <div className="text-sm text-amber-600 dark:text-amber-50">Organizations</div>
-          </div>
-          <div className="fantasy-card p-4 text-center">
-            <div className="text-2xl font-bold text-yellow-600">{stats.deities}</div>
-            <div className="text-sm text-amber-600 dark:text-amber-50">Pantheons</div>
-          </div>
-        </div>
+        <ContentStats showDetails={true} />
       </section>
 
 
