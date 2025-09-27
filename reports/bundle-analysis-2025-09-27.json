@@ -1,0 +1,5375 @@
+{
+  "timestamp": "2025-09-27T13:19:51.568Z",
+  "score": 70,
+  "results": {
+    "javascript": {
+      "files": [
+        {
+          "name": "index-f7a5c6c0.js",
+          "path": "assets/index-f7a5c6c0.js",
+          "size": 390939,
+          "formattedSize": "381.78 KB",
+          "gzipSize": 136829
+        }
+      ],
+      "totalSize": 390939,
+      "gzipSize": 136829
+    },
+    "css": {
+      "files": [
+        {
+          "name": "index-dd228919.css",
+          "path": "assets/index-dd228919.css",
+          "size": 45913,
+          "formattedSize": "44.84 KB",
+          "gzipSize": 16070
+        }
+      ],
+      "totalSize": 45913,
+      "gzipSize": 16070
+    },
+    "images": {
+      "files": [
+        {
+          "name": "Everleaf Spire.png",
+          "path": "images/locations/Everleaf Spire.png",
+          "size": 2460828,
+          "formattedSize": "2.35 MB",
+          "gzipSize": 2460828
+        },
+        {
+          "name": "Uxmal the Jungle City.png",
+          "path": "images/characters/Uxmal the Jungle City.png",
+          "size": 2408045,
+          "formattedSize": "2.3 MB",
+          "gzipSize": 2408045
+        },
+        {
+          "name": "Kronus the Clockwork City.png",
+          "path": "images/characters/Kronus the Clockwork City.png",
+          "size": 2369524,
+          "formattedSize": "2.26 MB",
+          "gzipSize": 2369524
+        },
+        {
+          "name": "the Stein.png",
+          "path": "images/characters/the Stein.png",
+          "size": 2346485,
+          "formattedSize": "2.24 MB",
+          "gzipSize": 2346485
+        },
+        {
+          "name": "the Primordial Concordant.png",
+          "path": "images/deities/the Primordial Concordant.png",
+          "size": 2289431,
+          "formattedSize": "2.18 MB",
+          "gzipSize": 2289431
+        },
+        {
+          "name": "Grand Master Dragonrider  Kaelin Stormwing.png",
+          "path": "images/characters/Grand Master Dragonrider  Kaelin Stormwing.png",
+          "size": 2286204,
+          "formattedSize": "2.18 MB",
+          "gzipSize": 2286204
+        },
+        {
+          "name": "The Dales.png",
+          "path": "images/locations/The Dales.png",
+          "size": 2194251,
+          "formattedSize": "2.09 MB",
+          "gzipSize": 2194251
+        },
+        {
+          "name": "Lord Commander Drakar Clawforge.png",
+          "path": "images/characters/Lord Commander Drakar Clawforge.png",
+          "size": 2134742,
+          "formattedSize": "2.04 MB",
+          "gzipSize": 2134742
+        },
+        {
+          "name": "Brother Cedric.png",
+          "path": "images/characters/Brother Cedric.png",
+          "size": 2125549,
+          "formattedSize": "2.03 MB",
+          "gzipSize": 2125549
+        },
+        {
+          "name": "Mistress Elysa Truthseeker.png",
+          "path": "images/characters/Mistress Elysa Truthseeker.png",
+          "size": 2124486,
+          "formattedSize": "2.03 MB",
+          "gzipSize": 2124486
+        },
+        {
+          "name": "King Aric of Avalon.png",
+          "path": "images/characters/King Aric of Avalon.png",
+          "size": 2100740,
+          "formattedSize": "2 MB",
+          "gzipSize": 2100740
+        },
+        {
+          "name": "Map of Haven.png",
+          "path": "images/characters/Map of Haven.png",
+          "size": 2078562,
+          "formattedSize": "1.98 MB",
+          "gzipSize": 2078562
+        },
+        {
+          "name": "Prince Balthyr Ironhammer.png",
+          "path": "images/characters/Prince Balthyr Ironhammer.png",
+          "size": 2035335,
+          "formattedSize": "1.94 MB",
+          "gzipSize": 2035335
+        },
+        {
+          "name": "Ice Lotus.png",
+          "path": "images/characters/Ice Lotus.png",
+          "size": 2033493,
+          "formattedSize": "1.94 MB",
+          "gzipSize": 2033493
+        },
+        {
+          "name": "The Wall - Northern Entry.png",
+          "path": "images/characters/The Wall - Northern Entry.png",
+          "size": 2026264,
+          "formattedSize": "1.93 MB",
+          "gzipSize": 2026264
+        },
+        {
+          "name": "Maelin Windrider.png",
+          "path": "images/characters/Maelin Windrider.png",
+          "size": 1989836,
+          "formattedSize": "1.9 MB",
+          "gzipSize": 1989836
+        },
+        {
+          "name": "The Wall - Section of Souther Face.png",
+          "path": "images/characters/The Wall - Section of Souther Face.png",
+          "size": 1917215,
+          "formattedSize": "1.83 MB",
+          "gzipSize": 1917215
+        },
+        {
+          "name": "Gulanbarak - The Wall.png",
+          "path": "images/locations/Gulanbarak - The Wall.png",
+          "size": 1917215,
+          "formattedSize": "1.83 MB",
+          "gzipSize": 1917215
+        },
+        {
+          "name": "The Court of Seasons - Deities of the Changing Year.png",
+          "path": "images/deities/The Court of Seasons - Deities of the Changing Year.png",
+          "size": 1889024,
+          "formattedSize": "1.8 MB",
+          "gzipSize": 1889024
+        },
+        {
+          "name": "the Astral Triad.png",
+          "path": "images/deities/the Astral Triad.png",
+          "size": 1887463,
+          "formattedSize": "1.8 MB",
+          "gzipSize": 1887463
+        },
+        {
+          "name": "Graldin Thistlewood.png",
+          "path": "images/characters/Graldin Thistlewood.png",
+          "size": 1879020,
+          "formattedSize": "1.79 MB",
+          "gzipSize": 1879020
+        },
+        {
+          "name": "City of Respite.png",
+          "path": "images/characters/City of Respite.png",
+          "size": 1857442,
+          "formattedSize": "1.77 MB",
+          "gzipSize": 1857442
+        },
+        {
+          "name": "Upsala - Fishing Town.png",
+          "path": "images/characters/Upsala - Fishing Town.png",
+          "size": 1787016,
+          "formattedSize": "1.7 MB",
+          "gzipSize": 1787016
+        },
+        {
+          "name": "Elder Shellforge.png",
+          "path": "images/characters/Elder Shellforge.png",
+          "size": 1786861,
+          "formattedSize": "1.7 MB",
+          "gzipSize": 1786861
+        },
+        {
+          "name": "High Scholar Thandor Stoneforge.png",
+          "path": "images/characters/High Scholar Thandor Stoneforge.png",
+          "size": 1779227,
+          "formattedSize": "1.7 MB",
+          "gzipSize": 1779227
+        },
+        {
+          "name": "Admiral Tinkernock Steambeard.png",
+          "path": "images/characters/Admiral Tinkernock Steambeard.png",
+          "size": 1747640,
+          "formattedSize": "1.67 MB",
+          "gzipSize": 1747640
+        },
+        {
+          "name": "Henge Market.png",
+          "path": "images/locations/Henge Market.png",
+          "size": 1746137,
+          "formattedSize": "1.67 MB",
+          "gzipSize": 1746137
+        },
+        {
+          "name": "Draconis Ignis.png",
+          "path": "images/deities/Draconis Ignis.png",
+          "size": 1724737,
+          "formattedSize": "1.64 MB",
+          "gzipSize": 1724737
+        },
+        {
+          "name": "Elara Hearhtstone.png",
+          "path": "images/characters/Elara Hearhtstone.png",
+          "size": 1713399,
+          "formattedSize": "1.63 MB",
+          "gzipSize": 1713399
+        },
+        {
+          "name": "Glim Sparkwhistle Grand Artificer of Kronus.png",
+          "path": "images/characters/Glim Sparkwhistle Grand Artificer of Kronus.png",
+          "size": 1711633,
+          "formattedSize": "1.63 MB",
+          "gzipSize": 1711633
+        },
+        {
+          "name": "Kaltfish Capital of Vandrhaf.png",
+          "path": "images/characters/Kaltfish Capital of Vandrhaf.png",
+          "size": 1708657,
+          "formattedSize": "1.63 MB",
+          "gzipSize": 1708657
+        },
+        {
+          "name": "Archmagus Sylaria Frostshaper.png",
+          "path": "images/characters/Archmagus Sylaria Frostshaper.png",
+          "size": 1685399,
+          "formattedSize": "1.61 MB",
+          "gzipSize": 1685399
+        },
+        {
+          "name": "Spellweaver Lyria Stormrider.png",
+          "path": "images/characters/Spellweaver Lyria Stormrider.png",
+          "size": 1680804,
+          "formattedSize": "1.6 MB",
+          "gzipSize": 1680804
+        },
+        {
+          "name": "Captain Thalorin Dawnblade.png",
+          "path": "images/characters/Captain Thalorin Dawnblade.png",
+          "size": 1667219,
+          "formattedSize": "1.59 MB",
+          "gzipSize": 1667219
+        },
+        {
+          "name": "The Zephyr Serpent - Flagship.png",
+          "path": "images/characters/The Zephyr Serpent - Flagship.png",
+          "size": 1662008,
+          "formattedSize": "1.59 MB",
+          "gzipSize": 1662008
+        },
+        {
+          "name": "Master Enchanter Dorian Shadowcloak.png",
+          "path": "images/characters/Master Enchanter Dorian Shadowcloak.png",
+          "size": 1655520,
+          "formattedSize": "1.58 MB",
+          "gzipSize": 1655520
+        },
+        {
+          "name": "Mayor Elandra Stonehaven.png",
+          "path": "images/characters/Mayor Elandra Stonehaven.png",
+          "size": 1649341,
+          "formattedSize": "1.57 MB",
+          "gzipSize": 1649341
+        },
+        {
+          "name": "Daxon Cogtwist.png",
+          "path": "images/characters/Daxon Cogtwist.png",
+          "size": 1621947,
+          "formattedSize": "1.55 MB",
+          "gzipSize": 1621947
+        },
+        {
+          "name": "The Lost City of Eldrathis.png",
+          "path": "images/locations/The Lost City of Eldrathis.png",
+          "size": 1621303,
+          "formattedSize": "1.55 MB",
+          "gzipSize": 1621303
+        },
+        {
+          "name": "Professor Marwen Earthshaper.png",
+          "path": "images/characters/Professor Marwen Earthshaper.png",
+          "size": 1604145,
+          "formattedSize": "1.53 MB",
+          "gzipSize": 1604145
+        },
+        {
+          "name": "High Priestess Lirael Starwhisper.png",
+          "path": "images/characters/High Priestess Lirael Starwhisper.png",
+          "size": 1582484,
+          "formattedSize": "1.51 MB",
+          "gzipSize": 1582484
+        },
+        {
+          "name": "Yurta Queen of Frost.png",
+          "path": "images/characters/Yurta Queen of Frost.png",
+          "size": 1581637,
+          "formattedSize": "1.51 MB",
+          "gzipSize": 1581637
+        },
+        {
+          "name": "Chief Scalesong of the Lizardfolk.png",
+          "path": "images/characters/Chief Scalesong of the Lizardfolk.png",
+          "size": 1571518,
+          "formattedSize": "1.5 MB",
+          "gzipSize": 1571518
+        },
+        {
+          "name": "Archmage Elara Fireweaver.png",
+          "path": "images/characters/Archmage Elara Fireweaver.png",
+          "size": 1558711,
+          "formattedSize": "1.49 MB",
+          "gzipSize": 1558711
+        },
+        {
+          "name": "Chancellor Nimbus Gearturner.png",
+          "path": "images/characters/Chancellor Nimbus Gearturner.png",
+          "size": 1516190,
+          "formattedSize": "1.45 MB",
+          "gzipSize": 1516190
+        },
+        {
+          "name": "Village of Haven.png",
+          "path": "images/characters/Village of Haven.png",
+          "size": 1515010,
+          "formattedSize": "1.44 MB",
+          "gzipSize": 1515010
+        },
+        {
+          "name": "Aurelia Windshaper.png",
+          "path": "images/characters/Aurelia Windshaper.png",
+          "size": 1506825,
+          "formattedSize": "1.44 MB",
+          "gzipSize": 1506825
+        },
+        {
+          "name": "wheaton-map.webp",
+          "path": "images/maps/wheaton-map.webp",
+          "size": 1506307,
+          "formattedSize": "1.44 MB",
+          "gzipSize": 1506307
+        },
+        {
+          "name": "Captain Ilyra.png",
+          "path": "images/characters/Captain Ilyra.png",
+          "size": 1506254,
+          "formattedSize": "1.44 MB",
+          "gzipSize": 1506254
+        },
+        {
+          "name": "Shadowmistress Vaelis Blackfang.png",
+          "path": "images/characters/Shadowmistress Vaelis Blackfang.png",
+          "size": 1498668,
+          "formattedSize": "1.43 MB",
+          "gzipSize": 1498668
+        },
+        {
+          "name": "Archmage Drakarn Spellbinder.png",
+          "path": "images/characters/Archmage Drakarn Spellbinder.png",
+          "size": 1494187,
+          "formattedSize": "1.42 MB",
+          "gzipSize": 1494187
+        },
+        {
+          "name": "Master Thalgrim Forgeheart.png",
+          "path": "images/characters/Master Thalgrim Forgeheart.png",
+          "size": 1484643,
+          "formattedSize": "1.42 MB",
+          "gzipSize": 1484643
+        },
+        {
+          "name": "Archdruid Lirael Sunshadow.png",
+          "path": "images/characters/Archdruid Lirael Sunshadow.png",
+          "size": 1426366,
+          "formattedSize": "1.36 MB",
+          "gzipSize": 1426366
+        },
+        {
+          "name": "High Strategos Selene Scalewarden.png",
+          "path": "images/characters/High Strategos Selene Scalewarden.png",
+          "size": 1419538,
+          "formattedSize": "1.35 MB",
+          "gzipSize": 1419538
+        },
+        {
+          "name": "Uxmal Volcano - Tyravos v2.png",
+          "path": "images/characters/Uxmal Volcano - Tyravos v2.png",
+          "size": 1409364,
+          "formattedSize": "1.34 MB",
+          "gzipSize": 1409364
+        },
+        {
+          "name": "Rividen Stonebough.png",
+          "path": "images/characters/Rividen Stonebough.png",
+          "size": 1409193,
+          "formattedSize": "1.34 MB",
+          "gzipSize": 1409193
+        },
+        {
+          "name": "Master Ranger Thandor Wildtracker.png",
+          "path": "images/characters/Master Ranger Thandor Wildtracker.png",
+          "size": 1403894,
+          "formattedSize": "1.34 MB",
+          "gzipSize": 1403894
+        },
+        {
+          "name": "Aurelium the Lost City.png",
+          "path": "images/characters/Aurelium the Lost City.png",
+          "size": 1397001,
+          "formattedSize": "1.33 MB",
+          "gzipSize": 1397001
+        },
+        {
+          "name": "Guardian Rolkar.png",
+          "path": "images/characters/Guardian Rolkar.png",
+          "size": 1379966,
+          "formattedSize": "1.32 MB",
+          "gzipSize": 1379966
+        },
+        {
+          "name": "Ambassador Galadriel Starfall.png",
+          "path": "images/characters/Ambassador Galadriel Starfall.png",
+          "size": 1377301,
+          "formattedSize": "1.31 MB",
+          "gzipSize": 1377301
+        },
+        {
+          "name": "Dutchess Valeria of Veringia.png",
+          "path": "images/characters/Dutchess Valeria of Veringia.png",
+          "size": 1367678,
+          "formattedSize": "1.3 MB",
+          "gzipSize": 1367678
+        },
+        {
+          "name": "Duke Cedric of Merish.png",
+          "path": "images/characters/Duke Cedric of Merish.png",
+          "size": 1367189,
+          "formattedSize": "1.3 MB",
+          "gzipSize": 1367189
+        },
+        {
+          "name": "Alchemist Kaelin.png",
+          "path": "images/characters/Alchemist Kaelin.png",
+          "size": 1364834,
+          "formattedSize": "1.3 MB",
+          "gzipSize": 1364834
+        },
+        {
+          "name": "Hunter Varric.png",
+          "path": "images/characters/Hunter Varric.png",
+          "size": 1363400,
+          "formattedSize": "1.3 MB",
+          "gzipSize": 1363400
+        },
+        {
+          "name": "Sentry Lira.png",
+          "path": "images/characters/Sentry Lira.png",
+          "size": 1359991,
+          "formattedSize": "1.3 MB",
+          "gzipSize": 1359991
+        },
+        {
+          "name": "Upsala Springtime - Just before the annual harvest of the ice lotus.png",
+          "path": "images/characters/Upsala Springtime - Just before the annual harvest of the ice lotus.png",
+          "size": 1359237,
+          "formattedSize": "1.3 MB",
+          "gzipSize": 1359237
+        },
+        {
+          "name": "Archdiviner Seraphina Starwhisper.png",
+          "path": "images/characters/Archdiviner Seraphina Starwhisper.png",
+          "size": 1328520,
+          "formattedSize": "1.27 MB",
+          "gzipSize": 1328520
+        },
+        {
+          "name": "Sage Elowyn.png",
+          "path": "images/characters/Sage Elowyn.png",
+          "size": 1323414,
+          "formattedSize": "1.26 MB",
+          "gzipSize": 1323414
+        },
+        {
+          "name": "Queen Kelda Ironhammer.png",
+          "path": "images/characters/Queen Kelda Ironhammer.png",
+          "size": 1306445,
+          "formattedSize": "1.25 MB",
+          "gzipSize": 1306445
+        },
+        {
+          "name": "Aeris Skysong.png",
+          "path": "images/characters/Aeris Skysong.png",
+          "size": 1297627,
+          "formattedSize": "1.24 MB",
+          "gzipSize": 1297627
+        },
+        {
+          "name": "Prince Darrin Ironhammer.png",
+          "path": "images/characters/Prince Darrin Ironhammer.png",
+          "size": 1239274,
+          "formattedSize": "1.18 MB",
+          "gzipSize": 1239274
+        },
+        {
+          "name": "King Rathgar Ironhammer.png",
+          "path": "images/characters/King Rathgar Ironhammer.png",
+          "size": 1231557,
+          "formattedSize": "1.17 MB",
+          "gzipSize": 1231557
+        },
+        {
+          "name": "Scribe Elandra Tomekeeper.png",
+          "path": "images/characters/Scribe Elandra Tomekeeper.png",
+          "size": 1228038,
+          "formattedSize": "1.17 MB",
+          "gzipSize": 1228038
+        },
+        {
+          "name": "Duke Alaric of Aerlin.png",
+          "path": "images/characters/Duke Alaric of Aerlin.png",
+          "size": 1227178,
+          "formattedSize": "1.17 MB",
+          "gzipSize": 1227178
+        },
+        {
+          "name": "High Shaman Emberheart.png",
+          "path": "images/characters/High Shaman Emberheart.png",
+          "size": 1213959,
+          "formattedSize": "1.16 MB",
+          "gzipSize": 1213959
+        },
+        {
+          "name": "coopers-hole-kraken-promotional.webp",
+          "path": "images/maps/coopers-hole-kraken-promotional.webp",
+          "size": 1206826,
+          "formattedSize": "1.15 MB",
+          "gzipSize": 1206826
+        },
+        {
+          "name": "Princess Hilda Ironhammer.png",
+          "path": "images/characters/Princess Hilda Ironhammer.png",
+          "size": 1147486,
+          "formattedSize": "1.09 MB",
+          "gzipSize": 1147486
+        },
+        {
+          "name": "Mayor Eldran.png",
+          "path": "images/characters/Mayor Eldran.png",
+          "size": 1136310,
+          "formattedSize": "1.08 MB",
+          "gzipSize": 1136310
+        },
+        {
+          "name": "Ranger Faelan Wildshadow.png",
+          "path": "images/characters/Ranger Faelan Wildshadow.png",
+          "size": 1126610,
+          "formattedSize": "1.07 MB",
+          "gzipSize": 1126610
+        },
+        {
+          "name": "Duke Branwen Duchy of Braeten.png",
+          "path": "images/characters/Duke Branwen Duchy of Braeten.png",
+          "size": 1107534,
+          "formattedSize": "1.06 MB",
+          "gzipSize": 1107534
+        },
+        {
+          "name": "Duke Idris of Albion.png",
+          "path": "images/characters/Duke Idris of Albion.png",
+          "size": 1073308,
+          "formattedSize": "1.02 MB",
+          "gzipSize": 1073308
+        },
+        {
+          "name": "Trader Selene.png",
+          "path": "images/characters/Trader Selene.png",
+          "size": 1034390,
+          "formattedSize": "1010.15 KB",
+          "gzipSize": 1034390
+        },
+        {
+          "name": "Lady Vaelora Wordsmith.png",
+          "path": "images/characters/Lady Vaelora Wordsmith.png",
+          "size": 1020839,
+          "formattedSize": "996.91 KB",
+          "gzipSize": 1020839
+        },
+        {
+          "name": "Pelthorn Fortress.png",
+          "path": "images/locations/Pelthorn Fortress.png",
+          "size": 1008736,
+          "formattedSize": "985.09 KB",
+          "gzipSize": 1008736
+        },
+        {
+          "name": "Elder Thalara.png",
+          "path": "images/characters/Elder Thalara.png",
+          "size": 1004278,
+          "formattedSize": "980.74 KB",
+          "gzipSize": 1004278
+        },
+        {
+          "name": "Lady Nightshadow.png",
+          "path": "images/characters/Lady Nightshadow.png",
+          "size": 826004,
+          "formattedSize": "806.64 KB",
+          "gzipSize": 826004
+        },
+        {
+          "name": "Lineton.webp",
+          "path": "images/locations/Lineton.webp",
+          "size": 478275,
+          "formattedSize": "467.07 KB",
+          "gzipSize": 478275
+        },
+        {
+          "name": "large_house.jpg",
+          "path": "images/maps/large_house.jpg",
+          "size": 448886,
+          "formattedSize": "438.37 KB",
+          "gzipSize": 448886
+        },
+        {
+          "name": "dwarven_small_settlement.webp",
+          "path": "images/maps/dwarven_small_settlement.webp",
+          "size": 439312,
+          "formattedSize": "429.02 KB",
+          "gzipSize": 439312
+        },
+        {
+          "name": "henge.webp",
+          "path": "images/artifacts/henge.webp",
+          "size": 423828,
+          "formattedSize": "413.89 KB",
+          "gzipSize": 423828
+        },
+        {
+          "name": "henge.webp",
+          "path": "images/maps/henge.webp",
+          "size": 423828,
+          "formattedSize": "413.89 KB",
+          "gzipSize": 423828
+        },
+        {
+          "name": "durin_s_gardens_in_durinhold.webp",
+          "path": "images/artifacts/durin_s_gardens_in_durinhold.webp",
+          "size": 416198,
+          "formattedSize": "406.44 KB",
+          "gzipSize": 416198
+        },
+        {
+          "name": "whispering_oak.webp",
+          "path": "images/characters/whispering_oak.webp",
+          "size": 407152,
+          "formattedSize": "397.61 KB",
+          "gzipSize": 407152
+        },
+        {
+          "name": "whispering_tomes_library.webp",
+          "path": "images/artifacts/whispering_tomes_library.webp",
+          "size": 399612,
+          "formattedSize": "390.25 KB",
+          "gzipSize": 399612
+        },
+        {
+          "name": "crypts-set-3.jpg",
+          "path": "images/maps/crypts-set-3.jpg",
+          "size": 398676,
+          "formattedSize": "389.33 KB",
+          "gzipSize": 398676
+        },
+        {
+          "name": "drachenmar_smpl2.jpg",
+          "path": "images/maps/drachenmar_smpl2.jpg",
+          "size": 392322,
+          "formattedSize": "383.13 KB",
+          "gzipSize": 392322
+        },
+        {
+          "name": "drachenmar_8x10.jpg",
+          "path": "images/maps/drachenmar_8x10.jpg",
+          "size": 383326,
+          "formattedSize": "374.34 KB",
+          "gzipSize": 383326
+        },
+        {
+          "name": "tobar_and_fizz_1.jpg",
+          "path": "images/artifacts/tobar_and_fizz_1.jpg",
+          "size": 382415,
+          "formattedSize": "373.45 KB",
+          "gzipSize": 382415
+        },
+        {
+          "name": "guardian_of_the_void.webp",
+          "path": "images/artifacts/guardian_of_the_void.webp",
+          "size": 378812,
+          "formattedSize": "369.93 KB",
+          "gzipSize": 378812
+        },
+        {
+          "name": "mollten_anvil.webp",
+          "path": "images/artifacts/mollten_anvil.webp",
+          "size": 376522,
+          "formattedSize": "367.7 KB",
+          "gzipSize": 376522
+        },
+        {
+          "name": "automaton_2.webp",
+          "path": "images/artifacts/automaton_2.webp",
+          "size": 373276,
+          "formattedSize": "364.53 KB",
+          "gzipSize": 373276
+        },
+        {
+          "name": "large_house.webp",
+          "path": "images/maps/large_house.webp",
+          "size": 366116,
+          "formattedSize": "357.54 KB",
+          "gzipSize": 366116
+        },
+        {
+          "name": "silver_stag_tavern_-_threx.webp",
+          "path": "images/artifacts/silver_stag_tavern_-_threx.webp",
+          "size": 363832,
+          "formattedSize": "355.3 KB",
+          "gzipSize": 363832
+        },
+        {
+          "name": "ruins-grid-trees-patreon.jpg",
+          "path": "images/maps/ruins-grid-trees-patreon.jpg",
+          "size": 362887,
+          "formattedSize": "354.38 KB",
+          "gzipSize": 362887
+        },
+        {
+          "name": "darthme_design_thragar_stoneheart_the_proud_and_powerful_dwar_096e0c0e-3e62-4d47-b61e-6cf0cbfa48ae_1.webp",
+          "path": "images/artifacts/darthme_design_thragar_stoneheart_the_proud_and_powerful_dwar_096e0c0e-3e62-4d47-b61e-6cf0cbfa48ae_1.webp",
+          "size": 360688,
+          "formattedSize": "352.23 KB",
+          "gzipSize": 360688
+        },
+        {
+          "name": "artisans_alley_gareth_and_lirea.webp",
+          "path": "images/artifacts/artisans_alley_gareth_and_lirea.webp",
+          "size": 357146,
+          "formattedSize": "348.78 KB",
+          "gzipSize": 357146
+        },
+        {
+          "name": "tobar_and_fizz_1.webp",
+          "path": "images/artifacts/tobar_and_fizz_1.webp",
+          "size": 350960,
+          "formattedSize": "342.73 KB",
+          "gzipSize": 350960
+        },
+        {
+          "name": "millisteed_1.webp",
+          "path": "images/artifacts/millisteed_1.webp",
+          "size": 349568,
+          "formattedSize": "341.38 KB",
+          "gzipSize": 349568
+        },
+        {
+          "name": "providence.webp",
+          "path": "images/locations_backup/providence.webp",
+          "size": 344430,
+          "formattedSize": "336.36 KB",
+          "gzipSize": 344430
+        },
+        {
+          "name": "quill_parchment_scriptorium.webp",
+          "path": "images/artifacts/quill_parchment_scriptorium.webp",
+          "size": 341176,
+          "formattedSize": "333.18 KB",
+          "gzipSize": 341176
+        },
+        {
+          "name": "runewave_docks.webp",
+          "path": "images/artifacts/runewave_docks.webp",
+          "size": 338066,
+          "formattedSize": "330.14 KB",
+          "gzipSize": 338066
+        },
+        {
+          "name": "zyndorik_the_blade.webp",
+          "path": "images/artifacts/zyndorik_the_blade.webp",
+          "size": 334866,
+          "formattedSize": "327.02 KB",
+          "gzipSize": 334866
+        },
+        {
+          "name": "drachenmar_map_-_tony_scan.jpg",
+          "path": "images/maps/drachenmar_map_-_tony_scan.jpg",
+          "size": 334810,
+          "formattedSize": "326.96 KB",
+          "gzipSize": 334810
+        },
+        {
+          "name": "the_stein.webp",
+          "path": "images/locations_backup/the_stein.webp",
+          "size": 333452,
+          "formattedSize": "325.64 KB",
+          "gzipSize": 333452
+        },
+        {
+          "name": "uxmal_the_jungle_city.webp",
+          "path": "images/locations_backup/uxmal_the_jungle_city.webp",
+          "size": 331300,
+          "formattedSize": "323.54 KB",
+          "gzipSize": 331300
+        },
+        {
+          "name": "everleaf_spire_-_capital_of_averlys.webp",
+          "path": "images/locations_backup/everleaf_spire_-_capital_of_averlys.webp",
+          "size": 331254,
+          "formattedSize": "323.49 KB",
+          "gzipSize": 331254
+        },
+        {
+          "name": "hidden_cave.jpg",
+          "path": "images/maps/hidden_cave.jpg",
+          "size": 325926,
+          "formattedSize": "318.29 KB",
+          "gzipSize": 325926
+        },
+        {
+          "name": "draachenmar_second_draft.jpg",
+          "path": "images/maps/draachenmar_second_draft.jpg",
+          "size": 324314,
+          "formattedSize": "316.71 KB",
+          "gzipSize": 324314
+        },
+        {
+          "name": "knight_of_the_rose.webp",
+          "path": "images/artifacts/knight_of_the_rose.webp",
+          "size": 322054,
+          "formattedSize": "314.51 KB",
+          "gzipSize": 322054
+        },
+        {
+          "name": "lineton_orphanage.webp",
+          "path": "images/locations_backup/lineton_orphanage.webp",
+          "size": 318010,
+          "formattedSize": "310.56 KB",
+          "gzipSize": 318010
+        },
+        {
+          "name": "elandriell_the_star_shaper.webp",
+          "path": "images/artifacts/elandriell_the_star_shaper.webp",
+          "size": 313080,
+          "formattedSize": "305.74 KB",
+          "gzipSize": 313080
+        },
+        {
+          "name": "temple-complex-ruins-grid.webp",
+          "path": "images/maps/temple-complex-ruins-grid.webp",
+          "size": 311298,
+          "formattedSize": "304 KB",
+          "gzipSize": 311298
+        },
+        {
+          "name": "village_tbd.webp",
+          "path": "images/artifacts/village_tbd.webp",
+          "size": 307788,
+          "formattedSize": "300.57 KB",
+          "gzipSize": 307788
+        },
+        {
+          "name": "kaelith_mindweaver.webp",
+          "path": "images/artifacts/kaelith_mindweaver.webp",
+          "size": 307262,
+          "formattedSize": "300.06 KB",
+          "gzipSize": 307262
+        },
+        {
+          "name": "the_primordial_concordant.webp",
+          "path": "images/artifacts/the_primordial_concordant.webp",
+          "size": 304404,
+          "formattedSize": "297.27 KB",
+          "gzipSize": 304404
+        },
+        {
+          "name": "earthdhaker.webp",
+          "path": "images/items/earthdhaker.webp",
+          "size": 303258,
+          "formattedSize": "296.15 KB",
+          "gzipSize": 303258
+        },
+        {
+          "name": "kronus_the_clockwork_city.webp",
+          "path": "images/locations_backup/kronus_the_clockwork_city.webp",
+          "size": 302946,
+          "formattedSize": "295.85 KB",
+          "gzipSize": 302946
+        },
+        {
+          "name": "automaton_1.jpg",
+          "path": "images/artifacts/automaton_1.jpg",
+          "size": 296871,
+          "formattedSize": "289.91 KB",
+          "gzipSize": 296871
+        },
+        {
+          "name": "frost_orc.webp",
+          "path": "images/artifacts/frost_orc.webp",
+          "size": 292076,
+          "formattedSize": "285.23 KB",
+          "gzipSize": 292076
+        },
+        {
+          "name": "steelbound_market.webp",
+          "path": "images/artifacts/steelbound_market.webp",
+          "size": 291028,
+          "formattedSize": "284.21 KB",
+          "gzipSize": 291028
+        },
+        {
+          "name": "hidden_cave.webp",
+          "path": "images/maps/hidden_cave.webp",
+          "size": 287970,
+          "formattedSize": "281.22 KB",
+          "gzipSize": 287970
+        },
+        {
+          "name": "king_rathgar_with_earthshaker.webp",
+          "path": "images/artifacts/king_rathgar_with_earthshaker.webp",
+          "size": 286202,
+          "formattedSize": "279.49 KB",
+          "gzipSize": 286202
+        },
+        {
+          "name": "nightmare_pegasus_1.jpg",
+          "path": "images/artifacts/nightmare_pegasus_1.jpg",
+          "size": 284700,
+          "formattedSize": "278.03 KB",
+          "gzipSize": 284700
+        },
+        {
+          "name": "king_aric_of_avalon.webp",
+          "path": "images/locations_backup/king_aric_of_avalon.webp",
+          "size": 282414,
+          "formattedSize": "275.79 KB",
+          "gzipSize": 282414
+        },
+        {
+          "name": "brimor_s_parchment.webp",
+          "path": "images/characters/brimor_s_parchment.webp",
+          "size": 279944,
+          "formattedSize": "273.38 KB",
+          "gzipSize": 279944
+        },
+        {
+          "name": "skybound_stables.webp",
+          "path": "images/artifacts/skybound_stables.webp",
+          "size": 275958,
+          "formattedSize": "269.49 KB",
+          "gzipSize": 275958
+        },
+        {
+          "name": "map_of_haven.webp",
+          "path": "images/maps/map_of_haven.webp",
+          "size": 275874,
+          "formattedSize": "269.41 KB",
+          "gzipSize": 275874
+        },
+        {
+          "name": "kass.webp",
+          "path": "images/characters/kass.webp",
+          "size": 274270,
+          "formattedSize": "267.84 KB",
+          "gzipSize": 274270
+        },
+        {
+          "name": "the_wall_-_northern_entry.webp",
+          "path": "images/locations_backup/the_wall_-_northern_entry.webp",
+          "size": 271482,
+          "formattedSize": "265.12 KB",
+          "gzipSize": 271482
+        },
+        {
+          "name": "aftermath_of_the_emmisary.webp",
+          "path": "images/artifacts/aftermath_of_the_emmisary.webp",
+          "size": 267694,
+          "formattedSize": "261.42 KB",
+          "gzipSize": 267694
+        },
+        {
+          "name": "small_temple.webp",
+          "path": "images/maps/small_temple.webp",
+          "size": 266928,
+          "formattedSize": "260.67 KB",
+          "gzipSize": 266928
+        },
+        {
+          "name": "tinkers_shop.webp",
+          "path": "images/artifacts/tinkers_shop.webp",
+          "size": 266778,
+          "formattedSize": "260.53 KB",
+          "gzipSize": 266778
+        },
+        {
+          "name": "egons_manor.webp",
+          "path": "images/characters/egons_manor.webp",
+          "size": 266394,
+          "formattedSize": "260.15 KB",
+          "gzipSize": 266394
+        },
+        {
+          "name": "high_priestess_seri.webp",
+          "path": "images/artifacts/high_priestess_seri.webp",
+          "size": 265262,
+          "formattedSize": "259.04 KB",
+          "gzipSize": 265262
+        },
+        {
+          "name": "lunar_map.webp",
+          "path": "images/maps/lunar_map.webp",
+          "size": 265206,
+          "formattedSize": "258.99 KB",
+          "gzipSize": 265206
+        },
+        {
+          "name": "drachenmar_24x36_1_inch_scale.jpg",
+          "path": "images/maps/drachenmar_24x36_1_inch_scale.jpg",
+          "size": 264341,
+          "formattedSize": "258.15 KB",
+          "gzipSize": 264341
+        },
+        {
+          "name": "the_court_of_seasons_-_deities_of_the_changing_year.webp",
+          "path": "images/artifacts/the_court_of_seasons_-_deities_of_the_changing_year.webp",
+          "size": 262622,
+          "formattedSize": "256.47 KB",
+          "gzipSize": 262622
+        },
+        {
+          "name": "drachenmar_smpl2.webp",
+          "path": "images/maps/drachenmar_smpl2.webp",
+          "size": 262112,
+          "formattedSize": "255.97 KB",
+          "gzipSize": 262112
+        },
+        {
+          "name": "tobar_fizzykeg.webp",
+          "path": "images/characters/tobar_fizzykeg.webp",
+          "size": 261734,
+          "formattedSize": "255.6 KB",
+          "gzipSize": 261734
+        },
+        {
+          "name": "the_dales.webp",
+          "path": "images/locations_backup/the_dales.webp",
+          "size": 261436,
+          "formattedSize": "255.31 KB",
+          "gzipSize": 261436
+        },
+        {
+          "name": "ice_lotus.webp",
+          "path": "images/locations_backup/ice_lotus.webp",
+          "size": 261372,
+          "formattedSize": "255.25 KB",
+          "gzipSize": 261372
+        },
+        {
+          "name": "ruined_keep.webp",
+          "path": "images/artifacts/ruined_keep.webp",
+          "size": 259338,
+          "formattedSize": "253.26 KB",
+          "gzipSize": 259338
+        },
+        {
+          "name": "elf_runecaster.webp",
+          "path": "images/artifacts/elf_runecaster.webp",
+          "size": 257868,
+          "formattedSize": "251.82 KB",
+          "gzipSize": 257868
+        },
+        {
+          "name": "henge.webp",
+          "path": "images/locations_backup/henge.webp",
+          "size": 257024,
+          "formattedSize": "251 KB",
+          "gzipSize": 257024
+        },
+        {
+          "name": "elf_ritual_caster.webp",
+          "path": "images/artifacts/elf_ritual_caster.webp",
+          "size": 256432,
+          "formattedSize": "250.42 KB",
+          "gzipSize": 256432
+        },
+        {
+          "name": "blacksmith_shop.webp",
+          "path": "images/artifacts/blacksmith_shop.webp",
+          "size": 256332,
+          "formattedSize": "250.32 KB",
+          "gzipSize": 256332
+        },
+        {
+          "name": "shield_of_dawn_v2.webp",
+          "path": "images/items/shield_of_dawn_v2.webp",
+          "size": 255844,
+          "formattedSize": "249.85 KB",
+          "gzipSize": 255844
+        },
+        {
+          "name": "white_wyrmsteed.jpg",
+          "path": "images/artifacts/white_wyrmsteed.jpg",
+          "size": 255047,
+          "formattedSize": "249.07 KB",
+          "gzipSize": 255047
+        },
+        {
+          "name": "aelthorin.webp",
+          "path": "images/artifacts/aelthorin.webp",
+          "size": 254032,
+          "formattedSize": "248.08 KB",
+          "gzipSize": 254032
+        },
+        {
+          "name": "the_wall_-_section_of_souther_face.webp",
+          "path": "images/locations_backup/the_wall_-_section_of_souther_face.webp",
+          "size": 253224,
+          "formattedSize": "247.29 KB",
+          "gzipSize": 253224
+        },
+        {
+          "name": "the_chronicles_of_draachenmar.webp",
+          "path": "images/artifacts/the_chronicles_of_draachenmar.webp",
+          "size": 253096,
+          "formattedSize": "247.16 KB",
+          "gzipSize": 253096
+        },
+        {
+          "name": "lord_commander_drakar_clawforge.webp",
+          "path": "images/locations_backup/lord_commander_drakar_clawforge.webp",
+          "size": 252960,
+          "formattedSize": "247.03 KB",
+          "gzipSize": 252960
+        },
+        {
+          "name": "ora_kai.webp",
+          "path": "images/artifacts/ora_kai.webp",
+          "size": 251740,
+          "formattedSize": "245.84 KB",
+          "gzipSize": 251740
+        },
+        {
+          "name": "dwarf_artisan.webp",
+          "path": "images/artifacts/dwarf_artisan.webp",
+          "size": 251020,
+          "formattedSize": "245.14 KB",
+          "gzipSize": 251020
+        },
+        {
+          "name": "drachenmar_8x10.webp",
+          "path": "images/maps/drachenmar_8x10.webp",
+          "size": 250500,
+          "formattedSize": "244.63 KB",
+          "gzipSize": 250500
+        },
+        {
+          "name": "sac_2017-04_unaussprechlichen_kulten_hi-res.webp",
+          "path": "images/maps/sac_2017-04_unaussprechlichen_kulten_hi-res.webp",
+          "size": 250428,
+          "formattedSize": "244.56 KB",
+          "gzipSize": 250428
+        },
+        {
+          "name": "nekrulon.webp",
+          "path": "images/artifacts/nekrulon.webp",
+          "size": 249784,
+          "formattedSize": "243.93 KB",
+          "gzipSize": 249784
+        },
+        {
+          "name": "vaelira_steelheart.webp",
+          "path": "images/artifacts/vaelira_steelheart.webp",
+          "size": 249452,
+          "formattedSize": "243.61 KB",
+          "gzipSize": 249452
+        },
+        {
+          "name": "automaton_1.webp",
+          "path": "images/artifacts/automaton_1.webp",
+          "size": 247000,
+          "formattedSize": "241.21 KB",
+          "gzipSize": 247000
+        },
+        {
+          "name": "grand_master_dragonrider_kaelin_stormwing.webp",
+          "path": "images/locations_backup/grand_master_dragonrider_kaelin_stormwing.webp",
+          "size": 246646,
+          "formattedSize": "240.87 KB",
+          "gzipSize": 246646
+        },
+        {
+          "name": "human_fighter.webp",
+          "path": "images/artifacts/human_fighter.webp",
+          "size": 246470,
+          "formattedSize": "240.69 KB",
+          "gzipSize": 246470
+        },
+        {
+          "name": "celestial_observatory.webp",
+          "path": "images/artifacts/celestial_observatory.webp",
+          "size": 246290,
+          "formattedSize": "240.52 KB",
+          "gzipSize": 246290
+        },
+        {
+          "name": "brother_cedric.webp",
+          "path": "images/locations_backup/brother_cedric.webp",
+          "size": 243764,
+          "formattedSize": "238.05 KB",
+          "gzipSize": 243764
+        },
+        {
+          "name": "the_astral_triad.webp",
+          "path": "images/artifacts/the_astral_triad.webp",
+          "size": 241910,
+          "formattedSize": "236.24 KB",
+          "gzipSize": 241910
+        },
+        {
+          "name": "thaldir.webp",
+          "path": "images/artifacts/thaldir.webp",
+          "size": 240936,
+          "formattedSize": "235.29 KB",
+          "gzipSize": 240936
+        },
+        {
+          "name": "tip_of_the_silver_lance.webp",
+          "path": "images/characters/tip_of_the_silver_lance.webp",
+          "size": 239462,
+          "formattedSize": "233.85 KB",
+          "gzipSize": 239462
+        },
+        {
+          "name": "the Stein.webp",
+          "path": "images/characters/the Stein.webp",
+          "size": 238330,
+          "formattedSize": "232.74 KB",
+          "gzipSize": 238330
+        },
+        {
+          "name": "Providence.webp",
+          "path": "images/characters/Providence.webp",
+          "size": 237602,
+          "formattedSize": "232.03 KB",
+          "gzipSize": 237602
+        },
+        {
+          "name": "Providence.webp",
+          "path": "images/locations/Providence.webp",
+          "size": 237602,
+          "formattedSize": "232.03 KB",
+          "gzipSize": 237602
+        },
+        {
+          "name": "drachenmar_map_-_tony_scan.webp",
+          "path": "images/maps/drachenmar_map_-_tony_scan.webp",
+          "size": 237300,
+          "formattedSize": "231.74 KB",
+          "gzipSize": 237300
+        },
+        {
+          "name": "the_silver_knight.webp",
+          "path": "images/characters/the_silver_knight.webp",
+          "size": 234226,
+          "formattedSize": "228.74 KB",
+          "gzipSize": 234226
+        },
+        {
+          "name": "blue_wyrmsteed.jpg",
+          "path": "images/artifacts/blue_wyrmsteed.jpg",
+          "size": 234004,
+          "formattedSize": "228.52 KB",
+          "gzipSize": 234004
+        },
+        {
+          "name": "uxmals_hidden_atrium.webp",
+          "path": "images/characters/uxmals_hidden_atrium.webp",
+          "size": 233226,
+          "formattedSize": "227.76 KB",
+          "gzipSize": 233226
+        },
+        {
+          "name": "karthag_the_bloody.webp",
+          "path": "images/artifacts/karthag_the_bloody.webp",
+          "size": 232530,
+          "formattedSize": "227.08 KB",
+          "gzipSize": 232530
+        },
+        {
+          "name": "female_druid_with_lion.webp",
+          "path": "images/artifacts/female_druid_with_lion.webp",
+          "size": 231540,
+          "formattedSize": "226.11 KB",
+          "gzipSize": 231540
+        },
+        {
+          "name": "brimors_sextant.webp",
+          "path": "images/characters/brimors_sextant.webp",
+          "size": 231136,
+          "formattedSize": "225.72 KB",
+          "gzipSize": 231136
+        },
+        {
+          "name": "terraqua.webp",
+          "path": "images/artifacts/terraqua.webp",
+          "size": 231078,
+          "formattedSize": "225.66 KB",
+          "gzipSize": 231078
+        },
+        {
+          "name": "vorlother_with_the_soulcrown.webp",
+          "path": "images/artifacts/vorlother_with_the_soulcrown.webp",
+          "size": 230968,
+          "formattedSize": "225.55 KB",
+          "gzipSize": 230968
+        },
+        {
+          "name": "aaracokra_eagle_paladin.webp",
+          "path": "images/artifacts/aaracokra_eagle_paladin.webp",
+          "size": 230696,
+          "formattedSize": "225.29 KB",
+          "gzipSize": 230696
+        },
+        {
+          "name": "sac_2017-03_catawombs_hi-res.webp",
+          "path": "images/maps/sac_2017-03_catawombs_hi-res.webp",
+          "size": 230658,
+          "formattedSize": "225.25 KB",
+          "gzipSize": 230658
+        },
+        {
+          "name": "bramblefoot_bumblehatch.jpg",
+          "path": "images/locations_backup/bramblefoot_bumblehatch.jpg",
+          "size": 228914,
+          "formattedSize": "223.55 KB",
+          "gzipSize": 228914
+        },
+        {
+          "name": "Uxmal the Jungle City.webp",
+          "path": "images/characters/Uxmal the Jungle City.webp",
+          "size": 228702,
+          "formattedSize": "223.34 KB",
+          "gzipSize": 228702
+        },
+        {
+          "name": "Uxmal.webp",
+          "path": "images/locations/Uxmal.webp",
+          "size": 228702,
+          "formattedSize": "223.34 KB",
+          "gzipSize": 228702
+        },
+        {
+          "name": "solonar.webp",
+          "path": "images/artifacts/solonar.webp",
+          "size": 228692,
+          "formattedSize": "223.33 KB",
+          "gzipSize": 228692
+        },
+        {
+          "name": "ratfolk_swashbuckler.webp",
+          "path": "images/artifacts/ratfolk_swashbuckler.webp",
+          "size": 227970,
+          "formattedSize": "222.63 KB",
+          "gzipSize": 227970
+        },
+        {
+          "name": "the Primordial Concordant.webp",
+          "path": "images/deities/the Primordial Concordant.webp",
+          "size": 227308,
+          "formattedSize": "221.98 KB",
+          "gzipSize": 227308
+        },
+        {
+          "name": "sorcfemale.webp",
+          "path": "images/artifacts/sorcfemale.webp",
+          "size": 226586,
+          "formattedSize": "221.28 KB",
+          "gzipSize": 226586
+        },
+        {
+          "name": "nightmare_pegasus_1.webp",
+          "path": "images/artifacts/nightmare_pegasus_1.webp",
+          "size": 226568,
+          "formattedSize": "221.26 KB",
+          "gzipSize": 226568
+        },
+        {
+          "name": "diadam_of_chronicles.webp",
+          "path": "images/items/diadam_of_chronicles.webp",
+          "size": 226184,
+          "formattedSize": "220.88 KB",
+          "gzipSize": 226184
+        },
+        {
+          "name": "red_wyrmsteed.jpg",
+          "path": "images/artifacts/red_wyrmsteed.jpg",
+          "size": 225979,
+          "formattedSize": "220.68 KB",
+          "gzipSize": 225979
+        },
+        {
+          "name": "verdantia.webp",
+          "path": "images/artifacts/verdantia.webp",
+          "size": 225884,
+          "formattedSize": "220.59 KB",
+          "gzipSize": 225884
+        },
+        {
+          "name": "crystal_caverns.webp",
+          "path": "images/artifacts/crystal_caverns.webp",
+          "size": 225038,
+          "formattedSize": "219.76 KB",
+          "gzipSize": 225038
+        },
+        {
+          "name": "yorxan.webp",
+          "path": "images/artifacts/yorxan.webp",
+          "size": 223428,
+          "formattedSize": "218.19 KB",
+          "gzipSize": 223428
+        },
+        {
+          "name": "Everleaf Spire.webp",
+          "path": "images/locations/Everleaf Spire.webp",
+          "size": 223386,
+          "formattedSize": "218.15 KB",
+          "gzipSize": 223386
+        },
+        {
+          "name": "veridia.webp",
+          "path": "images/artifacts/veridia.webp",
+          "size": 223126,
+          "formattedSize": "217.9 KB",
+          "gzipSize": 223126
+        },
+        {
+          "name": "white_wyrmsteed.webp",
+          "path": "images/artifacts/white_wyrmsteed.webp",
+          "size": 223022,
+          "formattedSize": "217.79 KB",
+          "gzipSize": 223022
+        },
+        {
+          "name": "eldon_gearforge.webp",
+          "path": "images/artifacts/eldon_gearforge.webp",
+          "size": 222870,
+          "formattedSize": "217.65 KB",
+          "gzipSize": 222870
+        },
+        {
+          "name": "xyrrul.webp",
+          "path": "images/artifacts/xyrrul.webp",
+          "size": 222714,
+          "formattedSize": "217.49 KB",
+          "gzipSize": 222714
+        },
+        {
+          "name": "zarithak.webp",
+          "path": "images/artifacts/zarithak.webp",
+          "size": 222466,
+          "formattedSize": "217.25 KB",
+          "gzipSize": 222466
+        },
+        {
+          "name": "fracturedhourglass.webp",
+          "path": "images/artifacts/fracturedhourglass.webp",
+          "size": 222458,
+          "formattedSize": "217.24 KB",
+          "gzipSize": 222458
+        },
+        {
+          "name": "city_of_respite.webp",
+          "path": "images/locations_backup/city_of_respite.webp",
+          "size": 221954,
+          "formattedSize": "216.75 KB",
+          "gzipSize": 221954
+        },
+        {
+          "name": "ruins-grid-trees-patreon.webp",
+          "path": "images/maps/ruins-grid-trees-patreon.webp",
+          "size": 220492,
+          "formattedSize": "215.32 KB",
+          "gzipSize": 220492
+        },
+        {
+          "name": "dwarven_keep.jpg",
+          "path": "images/maps/dwarven_keep.jpg",
+          "size": 219657,
+          "formattedSize": "214.51 KB",
+          "gzipSize": 219657
+        },
+        {
+          "name": "draachenmar_second_draft.webp",
+          "path": "images/maps/draachenmar_second_draft.webp",
+          "size": 217912,
+          "formattedSize": "212.8 KB",
+          "gzipSize": 217912
+        },
+        {
+          "name": "levievilman.webp",
+          "path": "images/artifacts/levievilman.webp",
+          "size": 216758,
+          "formattedSize": "211.68 KB",
+          "gzipSize": 216758
+        },
+        {
+          "name": "crags_around_the_wound.webp",
+          "path": "images/locations_backup/crags_around_the_wound.webp",
+          "size": 213748,
+          "formattedSize": "208.74 KB",
+          "gzipSize": 213748
+        },
+        {
+          "name": "crypts-set-3.webp",
+          "path": "images/maps/crypts-set-3.webp",
+          "size": 213718,
+          "formattedSize": "208.71 KB",
+          "gzipSize": 213718
+        },
+        {
+          "name": "warrior.webp",
+          "path": "images/artifacts/warrior.webp",
+          "size": 213214,
+          "formattedSize": "208.22 KB",
+          "gzipSize": 213214
+        },
+        {
+          "name": "eclipse_arrow_of_aethertide_v2.webp",
+          "path": "images/items/eclipse_arrow_of_aethertide_v2.webp",
+          "size": 213020,
+          "formattedSize": "208.03 KB",
+          "gzipSize": 213020
+        },
+        {
+          "name": "sac_2017-02_sauriantombs_hi-res.webp",
+          "path": "images/maps/sac_2017-02_sauriantombs_hi-res.webp",
+          "size": 211348,
+          "formattedSize": "206.39 KB",
+          "gzipSize": 211348
+        },
+        {
+          "name": "the_serpents_whisper.webp",
+          "path": "images/artifacts/the_serpents_whisper.webp",
+          "size": 210260,
+          "formattedSize": "205.33 KB",
+          "gzipSize": 210260
+        },
+        {
+          "name": "aqumaris.webp",
+          "path": "images/artifacts/aqumaris.webp",
+          "size": 210204,
+          "formattedSize": "205.28 KB",
+          "gzipSize": 210204
+        },
+        {
+          "name": "argentus.webp",
+          "path": "images/locations_backup/argentus.webp",
+          "size": 209528,
+          "formattedSize": "204.62 KB",
+          "gzipSize": 209528
+        },
+        {
+          "name": "blue_wyrmsteed.webp",
+          "path": "images/artifacts/blue_wyrmsteed.webp",
+          "size": 209490,
+          "formattedSize": "204.58 KB",
+          "gzipSize": 209490
+        },
+        {
+          "name": "Kronus the Clockwork City.webp",
+          "path": "images/characters/Kronus the Clockwork City.webp",
+          "size": 209246,
+          "formattedSize": "204.34 KB",
+          "gzipSize": 209246
+        },
+        {
+          "name": "Kronus.webp",
+          "path": "images/locations/Kronus.webp",
+          "size": 209246,
+          "formattedSize": "204.34 KB",
+          "gzipSize": 209246
+        },
+        {
+          "name": "hearthstone_emporium_upsala.webp",
+          "path": "images/artifacts/hearthstone_emporium_upsala.webp",
+          "size": 206500,
+          "formattedSize": "201.66 KB",
+          "gzipSize": 206500
+        },
+        {
+          "name": "sac_2017-05_mazeverse_hi-res.webp",
+          "path": "images/maps/sac_2017-05_mazeverse_hi-res.webp",
+          "size": 205600,
+          "formattedSize": "200.78 KB",
+          "gzipSize": 205600
+        },
+        {
+          "name": "elven_noble_woman.webp",
+          "path": "images/artifacts/elven_noble_woman.webp",
+          "size": 205368,
+          "formattedSize": "200.55 KB",
+          "gzipSize": 205368
+        },
+        {
+          "name": "chronoscore.webp",
+          "path": "images/artifacts/chronoscore.webp",
+          "size": 205058,
+          "formattedSize": "200.25 KB",
+          "gzipSize": 205058
+        },
+        {
+          "name": "prince_balthyr_ironhamer.webp",
+          "path": "images/locations_backup/prince_balthyr_ironhamer.webp",
+          "size": 204740,
+          "formattedSize": "199.94 KB",
+          "gzipSize": 204740
+        },
+        {
+          "name": "magebind_staff.webp",
+          "path": "images/items/magebind_staff.webp",
+          "size": 204722,
+          "formattedSize": "199.92 KB",
+          "gzipSize": 204722
+        },
+        {
+          "name": "the_runic_codex.webp",
+          "path": "images/items/the_runic_codex.webp",
+          "size": 204674,
+          "formattedSize": "199.88 KB",
+          "gzipSize": 204674
+        },
+        {
+          "name": "whitestone_keep.webp",
+          "path": "images/artifacts/whitestone_keep.webp",
+          "size": 204600,
+          "formattedSize": "199.8 KB",
+          "gzipSize": 204600
+        },
+        {
+          "name": "aegis_of_the_battlemaster.webp",
+          "path": "images/items/aegis_of_the_battlemaster.webp",
+          "size": 204002,
+          "formattedSize": "199.22 KB",
+          "gzipSize": 204002
+        },
+        {
+          "name": "lirix.webp",
+          "path": "images/artifacts/lirix.webp",
+          "size": 203888,
+          "formattedSize": "199.11 KB",
+          "gzipSize": 203888
+        },
+        {
+          "name": "King Aric of Avalon.webp",
+          "path": "images/characters/King Aric of Avalon.webp",
+          "size": 202800,
+          "formattedSize": "198.05 KB",
+          "gzipSize": 202800
+        },
+        {
+          "name": "darthme_an_anthropomorphic_hippopotamus_stands_confidently_at_3a90debf-1a35-4243-a130-ca5ea7b00da1_0.webp",
+          "path": "images/artifacts/darthme_an_anthropomorphic_hippopotamus_stands_confidently_at_3a90debf-1a35-4243-a130-ca5ea7b00da1_0.webp",
+          "size": 200850,
+          "formattedSize": "196.14 KB",
+          "gzipSize": 200850
+        },
+        {
+          "name": "fizz.webp",
+          "path": "images/characters/fizz.webp",
+          "size": 200298,
+          "formattedSize": "195.6 KB",
+          "gzipSize": 200298
+        },
+        {
+          "name": "grak_thar.webp",
+          "path": "images/artifacts/grak_thar.webp",
+          "size": 200254,
+          "formattedSize": "195.56 KB",
+          "gzipSize": 200254
+        },
+        {
+          "name": "grak_thar.webp",
+          "path": "images/locations_backup/grak_thar.webp",
+          "size": 200254,
+          "formattedSize": "195.56 KB",
+          "gzipSize": 200254
+        },
+        {
+          "name": "brimor_s_wonderous_map_set.webp",
+          "path": "images/maps/brimor_s_wonderous_map_set.webp",
+          "size": 199300,
+          "formattedSize": "194.63 KB",
+          "gzipSize": 199300
+        },
+        {
+          "name": "rhino_gladiator.webp",
+          "path": "images/artifacts/rhino_gladiator.webp",
+          "size": 198044,
+          "formattedSize": "193.4 KB",
+          "gzipSize": 198044
+        },
+        {
+          "name": "green_wyrmsteed.jpg",
+          "path": "images/artifacts/green_wyrmsteed.jpg",
+          "size": 197817,
+          "formattedSize": "193.18 KB",
+          "gzipSize": 197817
+        },
+        {
+          "name": "nightmare_pegasus_2.jpg",
+          "path": "images/artifacts/nightmare_pegasus_2.jpg",
+          "size": 196066,
+          "formattedSize": "191.47 KB",
+          "gzipSize": 196066
+        },
+        {
+          "name": "sword_of_celestial_reckoning_v2.webp",
+          "path": "images/items/sword_of_celestial_reckoning_v2.webp",
+          "size": 195842,
+          "formattedSize": "191.25 KB",
+          "gzipSize": 195842
+        },
+        {
+          "name": "The Court of Seasons - Deities of the Changing Year.webp",
+          "path": "images/deities/The Court of Seasons - Deities of the Changing Year.webp",
+          "size": 194486,
+          "formattedSize": "189.93 KB",
+          "gzipSize": 194486
+        },
+        {
+          "name": "timeweaverscloak.webp",
+          "path": "images/artifacts/timeweaverscloak.webp",
+          "size": 193922,
+          "formattedSize": "189.38 KB",
+          "gzipSize": 193922
+        },
+        {
+          "name": "red_wyrmsteed.webp",
+          "path": "images/artifacts/red_wyrmsteed.webp",
+          "size": 193868,
+          "formattedSize": "189.32 KB",
+          "gzipSize": 193868
+        },
+        {
+          "name": "upsala_-_fishing_town.webp",
+          "path": "images/locations_backup/upsala_-_fishing_town.webp",
+          "size": 193372,
+          "formattedSize": "188.84 KB",
+          "gzipSize": 193372
+        },
+        {
+          "name": "hipposorc.webp",
+          "path": "images/artifacts/hipposorc.webp",
+          "size": 193182,
+          "formattedSize": "188.65 KB",
+          "gzipSize": 193182
+        },
+        {
+          "name": "tobar_and_fizz_14.webp",
+          "path": "images/artifacts/tobar_and_fizz_14.webp",
+          "size": 191850,
+          "formattedSize": "187.35 KB",
+          "gzipSize": 191850
+        },
+        {
+          "name": "tir_zinith.webp",
+          "path": "images/artifacts/tir_zinith.webp",
+          "size": 191826,
+          "formattedSize": "187.33 KB",
+          "gzipSize": 191826
+        },
+        {
+          "name": "Ice Lotus.webp",
+          "path": "images/characters/Ice Lotus.webp",
+          "size": 191598,
+          "formattedSize": "187.11 KB",
+          "gzipSize": 191598
+        },
+        {
+          "name": "the_zephyr_serpent_-_flagship.webp",
+          "path": "images/locations_backup/the_zephyr_serpent_-_flagship.webp",
+          "size": 189984,
+          "formattedSize": "185.53 KB",
+          "gzipSize": 189984
+        },
+        {
+          "name": "kaltfish_capital_of_vandrhaf.webp",
+          "path": "images/locations_backup/kaltfish_capital_of_vandrhaf.webp",
+          "size": 189636,
+          "formattedSize": "185.19 KB",
+          "gzipSize": 189636
+        },
+        {
+          "name": "black_wyrmsteed_v2.jpg",
+          "path": "images/artifacts/black_wyrmsteed_v2.jpg",
+          "size": 189207,
+          "formattedSize": "184.77 KB",
+          "gzipSize": 189207
+        },
+        {
+          "name": "vorloths_phylactery.webp",
+          "path": "images/artifacts/vorloths_phylactery.webp",
+          "size": 188508,
+          "formattedSize": "184.09 KB",
+          "gzipSize": 188508
+        },
+        {
+          "name": "village_of_haven.webp",
+          "path": "images/locations_backup/village_of_haven.webp",
+          "size": 188508,
+          "formattedSize": "184.09 KB",
+          "gzipSize": 188508
+        },
+        {
+          "name": "zyndarai_hold.webp",
+          "path": "images/artifacts/zyndarai_hold.webp",
+          "size": 188412,
+          "formattedSize": "184 KB",
+          "gzipSize": 188412
+        },
+        {
+          "name": "castle_on_a_hill_in_the_dales.webp",
+          "path": "images/artifacts/castle_on_a_hill_in_the_dales.webp",
+          "size": 187828,
+          "formattedSize": "183.43 KB",
+          "gzipSize": 187828
+        },
+        {
+          "name": "lizard_sombreros.webp",
+          "path": "images/artifacts/lizard_sombreros.webp",
+          "size": 187180,
+          "formattedSize": "182.79 KB",
+          "gzipSize": 187180
+        },
+        {
+          "name": "caelum_flameheart.webp",
+          "path": "images/artifacts/caelum_flameheart.webp",
+          "size": 187092,
+          "formattedSize": "182.71 KB",
+          "gzipSize": 187092
+        },
+        {
+          "name": "desert_dance.webp",
+          "path": "images/artifacts/desert_dance.webp",
+          "size": 186622,
+          "formattedSize": "182.25 KB",
+          "gzipSize": 186622
+        },
+        {
+          "name": "Map of Haven.webp",
+          "path": "images/characters/Map of Haven.webp",
+          "size": 186548,
+          "formattedSize": "182.18 KB",
+          "gzipSize": 186548
+        },
+        {
+          "name": "misty_lookout_tavern.webp",
+          "path": "images/artifacts/misty_lookout_tavern.webp",
+          "size": 185260,
+          "formattedSize": "180.92 KB",
+          "gzipSize": 185260
+        },
+        {
+          "name": "verdant_heartwood_talisman_v2.webp",
+          "path": "images/items/verdant_heartwood_talisman_v2.webp",
+          "size": 185014,
+          "formattedSize": "180.68 KB",
+          "gzipSize": 185014
+        },
+        {
+          "name": "wearbear_barbarian.webp",
+          "path": "images/artifacts/wearbear_barbarian.webp",
+          "size": 185006,
+          "formattedSize": "180.67 KB",
+          "gzipSize": 185006
+        },
+        {
+          "name": "the_shadow_mark.webp",
+          "path": "images/artifacts/the_shadow_mark.webp",
+          "size": 184870,
+          "formattedSize": "180.54 KB",
+          "gzipSize": 184870
+        },
+        {
+          "name": "Ora'Kai.webp",
+          "path": "images/deities/Ora'Kai.webp",
+          "size": 184564,
+          "formattedSize": "180.24 KB",
+          "gzipSize": 184564
+        },
+        {
+          "name": "crypts-set-1.jpg",
+          "path": "images/maps/crypts-set-1.jpg",
+          "size": 184225,
+          "formattedSize": "179.91 KB",
+          "gzipSize": 184225
+        },
+        {
+          "name": "lizard_man.webp",
+          "path": "images/artifacts/lizard_man.webp",
+          "size": 184170,
+          "formattedSize": "179.85 KB",
+          "gzipSize": 184170
+        },
+        {
+          "name": "follower_of_lloth.webp",
+          "path": "images/artifacts/follower_of_lloth.webp",
+          "size": 182678,
+          "formattedSize": "178.4 KB",
+          "gzipSize": 182678
+        },
+        {
+          "name": "magister_thaldir_stonebender.webp",
+          "path": "images/locations_backup/magister_thaldir_stonebender.webp",
+          "size": 182620,
+          "formattedSize": "178.34 KB",
+          "gzipSize": 182620
+        },
+        {
+          "name": "leonin_paladin_-_fighter.webp",
+          "path": "images/artifacts/leonin_paladin_-_fighter.webp",
+          "size": 182500,
+          "formattedSize": "178.22 KB",
+          "gzipSize": 182500
+        },
+        {
+          "name": "henge_open-air_market.webp",
+          "path": "images/locations_backup/henge_open-air_market.webp",
+          "size": 181556,
+          "formattedSize": "177.3 KB",
+          "gzipSize": 181556
+        },
+        {
+          "name": "sac_endingdespair_1600x1243_72dpi.webp",
+          "path": "images/maps/sac_endingdespair_1600x1243_72dpi.webp",
+          "size": 181054,
+          "formattedSize": "176.81 KB",
+          "gzipSize": 181054
+        },
+        {
+          "name": "lost_city_of_eldrathis.webp",
+          "path": "images/artifacts/lost_city_of_eldrathis.webp",
+          "size": 180868,
+          "formattedSize": "176.63 KB",
+          "gzipSize": 180868
+        },
+        {
+          "name": "maelin_windrider.webp",
+          "path": "images/locations_backup/maelin_windrider.webp",
+          "size": 180672,
+          "formattedSize": "176.44 KB",
+          "gzipSize": 180672
+        },
+        {
+          "name": "the Astral Triad.webp",
+          "path": "images/deities/the Astral Triad.webp",
+          "size": 179456,
+          "formattedSize": "175.25 KB",
+          "gzipSize": 179456
+        },
+        {
+          "name": "respite2.jpg",
+          "path": "images/maps/respite2.jpg",
+          "size": 179150,
+          "formattedSize": "174.95 KB",
+          "gzipSize": 179150
+        },
+        {
+          "name": "lineton.webp",
+          "path": "images/artifacts/lineton.webp",
+          "size": 178516,
+          "formattedSize": "174.33 KB",
+          "gzipSize": 178516
+        },
+        {
+          "name": "brimor_s_spyglass.webp",
+          "path": "images/characters/brimor_s_spyglass.webp",
+          "size": 178266,
+          "formattedSize": "174.09 KB",
+          "gzipSize": 178266
+        },
+        {
+          "name": "tobar_and_fizz_6.webp",
+          "path": "images/artifacts/tobar_and_fizz_6.webp",
+          "size": 178142,
+          "formattedSize": "173.97 KB",
+          "gzipSize": 178142
+        },
+        {
+          "name": "The Wall - Northern Entry.webp",
+          "path": "images/characters/The Wall - Northern Entry.webp",
+          "size": 177624,
+          "formattedSize": "173.46 KB",
+          "gzipSize": 177624
+        },
+        {
+          "name": "Aelthorin.webp",
+          "path": "images/deities/Aelthorin.webp",
+          "size": 177396,
+          "formattedSize": "173.24 KB",
+          "gzipSize": 177396
+        },
+        {
+          "name": "aestus.webp",
+          "path": "images/artifacts/aestus.webp",
+          "size": 177386,
+          "formattedSize": "173.23 KB",
+          "gzipSize": 177386
+        },
+        {
+          "name": "male_frost_giant.webp",
+          "path": "images/artifacts/male_frost_giant.webp",
+          "size": 177372,
+          "formattedSize": "173.21 KB",
+          "gzipSize": 177372
+        },
+        {
+          "name": "astraia.webp",
+          "path": "images/artifacts/astraia.webp",
+          "size": 177316,
+          "formattedSize": "173.16 KB",
+          "gzipSize": 177316
+        },
+        {
+          "name": "Lord Commander Drakar Clawforge.webp",
+          "path": "images/characters/Lord Commander Drakar Clawforge.webp",
+          "size": 177010,
+          "formattedSize": "172.86 KB",
+          "gzipSize": 177010
+        },
+        {
+          "name": "infernostride.webp",
+          "path": "images/locations_backup/infernostride.webp",
+          "size": 176314,
+          "formattedSize": "172.18 KB",
+          "gzipSize": 176314
+        },
+        {
+          "name": "elf_wizard_2.webp",
+          "path": "images/artifacts/elf_wizard_2.webp",
+          "size": 175312,
+          "formattedSize": "171.2 KB",
+          "gzipSize": 175312
+        },
+        {
+          "name": "sac_zogruins03_1600x1243_72dpi.webp",
+          "path": "images/maps/sac_zogruins03_1600x1243_72dpi.webp",
+          "size": 175138,
+          "formattedSize": "171.03 KB",
+          "gzipSize": 175138
+        },
+        {
+          "name": "tobar_and_fizz_17.webp",
+          "path": "images/artifacts/tobar_and_fizz_17.webp",
+          "size": 175020,
+          "formattedSize": "170.92 KB",
+          "gzipSize": 175020
+        },
+        {
+          "name": "Nekrulon.webp",
+          "path": "images/deities/Nekrulon.webp",
+          "size": 174988,
+          "formattedSize": "170.89 KB",
+          "gzipSize": 174988
+        },
+        {
+          "name": "tobar_and_fizz_7.webp",
+          "path": "images/artifacts/tobar_and_fizz_7.webp",
+          "size": 174818,
+          "formattedSize": "170.72 KB",
+          "gzipSize": 174818
+        },
+        {
+          "name": "The Dales.webp",
+          "path": "images/locations/The Dales.webp",
+          "size": 174086,
+          "formattedSize": "170.01 KB",
+          "gzipSize": 174086
+        },
+        {
+          "name": "crypts-set-2.jpg",
+          "path": "images/maps/crypts-set-2.jpg",
+          "size": 173448,
+          "formattedSize": "169.38 KB",
+          "gzipSize": 173448
+        },
+        {
+          "name": "mistress_elysa_truthseeker.webp",
+          "path": "images/locations_backup/mistress_elysa_truthseeker.webp",
+          "size": 173020,
+          "formattedSize": "168.96 KB",
+          "gzipSize": 173020
+        },
+        {
+          "name": "amulet_of_yorandis.webp",
+          "path": "images/characters/amulet_of_yorandis.webp",
+          "size": 172848,
+          "formattedSize": "168.8 KB",
+          "gzipSize": 172848
+        },
+        {
+          "name": "luminous_amulet_of_yorandis.webp",
+          "path": "images/items/luminous_amulet_of_yorandis.webp",
+          "size": 172848,
+          "formattedSize": "168.8 KB",
+          "gzipSize": 172848
+        },
+        {
+          "name": "tortle_monestary_on_uxmal.webp",
+          "path": "images/artifacts/tortle_monestary_on_uxmal.webp",
+          "size": 172668,
+          "formattedSize": "168.62 KB",
+          "gzipSize": 172668
+        },
+        {
+          "name": "tobar_and_fizz_4.webp",
+          "path": "images/artifacts/tobar_and_fizz_4.webp",
+          "size": 172574,
+          "formattedSize": "168.53 KB",
+          "gzipSize": 172574
+        },
+        {
+          "name": "the_monument_of_echoes.webp",
+          "path": "images/artifacts/the_monument_of_echoes.webp",
+          "size": 172358,
+          "formattedSize": "168.32 KB",
+          "gzipSize": 172358
+        },
+        {
+          "name": "tobar_and_fizz_3.webp",
+          "path": "images/artifacts/tobar_and_fizz_3.webp",
+          "size": 172102,
+          "formattedSize": "168.07 KB",
+          "gzipSize": 172102
+        },
+        {
+          "name": "wolfen_fighter.webp",
+          "path": "images/artifacts/wolfen_fighter.webp",
+          "size": 171880,
+          "formattedSize": "167.85 KB",
+          "gzipSize": 171880
+        },
+        {
+          "name": "lion_tabaxi_gladiator.webp",
+          "path": "images/artifacts/lion_tabaxi_gladiator.webp",
+          "size": 171676,
+          "formattedSize": "167.65 KB",
+          "gzipSize": 171676
+        },
+        {
+          "name": "tobar_and_fizz_19.webp",
+          "path": "images/artifacts/tobar_and_fizz_19.webp",
+          "size": 171648,
+          "formattedSize": "167.63 KB",
+          "gzipSize": 171648
+        },
+        {
+          "name": "researching_the_enchanted_door_of_whispering_oaks.webp",
+          "path": "images/characters/researching_the_enchanted_door_of_whispering_oaks.webp",
+          "size": 171234,
+          "formattedSize": "167.22 KB",
+          "gzipSize": 171234
+        },
+        {
+          "name": "Thaldir.webp",
+          "path": "images/deities/Thaldir.webp",
+          "size": 171116,
+          "formattedSize": "167.11 KB",
+          "gzipSize": 171116
+        },
+        {
+          "name": "graldin_thistlewood.webp",
+          "path": "images/locations_backup/graldin_thistlewood.webp",
+          "size": 170806,
+          "formattedSize": "166.8 KB",
+          "gzipSize": 170806
+        },
+        {
+          "name": "imre.webp",
+          "path": "images/characters/imre.webp",
+          "size": 170760,
+          "formattedSize": "166.76 KB",
+          "gzipSize": 170760
+        },
+        {
+          "name": "half-elf_wizard_1.webp",
+          "path": "images/artifacts/half-elf_wizard_1.webp",
+          "size": 170678,
+          "formattedSize": "166.68 KB",
+          "gzipSize": 170678
+        },
+        {
+          "name": "arburus.webp",
+          "path": "images/characters/arburus.webp",
+          "size": 170346,
+          "formattedSize": "166.35 KB",
+          "gzipSize": 170346
+        },
+        {
+          "name": "shadowmistress_vaelis_blackfang.webp",
+          "path": "images/locations_backup/shadowmistress_vaelis_blackfang.webp",
+          "size": 169780,
+          "formattedSize": "165.8 KB",
+          "gzipSize": 169780
+        },
+        {
+          "name": "Henge.webp",
+          "path": "images/locations/Henge.webp",
+          "size": 169054,
+          "formattedSize": "165.09 KB",
+          "gzipSize": 169054
+        },
+        {
+          "name": "Grand Master Dragonrider  Kaelin Stormwing.webp",
+          "path": "images/characters/Grand Master Dragonrider  Kaelin Stormwing.webp",
+          "size": 168942,
+          "formattedSize": "164.98 KB",
+          "gzipSize": 168942
+        },
+        {
+          "name": "polar_bear_-_werebear.webp",
+          "path": "images/artifacts/polar_bear_-_werebear.webp",
+          "size": 168660,
+          "formattedSize": "164.71 KB",
+          "gzipSize": 168660
+        },
+        {
+          "name": "badlands_ruined_towers.webp",
+          "path": "images/artifacts/badlands_ruined_towers.webp",
+          "size": 168612,
+          "formattedSize": "164.66 KB",
+          "gzipSize": 168612
+        },
+        {
+          "name": "tobar_and_fizz_16.webp",
+          "path": "images/artifacts/tobar_and_fizz_16.webp",
+          "size": 168508,
+          "formattedSize": "164.56 KB",
+          "gzipSize": 168508
+        },
+        {
+          "name": "high_strategos_selene_scalewarden.webp",
+          "path": "images/locations_backup/high_strategos_selene_scalewarden.webp",
+          "size": 168354,
+          "formattedSize": "164.41 KB",
+          "gzipSize": 168354
+        },
+        {
+          "name": "gnomerix_in_gnome_form.webp",
+          "path": "images/characters/gnomerix_in_gnome_form.webp",
+          "size": 168104,
+          "formattedSize": "164.16 KB",
+          "gzipSize": 168104
+        },
+        {
+          "name": "elf_priestess.webp",
+          "path": "images/artifacts/elf_priestess.webp",
+          "size": 167944,
+          "formattedSize": "164.01 KB",
+          "gzipSize": 167944
+        },
+        {
+          "name": "admiral_tinkernock_steambeard.webp",
+          "path": "images/locations_backup/admiral_tinkernock_steambeard.webp",
+          "size": 167660,
+          "formattedSize": "163.73 KB",
+          "gzipSize": 167660
+        },
+        {
+          "name": "goblin_drunken_master_v2.webp",
+          "path": "images/artifacts/goblin_drunken_master_v2.webp",
+          "size": 166952,
+          "formattedSize": "163.04 KB",
+          "gzipSize": 166952
+        },
+        {
+          "name": "ring_of_luminous_valor_v2.webp",
+          "path": "images/items/ring_of_luminous_valor_v2.webp",
+          "size": 166826,
+          "formattedSize": "162.92 KB",
+          "gzipSize": 166826
+        },
+        {
+          "name": "tobar_and_fizz_9.webp",
+          "path": "images/artifacts/tobar_and_fizz_9.webp",
+          "size": 166542,
+          "formattedSize": "162.64 KB",
+          "gzipSize": 166542
+        },
+        {
+          "name": "Solonar.webp",
+          "path": "images/deities/Solonar.webp",
+          "size": 166108,
+          "formattedSize": "162.21 KB",
+          "gzipSize": 166108
+        },
+        {
+          "name": "Brother Cedric.webp",
+          "path": "images/characters/Brother Cedric.webp",
+          "size": 165928,
+          "formattedSize": "162.04 KB",
+          "gzipSize": 165928
+        },
+        {
+          "name": "hibernus.webp",
+          "path": "images/artifacts/hibernus.webp",
+          "size": 165622,
+          "formattedSize": "161.74 KB",
+          "gzipSize": 165622
+        },
+        {
+          "name": "elf_gladiator_fight.webp",
+          "path": "images/artifacts/elf_gladiator_fight.webp",
+          "size": 165464,
+          "formattedSize": "161.59 KB",
+          "gzipSize": 165464
+        },
+        {
+          "name": "dwarven_keep.webp",
+          "path": "images/maps/dwarven_keep.webp",
+          "size": 165420,
+          "formattedSize": "161.54 KB",
+          "gzipSize": 165420
+        },
+        {
+          "name": "dragonborn_1.webp",
+          "path": "images/artifacts/dragonborn_1.webp",
+          "size": 165184,
+          "formattedSize": "161.31 KB",
+          "gzipSize": 165184
+        },
+        {
+          "name": "iss_ellison.webp",
+          "path": "images/artifacts/iss_ellison.webp",
+          "size": 164806,
+          "formattedSize": "160.94 KB",
+          "gzipSize": 164806
+        },
+        {
+          "name": "melodious_lyre_of_harmonia_v2.webp",
+          "path": "images/items/melodious_lyre_of_harmonia_v2.webp",
+          "size": 164634,
+          "formattedSize": "160.78 KB",
+          "gzipSize": 164634
+        },
+        {
+          "name": "tobar_and_fizz_12.webp",
+          "path": "images/artifacts/tobar_and_fizz_12.webp",
+          "size": 164566,
+          "formattedSize": "160.71 KB",
+          "gzipSize": 164566
+        },
+        {
+          "name": "lord_leonidas_ironclaw.webp",
+          "path": "images/artifacts/lord_leonidas_ironclaw.webp",
+          "size": 164518,
+          "formattedSize": "160.66 KB",
+          "gzipSize": 164518
+        },
+        {
+          "name": "elder_shellforge_of_the_tortle.webp",
+          "path": "images/locations_backup/elder_shellforge_of_the_tortle.webp",
+          "size": 164404,
+          "formattedSize": "160.55 KB",
+          "gzipSize": 164404
+        },
+        {
+          "name": "hanging_gardens.webp",
+          "path": "images/artifacts/hanging_gardens.webp",
+          "size": 163968,
+          "formattedSize": "160.13 KB",
+          "gzipSize": 163968
+        },
+        {
+          "name": "high_priestess_lirael_starwhisper.webp",
+          "path": "images/locations_backup/high_priestess_lirael_starwhisper.webp",
+          "size": 163876,
+          "formattedSize": "160.04 KB",
+          "gzipSize": 163876
+        },
+        {
+          "name": "hunter_varric.webp",
+          "path": "images/locations_backup/hunter_varric.webp",
+          "size": 163828,
+          "formattedSize": "159.99 KB",
+          "gzipSize": 163828
+        },
+        {
+          "name": "mayor_elandra_stonehaven.webp",
+          "path": "images/locations_backup/mayor_elandra_stonehaven.webp",
+          "size": 163718,
+          "formattedSize": "159.88 KB",
+          "gzipSize": 163718
+        },
+        {
+          "name": "library_2.webp",
+          "path": "images/artifacts/library_2.webp",
+          "size": 163616,
+          "formattedSize": "159.78 KB",
+          "gzipSize": 163616
+        },
+        {
+          "name": "master_enchanter_dorian_shadowcloak.webp",
+          "path": "images/locations_backup/master_enchanter_dorian_shadowcloak.webp",
+          "size": 163328,
+          "formattedSize": "159.5 KB",
+          "gzipSize": 163328
+        },
+        {
+          "name": "charmhorn_pentant.webp",
+          "path": "images/characters/charmhorn_pentant.webp",
+          "size": 161876,
+          "formattedSize": "158.08 KB",
+          "gzipSize": 161876
+        },
+        {
+          "name": "Veridia.webp",
+          "path": "images/deities/Veridia.webp",
+          "size": 161586,
+          "formattedSize": "157.8 KB",
+          "gzipSize": 161586
+        },
+        {
+          "name": "tobar_and_fizz_8.webp",
+          "path": "images/artifacts/tobar_and_fizz_8.webp",
+          "size": 160846,
+          "formattedSize": "157.08 KB",
+          "gzipSize": 160846
+        },
+        {
+          "name": "evil_spider_guy.webp",
+          "path": "images/artifacts/evil_spider_guy.webp",
+          "size": 159844,
+          "formattedSize": "156.1 KB",
+          "gzipSize": 159844
+        },
+        {
+          "name": "furbs.webp",
+          "path": "images/artifacts/furbs.webp",
+          "size": 159366,
+          "formattedSize": "155.63 KB",
+          "gzipSize": 159366
+        },
+        {
+          "name": "nexus_arcanum_-_grand_library.webp",
+          "path": "images/artifacts/nexus_arcanum_-_grand_library.webp",
+          "size": 159156,
+          "formattedSize": "155.43 KB",
+          "gzipSize": 159156
+        },
+        {
+          "name": "mounnted_red_dragon.webp",
+          "path": "images/artifacts/mounnted_red_dragon.webp",
+          "size": 158958,
+          "formattedSize": "155.23 KB",
+          "gzipSize": 158958
+        },
+        {
+          "name": "frostwolf_of_vilos.webp",
+          "path": "images/artifacts/frostwolf_of_vilos.webp",
+          "size": 157900,
+          "formattedSize": "154.2 KB",
+          "gzipSize": 157900
+        },
+        {
+          "name": "elven_jewel_crafter.webp",
+          "path": "images/artifacts/elven_jewel_crafter.webp",
+          "size": 157756,
+          "formattedSize": "154.06 KB",
+          "gzipSize": 157756
+        },
+        {
+          "name": "raccoon_npc_2.webp",
+          "path": "images/characters/raccoon_npc_2.webp",
+          "size": 157088,
+          "formattedSize": "153.41 KB",
+          "gzipSize": 157088
+        },
+        {
+          "name": "The Wall - Section of Souther Face.webp",
+          "path": "images/characters/The Wall - Section of Souther Face.webp",
+          "size": 156754,
+          "formattedSize": "153.08 KB",
+          "gzipSize": 156754
+        },
+        {
+          "name": "Gulanbarak - The Wall.webp",
+          "path": "images/locations/Gulanbarak - The Wall.webp",
+          "size": 156754,
+          "formattedSize": "153.08 KB",
+          "gzipSize": 156754
+        },
+        {
+          "name": "k_hara.webp",
+          "path": "images/artifacts/k_hara.webp",
+          "size": 156582,
+          "formattedSize": "152.91 KB",
+          "gzipSize": 156582
+        },
+        {
+          "name": "nyxia.webp",
+          "path": "images/artifacts/nyxia.webp",
+          "size": 156358,
+          "formattedSize": "152.69 KB",
+          "gzipSize": 156358
+        },
+        {
+          "name": "moonwhisper.webp",
+          "path": "images/characters/moonwhisper.webp",
+          "size": 156358,
+          "formattedSize": "152.69 KB",
+          "gzipSize": 156358
+        },
+        {
+          "name": "Zarithak.webp",
+          "path": "images/deities/Zarithak.webp",
+          "size": 155932,
+          "formattedSize": "152.28 KB",
+          "gzipSize": 155932
+        },
+        {
+          "name": "Xyrrul.webp",
+          "path": "images/deities/Xyrrul.webp",
+          "size": 155878,
+          "formattedSize": "152.22 KB",
+          "gzipSize": 155878
+        },
+        {
+          "name": "Terraqua.webp",
+          "path": "images/deities/Terraqua.webp",
+          "size": 155858,
+          "formattedSize": "152.21 KB",
+          "gzipSize": 155858
+        },
+        {
+          "name": "abena_silkweaver.webp",
+          "path": "images/locations_backup/abena_silkweaver.webp",
+          "size": 155706,
+          "formattedSize": "152.06 KB",
+          "gzipSize": 155706
+        },
+        {
+          "name": "art_room.webp",
+          "path": "images/artifacts/art_room.webp",
+          "size": 155016,
+          "formattedSize": "151.38 KB",
+          "gzipSize": 155016
+        },
+        {
+          "name": "sukkotto_hantei.webp",
+          "path": "images/artifacts/sukkotto_hantei.webp",
+          "size": 155016,
+          "formattedSize": "151.38 KB",
+          "gzipSize": 155016
+        },
+        {
+          "name": "nightmare_pegasus_2.webp",
+          "path": "images/artifacts/nightmare_pegasus_2.webp",
+          "size": 154940,
+          "formattedSize": "151.31 KB",
+          "gzipSize": 154940
+        },
+        {
+          "name": "aegis_of_luminalis_v2.webp",
+          "path": "images/items/aegis_of_luminalis_v2.webp",
+          "size": 154756,
+          "formattedSize": "151.13 KB",
+          "gzipSize": 154756
+        },
+        {
+          "name": "chronocrystal.webp",
+          "path": "images/artifacts/chronocrystal.webp",
+          "size": 154512,
+          "formattedSize": "150.89 KB",
+          "gzipSize": 154512
+        },
+        {
+          "name": "skyship_forge_in_the_clockwork_city_of_kronus.webp",
+          "path": "images/artifacts/skyship_forge_in_the_clockwork_city_of_kronus.webp",
+          "size": 154498,
+          "formattedSize": "150.88 KB",
+          "gzipSize": 154498
+        },
+        {
+          "name": "green_wyrmsteed.webp",
+          "path": "images/artifacts/green_wyrmsteed.webp",
+          "size": 154178,
+          "formattedSize": "150.56 KB",
+          "gzipSize": 154178
+        },
+        {
+          "name": "daxon_cogtwist.webp",
+          "path": "images/artifacts/daxon_cogtwist.webp",
+          "size": 153464,
+          "formattedSize": "149.87 KB",
+          "gzipSize": 153464
+        },
+        {
+          "name": "uxmal_volcano_-_tyravos_v2.webp",
+          "path": "images/locations_backup/uxmal_volcano_-_tyravos_v2.webp",
+          "size": 153298,
+          "formattedSize": "149.71 KB",
+          "gzipSize": 153298
+        },
+        {
+          "name": "tobar_and_fizz_5.webp",
+          "path": "images/artifacts/tobar_and_fizz_5.webp",
+          "size": 153060,
+          "formattedSize": "149.47 KB",
+          "gzipSize": 153060
+        },
+        {
+          "name": "alchemist_shop.webp",
+          "path": "images/artifacts/alchemist_shop.webp",
+          "size": 152410,
+          "formattedSize": "148.84 KB",
+          "gzipSize": 152410
+        },
+        {
+          "name": "the_luminous_garden_a_jewel_in_the_heart_of_the_clockwork_city_of_kronus.webp",
+          "path": "images/artifacts/the_luminous_garden_a_jewel_in_the_heart_of_the_clockwork_city_of_kronus.webp",
+          "size": 152056,
+          "formattedSize": "148.49 KB",
+          "gzipSize": 152056
+        },
+        {
+          "name": "tobar_and_fizz_18.webp",
+          "path": "images/artifacts/tobar_and_fizz_18.webp",
+          "size": 151502,
+          "formattedSize": "147.95 KB",
+          "gzipSize": 151502
+        },
+        {
+          "name": "cog_and_sprocket_emporium.webp",
+          "path": "images/artifacts/cog_and_sprocket_emporium.webp",
+          "size": 151156,
+          "formattedSize": "147.61 KB",
+          "gzipSize": 151156
+        },
+        {
+          "name": "human_fighter_3.webp",
+          "path": "images/artifacts/human_fighter_3.webp",
+          "size": 151100,
+          "formattedSize": "147.56 KB",
+          "gzipSize": 151100
+        },
+        {
+          "name": "elf_mentalist.webp",
+          "path": "images/artifacts/elf_mentalist.webp",
+          "size": 151032,
+          "formattedSize": "147.49 KB",
+          "gzipSize": 151032
+        },
+        {
+          "name": "baron_tbd.webp",
+          "path": "images/artifacts/baron_tbd.webp",
+          "size": 151026,
+          "formattedSize": "147.49 KB",
+          "gzipSize": 151026
+        },
+        {
+          "name": "drachenmar_24x36_1_inch_scale.webp",
+          "path": "images/maps/drachenmar_24x36_1_inch_scale.webp",
+          "size": 150620,
+          "formattedSize": "147.09 KB",
+          "gzipSize": 150620
+        },
+        {
+          "name": "draachenmar_cover.webp",
+          "path": "images/artifacts/draachenmar_cover.webp",
+          "size": 150606,
+          "formattedSize": "147.08 KB",
+          "gzipSize": 150606
+        },
+        {
+          "name": "otter_dude.webp",
+          "path": "images/artifacts/otter_dude.webp",
+          "size": 150374,
+          "formattedSize": "146.85 KB",
+          "gzipSize": 150374
+        },
+        {
+          "name": "dwarven_corridor.webp",
+          "path": "images/artifacts/dwarven_corridor.webp",
+          "size": 149674,
+          "formattedSize": "146.17 KB",
+          "gzipSize": 149674
+        },
+        {
+          "name": "whispering_woods.webp",
+          "path": "images/artifacts/whispering_woods.webp",
+          "size": 149274,
+          "formattedSize": "145.78 KB",
+          "gzipSize": 149274
+        },
+        {
+          "name": "badlands_ruined_keep.webp",
+          "path": "images/artifacts/badlands_ruined_keep.webp",
+          "size": 149212,
+          "formattedSize": "145.71 KB",
+          "gzipSize": 149212
+        },
+        {
+          "name": "captain_ilyra.webp",
+          "path": "images/artifacts/captain_ilyra.webp",
+          "size": 149114,
+          "formattedSize": "145.62 KB",
+          "gzipSize": 149114
+        },
+        {
+          "name": "captain_thalorin_dawnblade.webp",
+          "path": "images/locations_backup/captain_thalorin_dawnblade.webp",
+          "size": 148376,
+          "formattedSize": "144.9 KB",
+          "gzipSize": 148376
+        },
+        {
+          "name": "aurelium_the_lost_city.webp",
+          "path": "images/locations_backup/aurelium_the_lost_city.webp",
+          "size": 148370,
+          "formattedSize": "144.89 KB",
+          "gzipSize": 148370
+        },
+        {
+          "name": "draconis_ignis.webp",
+          "path": "images/artifacts/draconis_ignis.webp",
+          "size": 148098,
+          "formattedSize": "144.63 KB",
+          "gzipSize": 148098
+        },
+        {
+          "name": "gold_dragon.webp",
+          "path": "images/artifacts/gold_dragon.webp",
+          "size": 148074,
+          "formattedSize": "144.6 KB",
+          "gzipSize": 148074
+        },
+        {
+          "name": "king_rathgar_ironhammer.webp",
+          "path": "images/locations_backup/king_rathgar_ironhammer.webp",
+          "size": 147992,
+          "formattedSize": "144.52 KB",
+          "gzipSize": 147992
+        },
+        {
+          "name": "black_wyrmsteed_v2.webp",
+          "path": "images/artifacts/black_wyrmsteed_v2.webp",
+          "size": 147452,
+          "formattedSize": "144 KB",
+          "gzipSize": 147452
+        },
+        {
+          "name": "black_half-dragon_pegasus.webp",
+          "path": "images/artifacts/black_half-dragon_pegasus.webp",
+          "size": 147394,
+          "formattedSize": "143.94 KB",
+          "gzipSize": 147394
+        },
+        {
+          "name": "black_wyrmsteed.webp",
+          "path": "images/artifacts/black_wyrmsteed.webp",
+          "size": 147394,
+          "formattedSize": "143.94 KB",
+          "gzipSize": 147394
+        },
+        {
+          "name": "darthme_create_an_illustration_of_captain_nyssa_ironclaw_arma_d448b99e-998d-4965-bdda-e95d5506bf7f_0.webp",
+          "path": "images/artifacts/darthme_create_an_illustration_of_captain_nyssa_ironclaw_arma_d448b99e-998d-4965-bdda-e95d5506bf7f_0.webp",
+          "size": 146538,
+          "formattedSize": "143.1 KB",
+          "gzipSize": 146538
+        },
+        {
+          "name": "the_clockwork_city_of_kronus.webp",
+          "path": "images/artifacts/the_clockwork_city_of_kronus.webp",
+          "size": 146348,
+          "formattedSize": "142.92 KB",
+          "gzipSize": 146348
+        },
+        {
+          "name": "Lirix.webp",
+          "path": "images/deities/Lirix.webp",
+          "size": 146194,
+          "formattedSize": "142.77 KB",
+          "gzipSize": 146194
+        },
+        {
+          "name": "Verdantia.webp",
+          "path": "images/deities/Verdantia.webp",
+          "size": 146166,
+          "formattedSize": "142.74 KB",
+          "gzipSize": 146166
+        },
+        {
+          "name": "high_shaman_emberheart_of_the_humans.webp",
+          "path": "images/artifacts/high_shaman_emberheart_of_the_humans.webp",
+          "size": 146066,
+          "formattedSize": "142.64 KB",
+          "gzipSize": 146066
+        },
+        {
+          "name": "high_shaman_emberheart_of_the_humans.webp",
+          "path": "images/locations_backup/high_shaman_emberheart_of_the_humans.webp",
+          "size": 146066,
+          "formattedSize": "142.64 KB",
+          "gzipSize": 146066
+        },
+        {
+          "name": "tobar_and_fizz_15.webp",
+          "path": "images/artifacts/tobar_and_fizz_15.webp",
+          "size": 145664,
+          "formattedSize": "142.25 KB",
+          "gzipSize": 145664
+        },
+        {
+          "name": "duke_alaric_of_aerlin.webp",
+          "path": "images/locations_backup/duke_alaric_of_aerlin.webp",
+          "size": 145346,
+          "formattedSize": "141.94 KB",
+          "gzipSize": 145346
+        },
+        {
+          "name": "city_of_uxmal_suburbs.webp",
+          "path": "images/artifacts/city_of_uxmal_suburbs.webp",
+          "size": 145218,
+          "formattedSize": "141.81 KB",
+          "gzipSize": 145218
+        },
+        {
+          "name": "tobar_and_fizz_11.webp",
+          "path": "images/artifacts/tobar_and_fizz_11.webp",
+          "size": 145160,
+          "formattedSize": "141.76 KB",
+          "gzipSize": 145160
+        },
+        {
+          "name": "shadowreaver_scepter.webp",
+          "path": "images/locations_backup/shadowreaver_scepter.webp",
+          "size": 144692,
+          "formattedSize": "141.3 KB",
+          "gzipSize": 144692
+        },
+        {
+          "name": "master_thalgrim_forgeheart.webp",
+          "path": "images/locations_backup/master_thalgrim_forgeheart.webp",
+          "size": 144420,
+          "formattedSize": "141.04 KB",
+          "gzipSize": 144420
+        },
+        {
+          "name": "halfling_priest.webp",
+          "path": "images/artifacts/halfling_priest.webp",
+          "size": 143822,
+          "formattedSize": "140.45 KB",
+          "gzipSize": 143822
+        },
+        {
+          "name": "human_hunter.webp",
+          "path": "images/artifacts/human_hunter.webp",
+          "size": 143462,
+          "formattedSize": "140.1 KB",
+          "gzipSize": 143462
+        },
+        {
+          "name": "orphan_2.webp",
+          "path": "images/artifacts/orphan_2.webp",
+          "size": 143392,
+          "formattedSize": "140.03 KB",
+          "gzipSize": 143392
+        },
+        {
+          "name": "tobar_and_fizz_13.webp",
+          "path": "images/artifacts/tobar_and_fizz_13.webp",
+          "size": 143306,
+          "formattedSize": "139.95 KB",
+          "gzipSize": 143306
+        },
+        {
+          "name": "crystal_memory_vault.webp",
+          "path": "images/artifacts/crystal_memory_vault.webp",
+          "size": 143046,
+          "formattedSize": "139.69 KB",
+          "gzipSize": 143046
+        },
+        {
+          "name": "respite.jpg",
+          "path": "images/maps/respite.jpg",
+          "size": 142968,
+          "formattedSize": "139.62 KB",
+          "gzipSize": 142968
+        },
+        {
+          "name": "chief_scalesong_of_the_lizardfolk.webp",
+          "path": "images/locations_backup/chief_scalesong_of_the_lizardfolk.webp",
+          "size": 142898,
+          "formattedSize": "139.55 KB",
+          "gzipSize": 142898
+        },
+        {
+          "name": "yurta_queen_of_frost.webp",
+          "path": "images/locations_backup/yurta_queen_of_frost.webp",
+          "size": 142782,
+          "formattedSize": "139.44 KB",
+          "gzipSize": 142782
+        },
+        {
+          "name": "City of Respite.webp",
+          "path": "images/characters/City of Respite.webp",
+          "size": 142636,
+          "formattedSize": "139.29 KB",
+          "gzipSize": 142636
+        },
+        {
+          "name": "Respite.webp",
+          "path": "images/locations/Respite.webp",
+          "size": 142636,
+          "formattedSize": "139.29 KB",
+          "gzipSize": 142636
+        },
+        {
+          "name": "yorandis.webp",
+          "path": "images/characters/yorandis.webp",
+          "size": 142618,
+          "formattedSize": "139.28 KB",
+          "gzipSize": 142618
+        },
+        {
+          "name": "trident.webp",
+          "path": "images/artifacts/trident.webp",
+          "size": 142070,
+          "formattedSize": "138.74 KB",
+          "gzipSize": 142070
+        },
+        {
+          "name": "merchant_caravan.webp",
+          "path": "images/artifacts/merchant_caravan.webp",
+          "size": 141880,
+          "formattedSize": "138.55 KB",
+          "gzipSize": 141880
+        },
+        {
+          "name": "drake_the_damned.webp",
+          "path": "images/characters/drake_the_damned.webp",
+          "size": 140642,
+          "formattedSize": "137.35 KB",
+          "gzipSize": 140642
+        },
+        {
+          "name": "lizardman_jungle_warrior.webp",
+          "path": "images/artifacts/lizardman_jungle_warrior.webp",
+          "size": 139712,
+          "formattedSize": "136.44 KB",
+          "gzipSize": 139712
+        },
+        {
+          "name": "high_scholar_thandor_stoneforge.webp",
+          "path": "images/locations_backup/high_scholar_thandor_stoneforge.webp",
+          "size": 139526,
+          "formattedSize": "136.26 KB",
+          "gzipSize": 139526
+        },
+        {
+          "name": "tobar_and_fizz_asian_hiro.webp",
+          "path": "images/artifacts/tobar_and_fizz_asian_hiro.webp",
+          "size": 139478,
+          "formattedSize": "136.21 KB",
+          "gzipSize": 139478
+        },
+        {
+          "name": "gnomerix_in_dragon_form.webp",
+          "path": "images/characters/gnomerix_in_dragon_form.webp",
+          "size": 138976,
+          "formattedSize": "135.72 KB",
+          "gzipSize": 138976
+        },
+        {
+          "name": "swamp_village.webp",
+          "path": "images/artifacts/swamp_village.webp",
+          "size": 138852,
+          "formattedSize": "135.6 KB",
+          "gzipSize": 138852
+        },
+        {
+          "name": "the_arcane_archives.webp",
+          "path": "images/artifacts/the_arcane_archives.webp",
+          "size": 138758,
+          "formattedSize": "135.51 KB",
+          "gzipSize": 138758
+        },
+        {
+          "name": "elara_hearhtstone.webp",
+          "path": "images/locations_backup/elara_hearhtstone.webp",
+          "size": 138720,
+          "formattedSize": "135.47 KB",
+          "gzipSize": 138720
+        },
+        {
+          "name": "sac_zogruins01_1666x1301_72dpi.webp",
+          "path": "images/maps/sac_zogruins01_1666x1301_72dpi.webp",
+          "size": 138448,
+          "formattedSize": "135.2 KB",
+          "gzipSize": 138448
+        },
+        {
+          "name": "tobar_and_fizz_10.webp",
+          "path": "images/artifacts/tobar_and_fizz_10.webp",
+          "size": 138124,
+          "formattedSize": "134.89 KB",
+          "gzipSize": 138124
+        },
+        {
+          "name": "solanus.webp",
+          "path": "images/artifacts/solanus.webp",
+          "size": 137864,
+          "formattedSize": "134.63 KB",
+          "gzipSize": 137864
+        },
+        {
+          "name": "foliara.webp",
+          "path": "images/artifacts/foliara.webp",
+          "size": 137314,
+          "formattedSize": "134.1 KB",
+          "gzipSize": 137314
+        },
+        {
+          "name": "Prince Balthyr Ironhammer.webp",
+          "path": "images/characters/Prince Balthyr Ironhammer.webp",
+          "size": 136844,
+          "formattedSize": "133.64 KB",
+          "gzipSize": 136844
+        },
+        {
+          "name": "Argentus.webp",
+          "path": "images/characters/Argentus.webp",
+          "size": 136640,
+          "formattedSize": "133.44 KB",
+          "gzipSize": 136640
+        },
+        {
+          "name": "orc_gladiator.webp",
+          "path": "images/artifacts/orc_gladiator.webp",
+          "size": 136100,
+          "formattedSize": "132.91 KB",
+          "gzipSize": 136100
+        },
+        {
+          "name": "guardian_rolkar.webp",
+          "path": "images/locations_backup/guardian_rolkar.webp",
+          "size": 136026,
+          "formattedSize": "132.84 KB",
+          "gzipSize": 136026
+        },
+        {
+          "name": "human_alchemist.webp",
+          "path": "images/artifacts/human_alchemist.webp",
+          "size": 135970,
+          "formattedSize": "132.78 KB",
+          "gzipSize": 135970
+        },
+        {
+          "name": "lady_elara_moonlatch_the_keeper_of_the_arcane_archives_in_the_clockwork_city_of_kronus.webp",
+          "path": "images/artifacts/lady_elara_moonlatch_the_keeper_of_the_arcane_archives_in_the_clockwork_city_of_kronus.webp",
+          "size": 135206,
+          "formattedSize": "132.04 KB",
+          "gzipSize": 135206
+        },
+        {
+          "name": "village_2.webp",
+          "path": "images/artifacts/village_2.webp",
+          "size": 135178,
+          "formattedSize": "132.01 KB",
+          "gzipSize": 135178
+        },
+        {
+          "name": "tavern.webp",
+          "path": "images/artifacts/tavern.webp",
+          "size": 134920,
+          "formattedSize": "131.76 KB",
+          "gzipSize": 134920
+        },
+        {
+          "name": "blacksmith_shop_2.webp",
+          "path": "images/artifacts/blacksmith_shop_2.webp",
+          "size": 134616,
+          "formattedSize": "131.46 KB",
+          "gzipSize": 134616
+        },
+        {
+          "name": "the_starlit_sanctum.webp",
+          "path": "images/artifacts/the_starlit_sanctum.webp",
+          "size": 134542,
+          "formattedSize": "131.39 KB",
+          "gzipSize": 134542
+        },
+        {
+          "name": "Aqumaris.webp",
+          "path": "images/deities/Aqumaris.webp",
+          "size": 134188,
+          "formattedSize": "131.04 KB",
+          "gzipSize": 134188
+        },
+        {
+          "name": "dwarf_blacksmith.webp",
+          "path": "images/artifacts/dwarf_blacksmith.webp",
+          "size": 133958,
+          "formattedSize": "130.82 KB",
+          "gzipSize": 133958
+        },
+        {
+          "name": "oblieg.webp",
+          "path": "images/artifacts/oblieg.webp",
+          "size": 133620,
+          "formattedSize": "130.49 KB",
+          "gzipSize": 133620
+        },
+        {
+          "name": "dancing_tumble_weeds.webp",
+          "path": "images/artifacts/dancing_tumble_weeds.webp",
+          "size": 133366,
+          "formattedSize": "130.24 KB",
+          "gzipSize": 133366
+        },
+        {
+          "name": "dutchess_valeria_of_veringia.webp",
+          "path": "images/locations_backup/dutchess_valeria_of_veringia.webp",
+          "size": 132568,
+          "formattedSize": "129.46 KB",
+          "gzipSize": 132568
+        },
+        {
+          "name": "human_fighter_4.webp",
+          "path": "images/artifacts/human_fighter_4.webp",
+          "size": 132032,
+          "formattedSize": "128.94 KB",
+          "gzipSize": 132032
+        },
+        {
+          "name": "lady_vaelora_nightwind.webp",
+          "path": "images/locations_backup/lady_vaelora_nightwind.webp",
+          "size": 132022,
+          "formattedSize": "128.93 KB",
+          "gzipSize": 132022
+        },
+        {
+          "name": "drow_wizard_male.webp",
+          "path": "images/artifacts/drow_wizard_male.webp",
+          "size": 131986,
+          "formattedSize": "128.89 KB",
+          "gzipSize": 131986
+        },
+        {
+          "name": "yumiko_starlight.webp",
+          "path": "images/artifacts/yumiko_starlight.webp",
+          "size": 131866,
+          "formattedSize": "128.78 KB",
+          "gzipSize": 131866
+        },
+        {
+          "name": "market_1.webp",
+          "path": "images/artifacts/market_1.webp",
+          "size": 131720,
+          "formattedSize": "128.63 KB",
+          "gzipSize": 131720
+        },
+        {
+          "name": "the_band_of_loyalty.webp",
+          "path": "images/characters/the_band_of_loyalty.webp",
+          "size": 131582,
+          "formattedSize": "128.5 KB",
+          "gzipSize": 131582
+        },
+        {
+          "name": "sac_faneofhisrathi02_1600x1243_72dpi.webp",
+          "path": "images/maps/sac_faneofhisrathi02_1600x1243_72dpi.webp",
+          "size": 131534,
+          "formattedSize": "128.45 KB",
+          "gzipSize": 131534
+        },
+        {
+          "name": "sac_faneofhisrathi03_3366x2615_300dpi.webp",
+          "path": "images/maps/sac_faneofhisrathi03_3366x2615_300dpi.webp",
+          "size": 131466,
+          "formattedSize": "128.38 KB",
+          "gzipSize": 131466
+        },
+        {
+          "name": "upsala_springtime_-_just_before_the_annual_harvest_of_the_ice_lotus.webp",
+          "path": "images/locations_backup/upsala_springtime_-_just_before_the_annual_harvest_of_the_ice_lotus.webp",
+          "size": 131450,
+          "formattedSize": "128.37 KB",
+          "gzipSize": 131450
+        },
+        {
+          "name": "male_veiled.webp",
+          "path": "images/artifacts/male_veiled.webp",
+          "size": 131072,
+          "formattedSize": "128 KB",
+          "gzipSize": 131072
+        },
+        {
+          "name": "xarann.webp",
+          "path": "images/artifacts/xarann.webp",
+          "size": 131058,
+          "formattedSize": "127.99 KB",
+          "gzipSize": 131058
+        },
+        {
+          "name": "cleric_of_life.webp",
+          "path": "images/artifacts/cleric_of_life.webp",
+          "size": 130660,
+          "formattedSize": "127.6 KB",
+          "gzipSize": 130660
+        },
+        {
+          "name": "The Zephyr Serpent - Flagship.webp",
+          "path": "images/characters/The Zephyr Serpent - Flagship.webp",
+          "size": 130628,
+          "formattedSize": "127.57 KB",
+          "gzipSize": 130628
+        },
+        {
+          "name": "furb_3.webp",
+          "path": "images/artifacts/furb_3.webp",
+          "size": 130420,
+          "formattedSize": "127.36 KB",
+          "gzipSize": 130420
+        },
+        {
+          "name": "lylithra_sovereign_of_maelgoroth.webp",
+          "path": "images/locations_backup/lylithra_sovereign_of_maelgoroth.webp",
+          "size": 130046,
+          "formattedSize": "127 KB",
+          "gzipSize": 130046
+        },
+        {
+          "name": "fat_rat_queen.webp",
+          "path": "images/artifacts/fat_rat_queen.webp",
+          "size": 129646,
+          "formattedSize": "126.61 KB",
+          "gzipSize": 129646
+        },
+        {
+          "name": "fontana_aeternum.webp",
+          "path": "images/characters/fontana_aeternum.webp",
+          "size": 129606,
+          "formattedSize": "126.57 KB",
+          "gzipSize": 129606
+        },
+        {
+          "name": "dale_village.webp",
+          "path": "images/artifacts/dale_village.webp",
+          "size": 129558,
+          "formattedSize": "126.52 KB",
+          "gzipSize": 129558
+        },
+        {
+          "name": "mahael_varga.webp",
+          "path": "images/characters/mahael_varga.webp",
+          "size": 129546,
+          "formattedSize": "126.51 KB",
+          "gzipSize": 129546
+        },
+        {
+          "name": "planning_defense_of_the_wall.webp",
+          "path": "images/artifacts/planning_defense_of_the_wall.webp",
+          "size": 129496,
+          "formattedSize": "126.46 KB",
+          "gzipSize": 129496
+        },
+        {
+          "name": "high_counselor_elowyn.webp",
+          "path": "images/locations_backup/high_counselor_elowyn.webp",
+          "size": 129402,
+          "formattedSize": "126.37 KB",
+          "gzipSize": 129402
+        },
+        {
+          "name": "archmage_drakarn_spellbinder.webp",
+          "path": "images/locations_backup/archmage_drakarn_spellbinder.webp",
+          "size": 129112,
+          "formattedSize": "126.09 KB",
+          "gzipSize": 129112
+        },
+        {
+          "name": "mallard_rogue.webp",
+          "path": "images/artifacts/mallard_rogue.webp",
+          "size": 128704,
+          "formattedSize": "125.69 KB",
+          "gzipSize": 128704
+        },
+        {
+          "name": "archmagus_sylaria_frostshaper.webp",
+          "path": "images/locations_backup/archmagus_sylaria_frostshaper.webp",
+          "size": 128412,
+          "formattedSize": "125.4 KB",
+          "gzipSize": 128412
+        },
+        {
+          "name": "u-zaer_capital_of_maelgoroth.webp",
+          "path": "images/locations_backup/u-zaer_capital_of_maelgoroth.webp",
+          "size": 128300,
+          "formattedSize": "125.29 KB",
+          "gzipSize": 128300
+        },
+        {
+          "name": "bramblefoot_bumblehatch.webp",
+          "path": "images/locations_backup/bramblefoot_bumblehatch.webp",
+          "size": 128150,
+          "formattedSize": "125.15 KB",
+          "gzipSize": 128150
+        },
+        {
+          "name": "respite.webp",
+          "path": "images/maps/respite.webp",
+          "size": 128026,
+          "formattedSize": "125.03 KB",
+          "gzipSize": 128026
+        },
+        {
+          "name": "zephyron.webp",
+          "path": "images/artifacts/zephyron.webp",
+          "size": 127818,
+          "formattedSize": "124.82 KB",
+          "gzipSize": 127818
+        },
+        {
+          "name": "silver_chalice_tavern_upsala.webp",
+          "path": "images/artifacts/silver_chalice_tavern_upsala.webp",
+          "size": 127466,
+          "formattedSize": "124.48 KB",
+          "gzipSize": 127466
+        },
+        {
+          "name": "black_dragonborn.webp",
+          "path": "images/artifacts/black_dragonborn.webp",
+          "size": 127342,
+          "formattedSize": "124.36 KB",
+          "gzipSize": 127342
+        },
+        {
+          "name": "goblin_psi-warrior.webp",
+          "path": "images/artifacts/goblin_psi-warrior.webp",
+          "size": 127176,
+          "formattedSize": "124.2 KB",
+          "gzipSize": 127176
+        },
+        {
+          "name": "book_cover.webp",
+          "path": "images/artifacts/book_cover.webp",
+          "size": 126926,
+          "formattedSize": "123.95 KB",
+          "gzipSize": 126926
+        },
+        {
+          "name": "archdruid_lirael_sunshadow.webp",
+          "path": "images/locations_backup/archdruid_lirael_sunshadow.webp",
+          "size": 126650,
+          "formattedSize": "123.68 KB",
+          "gzipSize": 126650
+        },
+        {
+          "name": "goblin_shaman.webp",
+          "path": "images/artifacts/goblin_shaman.webp",
+          "size": 126490,
+          "formattedSize": "123.53 KB",
+          "gzipSize": 126490
+        },
+        {
+          "name": "elf_wizard.webp",
+          "path": "images/artifacts/elf_wizard.webp",
+          "size": 126038,
+          "formattedSize": "123.08 KB",
+          "gzipSize": 126038
+        },
+        {
+          "name": "clockwork_dragon.webp",
+          "path": "images/artifacts/clockwork_dragon.webp",
+          "size": 125836,
+          "formattedSize": "122.89 KB",
+          "gzipSize": 125836
+        },
+        {
+          "name": "starlight_haven_orphanage.webp",
+          "path": "images/artifacts/starlight_haven_orphanage.webp",
+          "size": 125628,
+          "formattedSize": "122.68 KB",
+          "gzipSize": 125628
+        },
+        {
+          "name": "queen_cirilia_of_the_great_wood.webp",
+          "path": "images/locations_backup/queen_cirilia_of_the_great_wood.webp",
+          "size": 125444,
+          "formattedSize": "122.5 KB",
+          "gzipSize": 125444
+        },
+        {
+          "name": "bugbear_1.webp",
+          "path": "images/artifacts/bugbear_1.webp",
+          "size": 125420,
+          "formattedSize": "122.48 KB",
+          "gzipSize": 125420
+        },
+        {
+          "name": "female_vampire_2.webp",
+          "path": "images/artifacts/female_vampire_2.webp",
+          "size": 125238,
+          "formattedSize": "122.3 KB",
+          "gzipSize": 125238
+        },
+        {
+          "name": "Upsala - Fishing Town.webp",
+          "path": "images/characters/Upsala - Fishing Town.webp",
+          "size": 125168,
+          "formattedSize": "122.23 KB",
+          "gzipSize": 125168
+        },
+        {
+          "name": "Upsala.webp",
+          "path": "images/locations/Upsala.webp",
+          "size": 125168,
+          "formattedSize": "122.23 KB",
+          "gzipSize": 125168
+        },
+        {
+          "name": "library.webp",
+          "path": "images/artifacts/library.webp",
+          "size": 125054,
+          "formattedSize": "122.12 KB",
+          "gzipSize": 125054
+        },
+        {
+          "name": "spellweaver_lyria_stormrider.webp",
+          "path": "images/locations_backup/spellweaver_lyria_stormrider.webp",
+          "size": 124894,
+          "formattedSize": "121.97 KB",
+          "gzipSize": 124894
+        },
+        {
+          "name": "glim_sparkwhistle_grand_artificer_of_kronus.webp",
+          "path": "images/locations_backup/glim_sparkwhistle_grand_artificer_of_kronus.webp",
+          "size": 124626,
+          "formattedSize": "121.71 KB",
+          "gzipSize": 124626
+        },
+        {
+          "name": "tomb_1.webp",
+          "path": "images/maps/tomb_1.webp",
+          "size": 124278,
+          "formattedSize": "121.37 KB",
+          "gzipSize": 124278
+        },
+        {
+          "name": "aurelia_windshaper.webp",
+          "path": "images/locations_backup/aurelia_windshaper.webp",
+          "size": 124254,
+          "formattedSize": "121.34 KB",
+          "gzipSize": 124254
+        },
+        {
+          "name": "female_vampire_1.webp",
+          "path": "images/artifacts/female_vampire_1.webp",
+          "size": 123644,
+          "formattedSize": "120.75 KB",
+          "gzipSize": 123644
+        },
+        {
+          "name": "Kaltfish Capital of Vandrhaf.webp",
+          "path": "images/characters/Kaltfish Capital of Vandrhaf.webp",
+          "size": 123612,
+          "formattedSize": "120.71 KB",
+          "gzipSize": 123612
+        },
+        {
+          "name": "Kaltfish.webp",
+          "path": "images/locations/Kaltfish.webp",
+          "size": 123612,
+          "formattedSize": "120.71 KB",
+          "gzipSize": 123612
+        },
+        {
+          "name": "pirate_lady.webp",
+          "path": "images/artifacts/pirate_lady.webp",
+          "size": 123246,
+          "formattedSize": "120.36 KB",
+          "gzipSize": 123246
+        },
+        {
+          "name": "baroness_tbd.webp",
+          "path": "images/artifacts/baroness_tbd.webp",
+          "size": 123174,
+          "formattedSize": "120.29 KB",
+          "gzipSize": 123174
+        },
+        {
+          "name": "chancellor_nimbus_gearturner.webp",
+          "path": "images/artifacts/chancellor_nimbus_gearturner.webp",
+          "size": 123076,
+          "formattedSize": "120.19 KB",
+          "gzipSize": 123076
+        },
+        {
+          "name": "rustic_fishing_village.webp",
+          "path": "images/artifacts/rustic_fishing_village.webp",
+          "size": 122754,
+          "formattedSize": "119.88 KB",
+          "gzipSize": 122754
+        },
+        {
+          "name": "drow_female_1.webp",
+          "path": "images/artifacts/drow_female_1.webp",
+          "size": 122184,
+          "formattedSize": "119.32 KB",
+          "gzipSize": 122184
+        },
+        {
+          "name": "furb_5.webp",
+          "path": "images/artifacts/furb_5.webp",
+          "size": 121816,
+          "formattedSize": "118.96 KB",
+          "gzipSize": 121816
+        },
+        {
+          "name": "the_orb_of_phuquyuall.webp",
+          "path": "images/characters/the_orb_of_phuquyuall.webp",
+          "size": 121526,
+          "formattedSize": "118.68 KB",
+          "gzipSize": 121526
+        },
+        {
+          "name": "open_air_market_of_henge.webp",
+          "path": "images/artifacts/open_air_market_of_henge.webp",
+          "size": 121314,
+          "formattedSize": "118.47 KB",
+          "gzipSize": 121314
+        },
+        {
+          "name": "egon.webp",
+          "path": "images/characters/egon.webp",
+          "size": 121084,
+          "formattedSize": "118.25 KB",
+          "gzipSize": 121084
+        },
+        {
+          "name": "astral_elf.webp",
+          "path": "images/artifacts/astral_elf.webp",
+          "size": 120786,
+          "formattedSize": "117.96 KB",
+          "gzipSize": 120786
+        },
+        {
+          "name": "elf_sorceress.webp",
+          "path": "images/artifacts/elf_sorceress.webp",
+          "size": 120664,
+          "formattedSize": "117.84 KB",
+          "gzipSize": 120664
+        },
+        {
+          "name": "antonius_iacomus.webp",
+          "path": "images/locations_backup/antonius_iacomus.webp",
+          "size": 120606,
+          "formattedSize": "117.78 KB",
+          "gzipSize": 120606
+        },
+        {
+          "name": "Henge Market.webp",
+          "path": "images/locations/Henge Market.webp",
+          "size": 120270,
+          "formattedSize": "117.45 KB",
+          "gzipSize": 120270
+        },
+        {
+          "name": "umbra.webp",
+          "path": "images/artifacts/umbra.webp",
+          "size": 120178,
+          "formattedSize": "117.36 KB",
+          "gzipSize": 120178
+        },
+        {
+          "name": "drow_house_matron.webp",
+          "path": "images/artifacts/drow_house_matron.webp",
+          "size": 119960,
+          "formattedSize": "117.15 KB",
+          "gzipSize": 119960
+        },
+        {
+          "name": "apothacary.webp",
+          "path": "images/artifacts/apothacary.webp",
+          "size": 119726,
+          "formattedSize": "116.92 KB",
+          "gzipSize": 119726
+        },
+        {
+          "name": "queen_kelda_ironhammer.webp",
+          "path": "images/locations_backup/queen_kelda_ironhammer.webp",
+          "size": 119544,
+          "formattedSize": "116.74 KB",
+          "gzipSize": 119544
+        },
+        {
+          "name": "karthag_the_bloody_v2.webp",
+          "path": "images/artifacts/karthag_the_bloody_v2.webp",
+          "size": 119228,
+          "formattedSize": "116.43 KB",
+          "gzipSize": 119228
+        },
+        {
+          "name": "orc_warior.webp",
+          "path": "images/artifacts/orc_warior.webp",
+          "size": 119228,
+          "formattedSize": "116.43 KB",
+          "gzipSize": 119228
+        },
+        {
+          "name": "jasper_of_melodies.webp",
+          "path": "images/artifacts/jasper_of_melodies.webp",
+          "size": 119156,
+          "formattedSize": "116.36 KB",
+          "gzipSize": 119156
+        },
+        {
+          "name": "hellhound.webp",
+          "path": "images/artifacts/hellhound.webp",
+          "size": 118772,
+          "formattedSize": "115.99 KB",
+          "gzipSize": 118772
+        },
+        {
+          "name": "celestial_sovereign.webp",
+          "path": "images/artifacts/celestial_sovereign.webp",
+          "size": 118698,
+          "formattedSize": "115.92 KB",
+          "gzipSize": 118698
+        },
+        {
+          "name": "The Lost City of Eldrathis.webp",
+          "path": "images/locations/The Lost City of Eldrathis.webp",
+          "size": 118500,
+          "formattedSize": "115.72 KB",
+          "gzipSize": 118500
+        },
+        {
+          "name": "frosthearth_inn_upsala.webp",
+          "path": "images/artifacts/frosthearth_inn_upsala.webp",
+          "size": 118486,
+          "formattedSize": "115.71 KB",
+          "gzipSize": 118486
+        },
+        {
+          "name": "sky_raider_goblin.webp",
+          "path": "images/artifacts/sky_raider_goblin.webp",
+          "size": 118458,
+          "formattedSize": "115.68 KB",
+          "gzipSize": 118458
+        },
+        {
+          "name": "lukas_the_one-man_band.webp",
+          "path": "images/characters/lukas_the_one-man_band.webp",
+          "size": 117958,
+          "formattedSize": "115.19 KB",
+          "gzipSize": 117958
+        },
+        {
+          "name": "Village of Haven.webp",
+          "path": "images/characters/Village of Haven.webp",
+          "size": 117118,
+          "formattedSize": "114.37 KB",
+          "gzipSize": 117118
+        },
+        {
+          "name": "sac_2017-00_warrens01_hi-res.webp",
+          "path": "images/maps/sac_2017-00_warrens01_hi-res.webp",
+          "size": 116562,
+          "formattedSize": "113.83 KB",
+          "gzipSize": 116562
+        },
+        {
+          "name": "goblin_drunken_master.webp",
+          "path": "images/artifacts/goblin_drunken_master.webp",
+          "size": 116254,
+          "formattedSize": "113.53 KB",
+          "gzipSize": 116254
+        },
+        {
+          "name": "dark_forest_keep.webp",
+          "path": "images/artifacts/dark_forest_keep.webp",
+          "size": 116098,
+          "formattedSize": "113.38 KB",
+          "gzipSize": 116098
+        },
+        {
+          "name": "professor_marwen_earthshaper.webp",
+          "path": "images/locations_backup/professor_marwen_earthshaper.webp",
+          "size": 114932,
+          "formattedSize": "112.24 KB",
+          "gzipSize": 114932
+        },
+        {
+          "name": "graal.webp",
+          "path": "images/artifacts/graal.webp",
+          "size": 114824,
+          "formattedSize": "112.13 KB",
+          "gzipSize": 114824
+        },
+        {
+          "name": "Maelin Windrider.webp",
+          "path": "images/characters/Maelin Windrider.webp",
+          "size": 114336,
+          "formattedSize": "111.66 KB",
+          "gzipSize": 114336
+        },
+        {
+          "name": "darthme_depict_the_voidclaw_a_400-ton_nishemani-class_raider_e713eb5f-a75b-45c0-837e-c796bc5a51de_1.webp",
+          "path": "images/artifacts/darthme_depict_the_voidclaw_a_400-ton_nishemani-class_raider_e713eb5f-a75b-45c0-837e-c796bc5a51de_1.webp",
+          "size": 113598,
+          "formattedSize": "110.94 KB",
+          "gzipSize": 113598
+        },
+        {
+          "name": "Aestus.webp",
+          "path": "images/deities/Aestus.webp",
+          "size": 113452,
+          "formattedSize": "110.79 KB",
+          "gzipSize": 113452
+        },
+        {
+          "name": "ashenwight.webp",
+          "path": "images/artifacts/ashenwight.webp",
+          "size": 113028,
+          "formattedSize": "110.38 KB",
+          "gzipSize": 113028
+        },
+        {
+          "name": "market_square.webp",
+          "path": "images/artifacts/market_square.webp",
+          "size": 112858,
+          "formattedSize": "110.21 KB",
+          "gzipSize": 112858
+        },
+        {
+          "name": "Mistress Elysa Truthseeker.webp",
+          "path": "images/characters/Mistress Elysa Truthseeker.webp",
+          "size": 112654,
+          "formattedSize": "110.01 KB",
+          "gzipSize": 112654
+        },
+        {
+          "name": "sac_demontemple_1600x1243_72dpi.webp",
+          "path": "images/maps/sac_demontemple_1600x1243_72dpi.webp",
+          "size": 112222,
+          "formattedSize": "109.59 KB",
+          "gzipSize": 112222
+        },
+        {
+          "name": "ebonforge_blacksmith.webp",
+          "path": "images/artifacts/ebonforge_blacksmith.webp",
+          "size": 112168,
+          "formattedSize": "109.54 KB",
+          "gzipSize": 112168
+        },
+        {
+          "name": "crypts_of_eternity.webp",
+          "path": "images/artifacts/crypts_of_eternity.webp",
+          "size": 112136,
+          "formattedSize": "109.51 KB",
+          "gzipSize": 112136
+        },
+        {
+          "name": "javon.webp",
+          "path": "images/artifacts/javon.webp",
+          "size": 111582,
+          "formattedSize": "108.97 KB",
+          "gzipSize": 111582
+        },
+        {
+          "name": "human_fighter_2_female.webp",
+          "path": "images/artifacts/human_fighter_2_female.webp",
+          "size": 111268,
+          "formattedSize": "108.66 KB",
+          "gzipSize": 111268
+        },
+        {
+          "name": "laelira_shadowdancer.webp",
+          "path": "images/artifacts/laelira_shadowdancer.webp",
+          "size": 111268,
+          "formattedSize": "108.66 KB",
+          "gzipSize": 111268
+        },
+        {
+          "name": "orcish_war_elephant.webp",
+          "path": "images/artifacts/orcish_war_elephant.webp",
+          "size": 111092,
+          "formattedSize": "108.49 KB",
+          "gzipSize": 111092
+        },
+        {
+          "name": "gellen.webp",
+          "path": "images/artifacts/gellen.webp",
+          "size": 110846,
+          "formattedSize": "108.25 KB",
+          "gzipSize": 110846
+        },
+        {
+          "name": "dwarf_artifier.webp",
+          "path": "images/artifacts/dwarf_artifier.webp",
+          "size": 110754,
+          "formattedSize": "108.16 KB",
+          "gzipSize": 110754
+        },
+        {
+          "name": "High Strategos Selene Scalewarden.webp",
+          "path": "images/characters/High Strategos Selene Scalewarden.webp",
+          "size": 110140,
+          "formattedSize": "107.56 KB",
+          "gzipSize": 110140
+        },
+        {
+          "name": "cintaria.webp",
+          "path": "images/artifacts/cintaria.webp",
+          "size": 109840,
+          "formattedSize": "107.27 KB",
+          "gzipSize": 109840
+        },
+        {
+          "name": "ambassador_galadriel_starfall.webp",
+          "path": "images/locations_backup/ambassador_galadriel_starfall.webp",
+          "size": 109650,
+          "formattedSize": "107.08 KB",
+          "gzipSize": 109650
+        },
+        {
+          "name": "Astraia.webp",
+          "path": "images/deities/Astraia.webp",
+          "size": 109628,
+          "formattedSize": "107.06 KB",
+          "gzipSize": 109628
+        },
+        {
+          "name": "sage_elowyn.webp",
+          "path": "images/locations_backup/sage_elowyn.webp",
+          "size": 109606,
+          "formattedSize": "107.04 KB",
+          "gzipSize": 109606
+        },
+        {
+          "name": "Shadowmistress Vaelis Blackfang.webp",
+          "path": "images/characters/Shadowmistress Vaelis Blackfang.webp",
+          "size": 109466,
+          "formattedSize": "106.9 KB",
+          "gzipSize": 109466
+        },
+        {
+          "name": "starfire_amulet_v2.webp",
+          "path": "images/items/starfire_amulet_v2.webp",
+          "size": 109210,
+          "formattedSize": "106.65 KB",
+          "gzipSize": 109210
+        },
+        {
+          "name": "white_dragon.webp",
+          "path": "images/artifacts/white_dragon.webp",
+          "size": 108974,
+          "formattedSize": "106.42 KB",
+          "gzipSize": 108974
+        },
+        {
+          "name": "snow_covered_mountain.webp",
+          "path": "images/artifacts/snow_covered_mountain.webp",
+          "size": 108822,
+          "formattedSize": "106.27 KB",
+          "gzipSize": 108822
+        },
+        {
+          "name": "temporalband.webp",
+          "path": "images/artifacts/temporalband.webp",
+          "size": 108658,
+          "formattedSize": "106.11 KB",
+          "gzipSize": 108658
+        },
+        {
+          "name": "sand_drake.webp",
+          "path": "images/artifacts/sand_drake.webp",
+          "size": 108604,
+          "formattedSize": "106.06 KB",
+          "gzipSize": 108604
+        },
+        {
+          "name": "arakokra_1.webp",
+          "path": "images/artifacts/arakokra_1.webp",
+          "size": 108330,
+          "formattedSize": "105.79 KB",
+          "gzipSize": 108330
+        },
+        {
+          "name": "sac_faneofhisrathi01_1600x1243_72dpi.webp",
+          "path": "images/maps/sac_faneofhisrathi01_1600x1243_72dpi.webp",
+          "size": 108300,
+          "formattedSize": "105.76 KB",
+          "gzipSize": 108300
+        },
+        {
+          "name": "dwarf_innkeeper.webp",
+          "path": "images/artifacts/dwarf_innkeeper.webp",
+          "size": 108284,
+          "formattedSize": "105.75 KB",
+          "gzipSize": 108284
+        },
+        {
+          "name": "archmage_elara_fireweaver.webp",
+          "path": "images/locations_backup/archmage_elara_fireweaver.webp",
+          "size": 108244,
+          "formattedSize": "105.71 KB",
+          "gzipSize": 108244
+        },
+        {
+          "name": "airship_ethereal.webp",
+          "path": "images/artifacts/airship_ethereal.webp",
+          "size": 108234,
+          "formattedSize": "105.7 KB",
+          "gzipSize": 108234
+        },
+        {
+          "name": "zander.webp",
+          "path": "images/artifacts/zander.webp",
+          "size": 108224,
+          "formattedSize": "105.69 KB",
+          "gzipSize": 108224
+        },
+        {
+          "name": "house_in_the_dales.webp",
+          "path": "images/artifacts/house_in_the_dales.webp",
+          "size": 108028,
+          "formattedSize": "105.5 KB",
+          "gzipSize": 108028
+        },
+        {
+          "name": "Hunter Varric.webp",
+          "path": "images/characters/Hunter Varric.webp",
+          "size": 107816,
+          "formattedSize": "105.29 KB",
+          "gzipSize": 107816
+        },
+        {
+          "name": "dark_elf_queen.webp",
+          "path": "images/artifacts/dark_elf_queen.webp",
+          "size": 107716,
+          "formattedSize": "105.19 KB",
+          "gzipSize": 107716
+        },
+        {
+          "name": "half-elf_wizard_2.webp",
+          "path": "images/artifacts/half-elf_wizard_2.webp",
+          "size": 107592,
+          "formattedSize": "105.07 KB",
+          "gzipSize": 107592
+        },
+        {
+          "name": "aeris_skysong_of_the_aarakocra.webp",
+          "path": "images/locations_backup/aeris_skysong_of_the_aarakocra.webp",
+          "size": 107422,
+          "formattedSize": "104.9 KB",
+          "gzipSize": 107422
+        },
+        {
+          "name": "tbd_tabaxi.webp",
+          "path": "images/artifacts/tbd_tabaxi.webp",
+          "size": 107218,
+          "formattedSize": "104.71 KB",
+          "gzipSize": 107218
+        },
+        {
+          "name": "master_ranger_thandor_wildtracker.webp",
+          "path": "images/locations_backup/master_ranger_thandor_wildtracker.webp",
+          "size": 107084,
+          "formattedSize": "104.57 KB",
+          "gzipSize": 107084
+        },
+        {
+          "name": "male_vampire_1.webp",
+          "path": "images/artifacts/male_vampire_1.webp",
+          "size": 106906,
+          "formattedSize": "104.4 KB",
+          "gzipSize": 106906
+        },
+        {
+          "name": "Admiral Tinkernock Steambeard.webp",
+          "path": "images/characters/Admiral Tinkernock Steambeard.webp",
+          "size": 106802,
+          "formattedSize": "104.3 KB",
+          "gzipSize": 106802
+        },
+        {
+          "name": "claymorph_ball.webp",
+          "path": "images/items/claymorph_ball.webp",
+          "size": 106458,
+          "formattedSize": "103.96 KB",
+          "gzipSize": 106458
+        },
+        {
+          "name": "dragon_rider.webp",
+          "path": "images/artifacts/dragon_rider.webp",
+          "size": 106444,
+          "formattedSize": "103.95 KB",
+          "gzipSize": 106444
+        },
+        {
+          "name": "the_hermit_-_aurelius_draelorin.webp",
+          "path": "images/locations_backup/the_hermit_-_aurelius_draelorin.webp",
+          "size": 106216,
+          "formattedSize": "103.73 KB",
+          "gzipSize": 106216
+        },
+        {
+          "name": "respite2.webp",
+          "path": "images/maps/respite2.webp",
+          "size": 105840,
+          "formattedSize": "103.36 KB",
+          "gzipSize": 105840
+        },
+        {
+          "name": "prince_darrin_ironhammer.webp",
+          "path": "images/locations_backup/prince_darrin_ironhammer.webp",
+          "size": 105828,
+          "formattedSize": "103.35 KB",
+          "gzipSize": 105828
+        },
+        {
+          "name": "dark_elf_priestess.webp",
+          "path": "images/artifacts/dark_elf_priestess.webp",
+          "size": 105438,
+          "formattedSize": "102.97 KB",
+          "gzipSize": 105438
+        },
+        {
+          "name": "crypts-set-1.webp",
+          "path": "images/maps/crypts-set-1.webp",
+          "size": 105066,
+          "formattedSize": "102.6 KB",
+          "gzipSize": 105066
+        },
+        {
+          "name": "High Priestess Lirael Starwhisper.webp",
+          "path": "images/characters/High Priestess Lirael Starwhisper.webp",
+          "size": 105026,
+          "formattedSize": "102.56 KB",
+          "gzipSize": 105026
+        },
+        {
+          "name": "elf_animist.webp",
+          "path": "images/artifacts/elf_animist.webp",
+          "size": 104282,
+          "formattedSize": "101.84 KB",
+          "gzipSize": 104282
+        },
+        {
+          "name": "furb_4.webp",
+          "path": "images/artifacts/furb_4.webp",
+          "size": 103318,
+          "formattedSize": "100.9 KB",
+          "gzipSize": 103318
+        },
+        {
+          "name": "nubian_female.webp",
+          "path": "images/artifacts/nubian_female.webp",
+          "size": 103268,
+          "formattedSize": "100.85 KB",
+          "gzipSize": 103268
+        },
+        {
+          "name": "songblade_of_elandriel_v2.webp",
+          "path": "images/items/songblade_of_elandriel_v2.webp",
+          "size": 102884,
+          "formattedSize": "100.47 KB",
+          "gzipSize": 102884
+        },
+        {
+          "name": "undead_elf.webp",
+          "path": "images/artifacts/undead_elf.webp",
+          "size": 102404,
+          "formattedSize": "100 KB",
+          "gzipSize": 102404
+        },
+        {
+          "name": "Nyxia.webp",
+          "path": "images/deities/Nyxia.webp",
+          "size": 102292,
+          "formattedSize": "99.89 KB",
+          "gzipSize": 102292
+        },
+        {
+          "name": "zemyr.webp",
+          "path": "images/artifacts/zemyr.webp",
+          "size": 102178,
+          "formattedSize": "99.78 KB",
+          "gzipSize": 102178
+        },
+        {
+          "name": "frostbane.webp",
+          "path": "images/items/frostbane.webp",
+          "size": 102082,
+          "formattedSize": "99.69 KB",
+          "gzipSize": 102082
+        },
+        {
+          "name": "shigly.webp",
+          "path": "images/artifacts/shigly.webp",
+          "size": 102068,
+          "formattedSize": "99.68 KB",
+          "gzipSize": 102068
+        },
+        {
+          "name": "Mayor Elandra Stonehaven.webp",
+          "path": "images/characters/Mayor Elandra Stonehaven.webp",
+          "size": 101960,
+          "formattedSize": "99.57 KB",
+          "gzipSize": 101960
+        },
+        {
+          "name": "Elder Shellforge.webp",
+          "path": "images/characters/Elder Shellforge.webp",
+          "size": 101896,
+          "formattedSize": "99.51 KB",
+          "gzipSize": 101896
+        },
+        {
+          "name": "King Rathgar Ironhammer.webp",
+          "path": "images/characters/King Rathgar Ironhammer.webp",
+          "size": 101856,
+          "formattedSize": "99.47 KB",
+          "gzipSize": 101856
+        },
+        {
+          "name": "warforged.webp",
+          "path": "images/artifacts/warforged.webp",
+          "size": 101466,
+          "formattedSize": "99.09 KB",
+          "gzipSize": 101466
+        },
+        {
+          "name": "minotaur_cleric_braum.webp",
+          "path": "images/artifacts/minotaur_cleric_braum.webp",
+          "size": 101162,
+          "formattedSize": "98.79 KB",
+          "gzipSize": 101162
+        },
+        {
+          "name": "Graldin Thistlewood.webp",
+          "path": "images/characters/Graldin Thistlewood.webp",
+          "size": 101018,
+          "formattedSize": "98.65 KB",
+          "gzipSize": 101018
+        },
+        {
+          "name": "child_1.webp",
+          "path": "images/artifacts/child_1.webp",
+          "size": 100882,
+          "formattedSize": "98.52 KB",
+          "gzipSize": 100882
+        },
+        {
+          "name": "archdiviner_seraphina_starwhisper.webp",
+          "path": "images/locations_backup/archdiviner_seraphina_starwhisper.webp",
+          "size": 100546,
+          "formattedSize": "98.19 KB",
+          "gzipSize": 100546
+        },
+        {
+          "name": "alchemist_kaelin.webp",
+          "path": "images/locations_backup/alchemist_kaelin.webp",
+          "size": 100298,
+          "formattedSize": "97.95 KB",
+          "gzipSize": 100298
+        },
+        {
+          "name": "Hibernus.webp",
+          "path": "images/deities/Hibernus.webp",
+          "size": 99786,
+          "formattedSize": "97.45 KB",
+          "gzipSize": 99786
+        },
+        {
+          "name": "hill_small_bae.webp",
+          "path": "images/maps/hill_small_bae.webp",
+          "size": 99486,
+          "formattedSize": "97.15 KB",
+          "gzipSize": 99486
+        },
+        {
+          "name": "Daxon Cogtwist.webp",
+          "path": "images/characters/Daxon Cogtwist.webp",
+          "size": 99186,
+          "formattedSize": "96.86 KB",
+          "gzipSize": 99186
+        },
+        {
+          "name": "yenzaphir.webp",
+          "path": "images/artifacts/yenzaphir.webp",
+          "size": 99146,
+          "formattedSize": "96.82 KB",
+          "gzipSize": 99146
+        },
+        {
+          "name": "brynlee_piff.webp",
+          "path": "images/characters/brynlee_piff.webp",
+          "size": 98994,
+          "formattedSize": "96.67 KB",
+          "gzipSize": 98994
+        },
+        {
+          "name": "furbius.webp",
+          "path": "images/artifacts/furbius.webp",
+          "size": 98448,
+          "formattedSize": "96.14 KB",
+          "gzipSize": 98448
+        },
+        {
+          "name": "crypts-set-2.webp",
+          "path": "images/maps/crypts-set-2.webp",
+          "size": 98248,
+          "formattedSize": "95.95 KB",
+          "gzipSize": 98248
+        },
+        {
+          "name": "ordek.webp",
+          "path": "images/artifacts/ordek.webp",
+          "size": 98192,
+          "formattedSize": "95.89 KB",
+          "gzipSize": 98192
+        },
+        {
+          "name": "undead_witch.webp",
+          "path": "images/artifacts/undead_witch.webp",
+          "size": 98018,
+          "formattedSize": "95.72 KB",
+          "gzipSize": 98018
+        },
+        {
+          "name": "pelthorn_fortress.webp",
+          "path": "images/locations_backup/pelthorn_fortress.webp",
+          "size": 98018,
+          "formattedSize": "95.72 KB",
+          "gzipSize": 98018
+        },
+        {
+          "name": "Master Enchanter Dorian Shadowcloak.webp",
+          "path": "images/characters/Master Enchanter Dorian Shadowcloak.webp",
+          "size": 97940,
+          "formattedSize": "95.64 KB",
+          "gzipSize": 97940
+        },
+        {
+          "name": "Uxmal Volcano - Tyravos v2.webp",
+          "path": "images/characters/Uxmal Volcano - Tyravos v2.webp",
+          "size": 97808,
+          "formattedSize": "95.52 KB",
+          "gzipSize": 97808
+        },
+        {
+          "name": "Tyravos.webp",
+          "path": "images/locations/Tyravos.webp",
+          "size": 97808,
+          "formattedSize": "95.52 KB",
+          "gzipSize": 97808
+        },
+        {
+          "name": "crypts-of-the-lich-lord-3.webp",
+          "path": "images/maps/crypts-of-the-lich-lord-3.webp",
+          "size": 97522,
+          "formattedSize": "95.24 KB",
+          "gzipSize": 97522
+        },
+        {
+          "name": "scribe_elandra_tomekeeper.webp",
+          "path": "images/locations_backup/scribe_elandra_tomekeeper.webp",
+          "size": 97470,
+          "formattedSize": "95.19 KB",
+          "gzipSize": 97470
+        },
+        {
+          "name": "nyble.webp",
+          "path": "images/artifacts/nyble.webp",
+          "size": 97152,
+          "formattedSize": "94.88 KB",
+          "gzipSize": 97152
+        },
+        {
+          "name": "alfgand.webp",
+          "path": "images/artifacts/alfgand.webp",
+          "size": 97026,
+          "formattedSize": "94.75 KB",
+          "gzipSize": 97026
+        },
+        {
+          "name": "obsidian_goliath.webp",
+          "path": "images/artifacts/obsidian_goliath.webp",
+          "size": 96750,
+          "formattedSize": "94.48 KB",
+          "gzipSize": 96750
+        },
+        {
+          "name": "zephyria_windwhisper.webp",
+          "path": "images/artifacts/zephyria_windwhisper.webp",
+          "size": 96610,
+          "formattedSize": "94.35 KB",
+          "gzipSize": 96610
+        },
+        {
+          "name": "tabaxi_sorcerer.webp",
+          "path": "images/artifacts/tabaxi_sorcerer.webp",
+          "size": 96564,
+          "formattedSize": "94.3 KB",
+          "gzipSize": 96564
+        },
+        {
+          "name": "kolos.webp",
+          "path": "images/characters/kolos.webp",
+          "size": 96276,
+          "formattedSize": "94.02 KB",
+          "gzipSize": 96276
+        },
+        {
+          "name": "the_astral_comet.webp",
+          "path": "images/artifacts/the_astral_comet.webp",
+          "size": 96110,
+          "formattedSize": "93.86 KB",
+          "gzipSize": 96110
+        },
+        {
+          "name": "aldus.webp",
+          "path": "images/artifacts/aldus.webp",
+          "size": 95984,
+          "formattedSize": "93.73 KB",
+          "gzipSize": 95984
+        },
+        {
+          "name": "eoji.webp",
+          "path": "images/artifacts/eoji.webp",
+          "size": 95680,
+          "formattedSize": "93.44 KB",
+          "gzipSize": 95680
+        },
+        {
+          "name": "Yurta Queen of Frost.webp",
+          "path": "images/characters/Yurta Queen of Frost.webp",
+          "size": 95410,
+          "formattedSize": "93.17 KB",
+          "gzipSize": 95410
+        },
+        {
+          "name": "half-elf_ranger.webp",
+          "path": "images/artifacts/half-elf_ranger.webp",
+          "size": 95344,
+          "formattedSize": "93.11 KB",
+          "gzipSize": 95344
+        },
+        {
+          "name": "tabaxi_fat_lady.webp",
+          "path": "images/artifacts/tabaxi_fat_lady.webp",
+          "size": 95322,
+          "formattedSize": "93.09 KB",
+          "gzipSize": 95322
+        },
+        {
+          "name": "ranger_faelan_wildshadow.webp",
+          "path": "images/locations_backup/ranger_faelan_wildshadow.webp",
+          "size": 94976,
+          "formattedSize": "92.75 KB",
+          "gzipSize": 94976
+        },
+        {
+          "name": "mummy_lord.webp",
+          "path": "images/artifacts/mummy_lord.webp",
+          "size": 94866,
+          "formattedSize": "92.64 KB",
+          "gzipSize": 94866
+        },
+        {
+          "name": "Captain Thalorin Dawnblade.webp",
+          "path": "images/characters/Captain Thalorin Dawnblade.webp",
+          "size": 94590,
+          "formattedSize": "92.37 KB",
+          "gzipSize": 94590
+        },
+        {
+          "name": "Aurelium the Lost City.webp",
+          "path": "images/characters/Aurelium the Lost City.webp",
+          "size": 94542,
+          "formattedSize": "92.33 KB",
+          "gzipSize": 94542
+        },
+        {
+          "name": "Aurelium.webp",
+          "path": "images/locations/Aurelium.webp",
+          "size": 94542,
+          "formattedSize": "92.33 KB",
+          "gzipSize": 94542
+        },
+        {
+          "name": "High Shaman Emberheart.webp",
+          "path": "images/characters/High Shaman Emberheart.webp",
+          "size": 94108,
+          "formattedSize": "91.9 KB",
+          "gzipSize": 94108
+        },
+        {
+          "name": "Chief Scalesong of the Lizardfolk.webp",
+          "path": "images/characters/Chief Scalesong of the Lizardfolk.webp",
+          "size": 94036,
+          "formattedSize": "91.83 KB",
+          "gzipSize": 94036
+        },
+        {
+          "name": "sword_-_umbral.webp",
+          "path": "images/artifacts/sword_-_umbral.webp",
+          "size": 93900,
+          "formattedSize": "91.7 KB",
+          "gzipSize": 93900
+        },
+        {
+          "name": "Draconis Ignis.webp",
+          "path": "images/deities/Draconis Ignis.webp",
+          "size": 93742,
+          "formattedSize": "91.54 KB",
+          "gzipSize": 93742
+        },
+        {
+          "name": "black_dragon.webp",
+          "path": "images/artifacts/black_dragon.webp",
+          "size": 93538,
+          "formattedSize": "91.35 KB",
+          "gzipSize": 93538
+        },
+        {
+          "name": "ansgar.webp",
+          "path": "images/characters/ansgar.webp",
+          "size": 93472,
+          "formattedSize": "91.28 KB",
+          "gzipSize": 93472
+        },
+        {
+          "name": "tabaxi_merchant_2.webp",
+          "path": "images/artifacts/tabaxi_merchant_2.webp",
+          "size": 93382,
+          "formattedSize": "91.19 KB",
+          "gzipSize": 93382
+        },
+        {
+          "name": "starshroud.webp",
+          "path": "images/artifacts/starshroud.webp",
+          "size": 93194,
+          "formattedSize": "91.01 KB",
+          "gzipSize": 93194
+        },
+        {
+          "name": "brogan.webp",
+          "path": "images/artifacts/brogan.webp",
+          "size": 92806,
+          "formattedSize": "90.63 KB",
+          "gzipSize": 92806
+        },
+        {
+          "name": "princess_hilda_ironhammer.webp",
+          "path": "images/locations_backup/princess_hilda_ironhammer.webp",
+          "size": 92652,
+          "formattedSize": "90.48 KB",
+          "gzipSize": 92652
+        },
+        {
+          "name": "malgorth.webp",
+          "path": "images/artifacts/malgorth.webp",
+          "size": 92540,
+          "formattedSize": "90.37 KB",
+          "gzipSize": 92540
+        },
+        {
+          "name": "brimorn_brasspocket.webp",
+          "path": "images/characters/brimorn_brasspocket.webp",
+          "size": 91778,
+          "formattedSize": "89.63 KB",
+          "gzipSize": 91778
+        },
+        {
+          "name": "miklos.webp",
+          "path": "images/characters/miklos.webp",
+          "size": 91242,
+          "formattedSize": "89.1 KB",
+          "gzipSize": 91242
+        },
+        {
+          "name": "Captain Ilyra.webp",
+          "path": "images/characters/Captain Ilyra.webp",
+          "size": 90968,
+          "formattedSize": "88.84 KB",
+          "gzipSize": 90968
+        },
+        {
+          "name": "black_tabaxi_rogue.webp",
+          "path": "images/artifacts/black_tabaxi_rogue.webp",
+          "size": 90662,
+          "formattedSize": "88.54 KB",
+          "gzipSize": 90662
+        },
+        {
+          "name": "raccoon_npc.webp",
+          "path": "images/characters/raccoon_npc.webp",
+          "size": 90040,
+          "formattedSize": "87.93 KB",
+          "gzipSize": 90040
+        },
+        {
+          "name": "heartstone_crystal.webp",
+          "path": "images/artifacts/heartstone_crystal.webp",
+          "size": 89634,
+          "formattedSize": "87.53 KB",
+          "gzipSize": 89634
+        },
+        {
+          "name": "arkenath.webp",
+          "path": "images/artifacts/arkenath.webp",
+          "size": 89604,
+          "formattedSize": "87.5 KB",
+          "gzipSize": 89604
+        },
+        {
+          "name": "Dutchess Valeria of Veringia.webp",
+          "path": "images/characters/Dutchess Valeria of Veringia.webp",
+          "size": 89470,
+          "formattedSize": "87.37 KB",
+          "gzipSize": 89470
+        },
+        {
+          "name": "crypts-of-the-lich-lord-2.webp",
+          "path": "images/maps/crypts-of-the-lich-lord-2.webp",
+          "size": 89418,
+          "formattedSize": "87.32 KB",
+          "gzipSize": 89418
+        },
+        {
+          "name": "velek.webp",
+          "path": "images/artifacts/velek.webp",
+          "size": 89406,
+          "formattedSize": "87.31 KB",
+          "gzipSize": 89406
+        },
+        {
+          "name": "k_hara_the_ancient.webp",
+          "path": "images/artifacts/k_hara_the_ancient.webp",
+          "size": 89300,
+          "formattedSize": "87.21 KB",
+          "gzipSize": 89300
+        },
+        {
+          "name": "k_hara_the_ancient.webp",
+          "path": "images/locations_backup/k_hara_the_ancient.webp",
+          "size": 89300,
+          "formattedSize": "87.21 KB",
+          "gzipSize": 89300
+        },
+        {
+          "name": "Foliara.webp",
+          "path": "images/deities/Foliara.webp",
+          "size": 89174,
+          "formattedSize": "87.08 KB",
+          "gzipSize": 89174
+        },
+        {
+          "name": "sac_tombimrat_1400x1058_72dpi.webp",
+          "path": "images/maps/sac_tombimrat_1400x1058_72dpi.webp",
+          "size": 88984,
+          "formattedSize": "86.9 KB",
+          "gzipSize": 88984
+        },
+        {
+          "name": "noiul_adim_-_gnome_artificer.webp",
+          "path": "images/artifacts/noiul_adim_-_gnome_artificer.webp",
+          "size": 88724,
+          "formattedSize": "86.64 KB",
+          "gzipSize": 88724
+        },
+        {
+          "name": "halfling_wizard.webp",
+          "path": "images/artifacts/halfling_wizard.webp",
+          "size": 88576,
+          "formattedSize": "86.5 KB",
+          "gzipSize": 88576
+        },
+        {
+          "name": "barlow_inn.webp",
+          "path": "images/artifacts/barlow_inn.webp",
+          "size": 88484,
+          "formattedSize": "86.41 KB",
+          "gzipSize": 88484
+        },
+        {
+          "name": "Master Thalgrim Forgeheart.webp",
+          "path": "images/characters/Master Thalgrim Forgeheart.webp",
+          "size": 88392,
+          "formattedSize": "86.32 KB",
+          "gzipSize": 88392
+        },
+        {
+          "name": "Duke Alaric of Aerlin.webp",
+          "path": "images/characters/Duke Alaric of Aerlin.webp",
+          "size": 87680,
+          "formattedSize": "85.63 KB",
+          "gzipSize": 87680
+        },
+        {
+          "name": "Guardian Rolkar.webp",
+          "path": "images/characters/Guardian Rolkar.webp",
+          "size": 86488,
+          "formattedSize": "84.46 KB",
+          "gzipSize": 86488
+        },
+        {
+          "name": "High Scholar Thandor Stoneforge.webp",
+          "path": "images/characters/High Scholar Thandor Stoneforge.webp",
+          "size": 85964,
+          "formattedSize": "83.95 KB",
+          "gzipSize": 85964
+        },
+        {
+          "name": "mayor_eldran.webp",
+          "path": "images/artifacts/mayor_eldran.webp",
+          "size": 85788,
+          "formattedSize": "83.78 KB",
+          "gzipSize": 85788
+        },
+        {
+          "name": "Solanus.webp",
+          "path": "images/deities/Solanus.webp",
+          "size": 85550,
+          "formattedSize": "83.54 KB",
+          "gzipSize": 85550
+        },
+        {
+          "name": "orphan_3.webp",
+          "path": "images/artifacts/orphan_3.webp",
+          "size": 85298,
+          "formattedSize": "83.3 KB",
+          "gzipSize": 85298
+        },
+        {
+          "name": "rividen_map_merchant_of_henge.webp",
+          "path": "images/maps/rividen_map_merchant_of_henge.webp",
+          "size": 85094,
+          "formattedSize": "83.1 KB",
+          "gzipSize": 85094
+        },
+        {
+          "name": "crypts-of-the-lich-lord-4.webp",
+          "path": "images/maps/crypts-of-the-lich-lord-4.webp",
+          "size": 85010,
+          "formattedSize": "83.02 KB",
+          "gzipSize": 85010
+        },
+        {
+          "name": "crypts-of-the-lich-lord-1.webp",
+          "path": "images/maps/crypts-of-the-lich-lord-1.webp",
+          "size": 84422,
+          "formattedSize": "82.44 KB",
+          "gzipSize": 84422
+        },
+        {
+          "name": "Spellweaver Lyria Stormrider.webp",
+          "path": "images/characters/Spellweaver Lyria Stormrider.webp",
+          "size": 84056,
+          "formattedSize": "82.09 KB",
+          "gzipSize": 84056
+        },
+        {
+          "name": "halfling_pirates.webp",
+          "path": "images/artifacts/halfling_pirates.webp",
+          "size": 84048,
+          "formattedSize": "82.08 KB",
+          "gzipSize": 84048
+        },
+        {
+          "name": "tabaxi_merchant.webp",
+          "path": "images/artifacts/tabaxi_merchant.webp",
+          "size": 83658,
+          "formattedSize": "81.7 KB",
+          "gzipSize": 83658
+        },
+        {
+          "name": "crypts-of-the-lich-lord-10.webp",
+          "path": "images/maps/crypts-of-the-lich-lord-10.webp",
+          "size": 83426,
+          "formattedSize": "81.47 KB",
+          "gzipSize": 83426
+        },
+        {
+          "name": "halfling_vampire.webp",
+          "path": "images/artifacts/halfling_vampire.webp",
+          "size": 83246,
+          "formattedSize": "81.29 KB",
+          "gzipSize": 83246
+        },
+        {
+          "name": "Upsala Springtime - Just before the annual harvest of the ice lotus.webp",
+          "path": "images/characters/Upsala Springtime - Just before the annual harvest of the ice lotus.webp",
+          "size": 82848,
+          "formattedSize": "80.91 KB",
+          "gzipSize": 82848
+        },
+        {
+          "name": "Elara Hearhtstone.webp",
+          "path": "images/characters/Elara Hearhtstone.webp",
+          "size": 82580,
+          "formattedSize": "80.64 KB",
+          "gzipSize": 82580
+        },
+        {
+          "name": "beryl.webp",
+          "path": "images/artifacts/beryl.webp",
+          "size": 82472,
+          "formattedSize": "80.54 KB",
+          "gzipSize": 82472
+        },
+        {
+          "name": "Archmage Drakarn Spellbinder.webp",
+          "path": "images/characters/Archmage Drakarn Spellbinder.webp",
+          "size": 82412,
+          "formattedSize": "80.48 KB",
+          "gzipSize": 82412
+        },
+        {
+          "name": "Zephyron.webp",
+          "path": "images/deities/Zephyron.webp",
+          "size": 81606,
+          "formattedSize": "79.69 KB",
+          "gzipSize": 81606
+        },
+        {
+          "name": "duke_cedric_of_merish.webp",
+          "path": "images/locations_backup/duke_cedric_of_merish.webp",
+          "size": 81102,
+          "formattedSize": "79.2 KB",
+          "gzipSize": 81102
+        },
+        {
+          "name": "murkial.webp",
+          "path": "images/artifacts/murkial.webp",
+          "size": 81016,
+          "formattedSize": "79.12 KB",
+          "gzipSize": 81016
+        },
+        {
+          "name": "ularieth.webp",
+          "path": "images/artifacts/ularieth.webp",
+          "size": 80820,
+          "formattedSize": "78.93 KB",
+          "gzipSize": 80820
+        },
+        {
+          "name": "crypts-of-the-lich-lord-6.webp",
+          "path": "images/maps/crypts-of-the-lich-lord-6.webp",
+          "size": 80488,
+          "formattedSize": "78.6 KB",
+          "gzipSize": 80488
+        },
+        {
+          "name": "trader_selene.webp",
+          "path": "images/locations_backup/trader_selene.webp",
+          "size": 80418,
+          "formattedSize": "78.53 KB",
+          "gzipSize": 80418
+        },
+        {
+          "name": "Chancellor Nimbus Gearturner.webp",
+          "path": "images/characters/Chancellor Nimbus Gearturner.webp",
+          "size": 79886,
+          "formattedSize": "78.01 KB",
+          "gzipSize": 79886
+        },
+        {
+          "name": "Archmagus Sylaria Frostshaper.webp",
+          "path": "images/characters/Archmagus Sylaria Frostshaper.webp",
+          "size": 79514,
+          "formattedSize": "77.65 KB",
+          "gzipSize": 79514
+        },
+        {
+          "name": "Glim Sparkwhistle Grand Artificer of Kronus.webp",
+          "path": "images/characters/Glim Sparkwhistle Grand Artificer of Kronus.webp",
+          "size": 79164,
+          "formattedSize": "77.31 KB",
+          "gzipSize": 79164
+        },
+        {
+          "name": "U-Zaer.webp",
+          "path": "images/locations/U-Zaer.webp",
+          "size": 78620,
+          "formattedSize": "76.78 KB",
+          "gzipSize": 78620
+        },
+        {
+          "name": "halfling_vampire_2.webp",
+          "path": "images/artifacts/halfling_vampire_2.webp",
+          "size": 78598,
+          "formattedSize": "76.76 KB",
+          "gzipSize": 78598
+        },
+        {
+          "name": "duke_branwen_duchy_of_braeten.webp",
+          "path": "images/locations_backup/duke_branwen_duchy_of_braeten.webp",
+          "size": 78292,
+          "formattedSize": "76.46 KB",
+          "gzipSize": 78292
+        },
+        {
+          "name": "duke_idris_of_albion.webp",
+          "path": "images/locations_backup/duke_idris_of_albion.webp",
+          "size": 78102,
+          "formattedSize": "76.27 KB",
+          "gzipSize": 78102
+        },
+        {
+          "name": "Aurelia Windshaper.webp",
+          "path": "images/characters/Aurelia Windshaper.webp",
+          "size": 77910,
+          "formattedSize": "76.08 KB",
+          "gzipSize": 77910
+        },
+        {
+          "name": "Archdruid Lirael Sunshadow.webp",
+          "path": "images/characters/Archdruid Lirael Sunshadow.webp",
+          "size": 77904,
+          "formattedSize": "76.08 KB",
+          "gzipSize": 77904
+        },
+        {
+          "name": "crypts-of-the-lich-lord-9.webp",
+          "path": "images/maps/crypts-of-the-lich-lord-9.webp",
+          "size": 77894,
+          "formattedSize": "76.07 KB",
+          "gzipSize": 77894
+        },
+        {
+          "name": "the_wound.webp",
+          "path": "images/locations_backup/the_wound.webp",
+          "size": 77360,
+          "formattedSize": "75.55 KB",
+          "gzipSize": 77360
+        },
+        {
+          "name": "font_of_mysteries.webp",
+          "path": "images/characters/font_of_mysteries.webp",
+          "size": 76442,
+          "formattedSize": "74.65 KB",
+          "gzipSize": 76442
+        },
+        {
+          "name": "elder_thalara.webp",
+          "path": "images/locations_backup/elder_thalara.webp",
+          "size": 76040,
+          "formattedSize": "74.26 KB",
+          "gzipSize": 76040
+        },
+        {
+          "name": "tobar_and_fizz_2.webp",
+          "path": "images/artifacts/tobar_and_fizz_2.webp",
+          "size": 75938,
+          "formattedSize": "74.16 KB",
+          "gzipSize": 75938
+        },
+        {
+          "name": "lady_vaelora_wordsmith.webp",
+          "path": "images/locations_backup/lady_vaelora_wordsmith.webp",
+          "size": 75850,
+          "formattedSize": "74.07 KB",
+          "gzipSize": 75850
+        },
+        {
+          "name": "abyssal_egg.webp",
+          "path": "images/artifacts/abyssal_egg.webp",
+          "size": 75786,
+          "formattedSize": "74.01 KB",
+          "gzipSize": 75786
+        },
+        {
+          "name": "tortle_artificer.webp",
+          "path": "images/artifacts/tortle_artificer.webp",
+          "size": 75424,
+          "formattedSize": "73.66 KB",
+          "gzipSize": 75424
+        },
+        {
+          "name": "Queen Kelda Ironhammer.webp",
+          "path": "images/characters/Queen Kelda Ironhammer.webp",
+          "size": 75012,
+          "formattedSize": "73.25 KB",
+          "gzipSize": 75012
+        },
+        {
+          "name": "viktor.webp",
+          "path": "images/artifacts/viktor.webp",
+          "size": 74944,
+          "formattedSize": "73.19 KB",
+          "gzipSize": 74944
+        },
+        {
+          "name": "female_vampire_3_elderly.webp",
+          "path": "images/artifacts/female_vampire_3_elderly.webp",
+          "size": 74910,
+          "formattedSize": "73.15 KB",
+          "gzipSize": 74910
+        },
+        {
+          "name": "clevon.webp",
+          "path": "images/artifacts/clevon.webp",
+          "size": 74776,
+          "formattedSize": "73.02 KB",
+          "gzipSize": 74776
+        },
+        {
+          "name": "crypts-of-the-lich-lord-5.webp",
+          "path": "images/maps/crypts-of-the-lich-lord-5.webp",
+          "size": 73638,
+          "formattedSize": "71.91 KB",
+          "gzipSize": 73638
+        },
+        {
+          "name": "Aeris Skysong.webp",
+          "path": "images/characters/Aeris Skysong.webp",
+          "size": 73444,
+          "formattedSize": "71.72 KB",
+          "gzipSize": 73444
+        },
+        {
+          "name": "sentry_lira.webp",
+          "path": "images/locations_backup/sentry_lira.webp",
+          "size": 73298,
+          "formattedSize": "71.58 KB",
+          "gzipSize": 73298
+        },
+        {
+          "name": "janos_nagy.webp",
+          "path": "images/characters/janos_nagy.webp",
+          "size": 73014,
+          "formattedSize": "71.3 KB",
+          "gzipSize": 73014
+        },
+        {
+          "name": "arcane_academy.webp",
+          "path": "images/artifacts/arcane_academy.webp",
+          "size": 72856,
+          "formattedSize": "71.15 KB",
+          "gzipSize": 72856
+        },
+        {
+          "name": "hogan.webp",
+          "path": "images/artifacts/hogan.webp",
+          "size": 72762,
+          "formattedSize": "71.06 KB",
+          "gzipSize": 72762
+        },
+        {
+          "name": "barlow_piff.webp",
+          "path": "images/characters/barlow_piff.webp",
+          "size": 72500,
+          "formattedSize": "70.8 KB",
+          "gzipSize": 72500
+        },
+        {
+          "name": "page_75_pic.webp",
+          "path": "images/artifacts/page_75_pic.webp",
+          "size": 72150,
+          "formattedSize": "70.46 KB",
+          "gzipSize": 72150
+        },
+        {
+          "name": "chef_ardin.webp",
+          "path": "images/artifacts/chef_ardin.webp",
+          "size": 72102,
+          "formattedSize": "70.41 KB",
+          "gzipSize": 72102
+        },
+        {
+          "name": "Ambassador Galadriel Starfall.webp",
+          "path": "images/characters/Ambassador Galadriel Starfall.webp",
+          "size": 71702,
+          "formattedSize": "70.02 KB",
+          "gzipSize": 71702
+        },
+        {
+          "name": "mind_flayer.webp",
+          "path": "images/artifacts/mind_flayer.webp",
+          "size": 71208,
+          "formattedSize": "69.54 KB",
+          "gzipSize": 71208
+        },
+        {
+          "name": "gloomhaven_castle.webp",
+          "path": "images/artifacts/gloomhaven_castle.webp",
+          "size": 70944,
+          "formattedSize": "69.28 KB",
+          "gzipSize": 70944
+        },
+        {
+          "name": "Master Ranger Thandor Wildtracker.webp",
+          "path": "images/characters/Master Ranger Thandor Wildtracker.webp",
+          "size": 70128,
+          "formattedSize": "68.48 KB",
+          "gzipSize": 70128
+        },
+        {
+          "name": "Professor Marwen Earthshaper.webp",
+          "path": "images/characters/Professor Marwen Earthshaper.webp",
+          "size": 69416,
+          "formattedSize": "67.79 KB",
+          "gzipSize": 69416
+        },
+        {
+          "name": "orpholu_-_merror_sorcerer.jpg",
+          "path": "images/artifacts/orpholu_-_merror_sorcerer.jpg",
+          "size": 68545,
+          "formattedSize": "66.94 KB",
+          "gzipSize": 68545
+        },
+        {
+          "name": "orphan_1.webp",
+          "path": "images/artifacts/orphan_1.webp",
+          "size": 68452,
+          "formattedSize": "66.85 KB",
+          "gzipSize": 68452
+        },
+        {
+          "name": "Prince Darrin Ironhammer.webp",
+          "path": "images/characters/Prince Darrin Ironhammer.webp",
+          "size": 68428,
+          "formattedSize": "66.82 KB",
+          "gzipSize": 68428
+        },
+        {
+          "name": "Sage Elowyn.webp",
+          "path": "images/characters/Sage Elowyn.webp",
+          "size": 66986,
+          "formattedSize": "65.42 KB",
+          "gzipSize": 66986
+        },
+        {
+          "name": "vampire_lord.webp",
+          "path": "images/artifacts/vampire_lord.webp",
+          "size": 66554,
+          "formattedSize": "64.99 KB",
+          "gzipSize": 66554
+        },
+        {
+          "name": "ssej_ir.webp",
+          "path": "images/artifacts/ssej_ir.webp",
+          "size": 65630,
+          "formattedSize": "64.09 KB",
+          "gzipSize": 65630
+        },
+        {
+          "name": "Archmage Elara Fireweaver.webp",
+          "path": "images/characters/Archmage Elara Fireweaver.webp",
+          "size": 64598,
+          "formattedSize": "63.08 KB",
+          "gzipSize": 64598
+        },
+        {
+          "name": "Ordek.webp",
+          "path": "images/characters/Ordek.webp",
+          "size": 63988,
+          "formattedSize": "62.49 KB",
+          "gzipSize": 63988
+        },
+        {
+          "name": "Alchemist Kaelin.webp",
+          "path": "images/characters/Alchemist Kaelin.webp",
+          "size": 63740,
+          "formattedSize": "62.25 KB",
+          "gzipSize": 63740
+        },
+        {
+          "name": "Archdiviner Seraphina Starwhisper.webp",
+          "path": "images/characters/Archdiviner Seraphina Starwhisper.webp",
+          "size": 63642,
+          "formattedSize": "62.15 KB",
+          "gzipSize": 63642
+        },
+        {
+          "name": "Scribe Elandra Tomekeeper.webp",
+          "path": "images/characters/Scribe Elandra Tomekeeper.webp",
+          "size": 62556,
+          "formattedSize": "61.09 KB",
+          "gzipSize": 62556
+        },
+        {
+          "name": "beldurion.webp",
+          "path": "images/artifacts/beldurion.webp",
+          "size": 61616,
+          "formattedSize": "60.17 KB",
+          "gzipSize": 61616
+        },
+        {
+          "name": "sentinel_hold.webp",
+          "path": "images/artifacts/sentinel_hold.webp",
+          "size": 60622,
+          "formattedSize": "59.2 KB",
+          "gzipSize": 60622
+        },
+        {
+          "name": "Ranger Faelan Wildshadow.webp",
+          "path": "images/characters/Ranger Faelan Wildshadow.webp",
+          "size": 58372,
+          "formattedSize": "57 KB",
+          "gzipSize": 58372
+        },
+        {
+          "name": "crypts-of-the-lich-lord-7.webp",
+          "path": "images/maps/crypts-of-the-lich-lord-7.webp",
+          "size": 58238,
+          "formattedSize": "56.87 KB",
+          "gzipSize": 58238
+        },
+        {
+          "name": "Princess Hilda Ironhammer.webp",
+          "path": "images/characters/Princess Hilda Ironhammer.webp",
+          "size": 56082,
+          "formattedSize": "54.77 KB",
+          "gzipSize": 56082
+        },
+        {
+          "name": "dawc.webp",
+          "path": "images/artifacts/dawc.webp",
+          "size": 55834,
+          "formattedSize": "54.53 KB",
+          "gzipSize": 55834
+        },
+        {
+          "name": "Pelthorn Fortress.webp",
+          "path": "images/locations/Pelthorn Fortress.webp",
+          "size": 55298,
+          "formattedSize": "54 KB",
+          "gzipSize": 55298
+        },
+        {
+          "name": "Rividen Stonebough.webp",
+          "path": "images/characters/Rividen Stonebough.webp",
+          "size": 53950,
+          "formattedSize": "52.69 KB",
+          "gzipSize": 53950
+        },
+        {
+          "name": "grimtoe.webp",
+          "path": "images/artifacts/grimtoe.webp",
+          "size": 53550,
+          "formattedSize": "52.29 KB",
+          "gzipSize": 53550
+        },
+        {
+          "name": "tobar_and_fiz_artgerm.webp",
+          "path": "images/artifacts/tobar_and_fiz_artgerm.webp",
+          "size": 53536,
+          "formattedSize": "52.28 KB",
+          "gzipSize": 53536
+        },
+        {
+          "name": "Trader Selene.webp",
+          "path": "images/characters/Trader Selene.webp",
+          "size": 52896,
+          "formattedSize": "51.66 KB",
+          "gzipSize": 52896
+        },
+        {
+          "name": "Duke Cedric of Merish.webp",
+          "path": "images/characters/Duke Cedric of Merish.webp",
+          "size": 52622,
+          "formattedSize": "51.39 KB",
+          "gzipSize": 52622
+        },
+        {
+          "name": "Mayor Eldran.webp",
+          "path": "images/characters/Mayor Eldran.webp",
+          "size": 52222,
+          "formattedSize": "51 KB",
+          "gzipSize": 52222
+        },
+        {
+          "name": "Murkial.webp",
+          "path": "images/characters/Murkial.webp",
+          "size": 51870,
+          "formattedSize": "50.65 KB",
+          "gzipSize": 51870
+        },
+        {
+          "name": "keryth.webp",
+          "path": "images/artifacts/keryth.webp",
+          "size": 51630,
+          "formattedSize": "50.42 KB",
+          "gzipSize": 51630
+        },
+        {
+          "name": "Duke Branwen Duchy of Braeten.webp",
+          "path": "images/characters/Duke Branwen Duchy of Braeten.webp",
+          "size": 51202,
+          "formattedSize": "50 KB",
+          "gzipSize": 51202
+        },
+        {
+          "name": "Lady Vaelora Wordsmith.webp",
+          "path": "images/characters/Lady Vaelora Wordsmith.webp",
+          "size": 50586,
+          "formattedSize": "49.4 KB",
+          "gzipSize": 50586
+        },
+        {
+          "name": "lady_nightshadow_of_the_tabaxi.webp",
+          "path": "images/locations_backup/lady_nightshadow_of_the_tabaxi.webp",
+          "size": 50276,
+          "formattedSize": "49.1 KB",
+          "gzipSize": 50276
+        },
+        {
+          "name": "igniss_drow_assassin.webp",
+          "path": "images/artifacts/igniss_drow_assassin.webp",
+          "size": 49992,
+          "formattedSize": "48.82 KB",
+          "gzipSize": 49992
+        },
+        {
+          "name": "Duke Idris of Albion.webp",
+          "path": "images/characters/Duke Idris of Albion.webp",
+          "size": 49908,
+          "formattedSize": "48.74 KB",
+          "gzipSize": 49908
+        },
+        {
+          "name": "Viktor.webp",
+          "path": "images/characters/Viktor.webp",
+          "size": 49898,
+          "formattedSize": "48.73 KB",
+          "gzipSize": 49898
+        },
+        {
+          "name": "moegen.webp",
+          "path": "images/artifacts/moegen.webp",
+          "size": 49778,
+          "formattedSize": "48.61 KB",
+          "gzipSize": 49778
+        },
+        {
+          "name": "Sentry Lira.webp",
+          "path": "images/characters/Sentry Lira.webp",
+          "size": 49398,
+          "formattedSize": "48.24 KB",
+          "gzipSize": 49398
+        },
+        {
+          "name": "Elder Thalara.webp",
+          "path": "images/characters/Elder Thalara.webp",
+          "size": 48386,
+          "formattedSize": "47.25 KB",
+          "gzipSize": 48386
+        },
+        {
+          "name": "orpholu_-_merror_sorcerer.webp",
+          "path": "images/artifacts/orpholu_-_merror_sorcerer.webp",
+          "size": 48366,
+          "formattedSize": "47.23 KB",
+          "gzipSize": 48366
+        },
+        {
+          "name": "black_tabaxi_rogue_v2.webp",
+          "path": "images/artifacts/black_tabaxi_rogue_v2.webp",
+          "size": 46020,
+          "formattedSize": "44.94 KB",
+          "gzipSize": 46020
+        },
+        {
+          "name": "necrobane.webp",
+          "path": "images/items/necrobane.webp",
+          "size": 42930,
+          "formattedSize": "41.92 KB",
+          "gzipSize": 42930
+        },
+        {
+          "name": "Beldurion.webp",
+          "path": "images/characters/Beldurion.webp",
+          "size": 36404,
+          "formattedSize": "35.55 KB",
+          "gzipSize": 36404
+        },
+        {
+          "name": "Lady Nightshadow.webp",
+          "path": "images/characters/Lady Nightshadow.webp",
+          "size": 33154,
+          "formattedSize": "32.38 KB",
+          "gzipSize": 33154
+        },
+        {
+          "name": "tony.webp",
+          "path": "images/locations_backup/tony.webp",
+          "size": 7788,
+          "formattedSize": "7.61 KB",
+          "gzipSize": 7788
+        }
+      ],
+      "totalSize": 242970510
+    },
+    "fonts": {
+      "files": [],
+      "totalSize": 0
+    },
+    "other": {
+      "files": [
+        {
+          "name": "image-registry.json",
+          "path": "images/image-registry.json",
+          "size": 189032,
+          "formattedSize": "184.6 KB",
+          "gzipSize": 189032
+        }
+      ],
+      "totalSize": 189032
+    },
+    "total": {
+      "size": 243596394,
+      "files": 760
+    }
+  },
+  "recommendations": [
+    {
+      "type": "images",
+      "priority": "medium",
+      "message": "86 images are >500KB. Consider further compression.",
+      "details": [
+        "Everleaf Spire.png (2.35 MB)",
+        "Uxmal the Jungle City.png (2.3 MB)",
+        "Kronus the Clockwork City.png (2.26 MB)",
+        "the Stein.png (2.24 MB)",
+        "the Primordial Concordant.png (2.18 MB)"
+      ]
+    },
+    {
+      "type": "images",
+      "priority": "high",
+      "message": "Total image size is 231.71 MB. Consider lazy loading and CDN."
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-amber-50 text-gray-900 dark:bg-amber-900 dark:text-amber-50;
+    background-image: radial-gradient(circle at 1px 1px, rgba(139, 69, 19, 0.1) 1px, transparent 0);
+    background-size: 20px 20px;
+  }
+
+  .dark body {
+    background-image: radial-gradient(circle at 1px 1px, rgba(245, 158, 11, 0.1) 1px, transparent 0);
+  }
+}
+
+@layer components {
+  .parchment-bg {
+    @apply bg-amber-50 dark:bg-amber-800;
+    background-color: #fdf6e3;
+    background-image:
+      radial-gradient(circle at 100% 50%, transparent 20%, rgba(255,255,255,0.3) 21%, rgba(255,255,255,0.3) 34%, transparent 35%, transparent),
+      linear-gradient(0deg, transparent 24%, rgba(255,255,255,0.05) 25%, rgba(255,255,255,0.05) 26%, transparent 27%, transparent 74%, rgba(255,255,255,0.05) 75%, rgba(255,255,255,0.05) 76%, transparent 77%, transparent);
+    background-size: 20px 20px;
+  }
+
+  .dark .parchment-bg {
+    background-color: #92400e;
+    background-image: none;
+  }
+
+  .fantasy-card {
+    @apply bg-gradient-to-br from-amber-50 to-amber-100 border border-amber-200 rounded-lg shadow-lg dark:from-amber-800 dark:to-amber-900 dark:border-amber-700;
+    background-image:
+      linear-gradient(45deg, transparent 49%, rgba(139, 69, 19, 0.03) 50%, transparent 51%),
+      linear-gradient(-45deg, transparent 49%, rgba(139, 69, 19, 0.03) 50%, transparent 51%);
+    background-size: 8px 8px;
+  }
+
+  .dark .fantasy-card {
+    background-image:
+      linear-gradient(45deg, transparent 49%, rgba(245, 158, 11, 0.03) 50%, transparent 51%),
+      linear-gradient(-45deg, transparent 49%, rgba(245, 158, 11, 0.03) 50%, transparent 51%);
+  }
+
+  .fantasy-button {
+    @apply px-4 py-2 bg-gradient-to-r from-amber-500 to-amber-600 text-white font-semibold rounded-md shadow-md hover:from-amber-600 hover:to-amber-700 transition-all duration-200 transform hover:scale-105 dark:from-amber-600 dark:to-amber-700 dark:hover:from-amber-700 dark:hover:to-amber-800;
+  }
+
+  .fantasy-input {
+    @apply px-3 py-2 bg-white border border-amber-300 rounded-md focus:ring-2 focus:ring-amber-500 focus:border-transparent transition-all duration-200 dark:bg-amber-900/30 dark:border-amber-600 dark:text-amber-50 dark:focus:ring-amber-400;
+  }
+
+  /* Book-style typography and layout */
+  .chapter-content {
+    @apply text-amber-900 leading-relaxed;
+    font-family: 'Crimson Text', serif;
+    line-height: 1.8;
+    text-align: justify;
+    hyphens: auto;
+  }
+
+  .chapter-content h1 {
+    @apply text-3xl font-bold text-amber-900 mb-6 mt-8;
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    letter-spacing: 0.05em;
+  }
+
+  .chapter-content h2 {
+    @apply text-2xl font-semibold text-amber-800 mb-4 mt-8;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.02em;
+  }
+
+  .chapter-content h3 {
+    @apply text-xl font-medium text-amber-700 mb-3 mt-6;
+    font-family: 'Cinzel', serif;
+  }
+
+  .chapter-content p {
+    @apply mb-4 text-amber-800;
+    text-indent: 1.5em;
+  }
+
+  .chapter-content p:first-of-type {
+    text-indent: 0;
+  }
+
+  .chapter-content p:first-of-type::first-letter {
+    @apply float-left text-6xl font-bold text-amber-900 mr-2 mt-1;
+    font-family: 'Cinzel', serif;
+    line-height: 0.8;
+  }
+
+  .chapter-content blockquote {
+    @apply border-l-4 border-amber-400 pl-6 ml-4 my-6 italic text-amber-700;
+    background: linear-gradient(to right, rgba(245, 158, 11, 0.1), transparent);
+  }
+
+  .chapter-content em {
+    @apply italic text-amber-700;
+  }
+
+  .chapter-content strong {
+    @apply font-semibold text-amber-900;
+  }
+
+  /* Table of contents styling */
+  .toc-chapter {
+    position: relative;
+    border-left: 3px solid transparent;
+    transition: all 0.3s ease;
+  }
+
+  .toc-chapter:hover {
+    border-left-color: rgb(245 158 11);
+    background: linear-gradient(to right, rgba(245, 158, 11, 0.05), transparent);
+  }
+
+  .toc-chapter::after {
+    content: '';
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 0;
+    height: 0;
+    border-left: 6px solid rgb(120 113 108);
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid transparent;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .toc-chapter:hover::after {
+    opacity: 1;
+  }
+
+  /* Book cover styling */
+  .book-cover {
+    background: linear-gradient(135deg,
+      #92400e 0%,
+      #a16207 25%,
+      #ca8a04 50%,
+      #a16207 75%,
+      #92400e 100%);
+    box-shadow:
+      0 20px 40px rgba(0, 0, 0, 0.3),
+      inset 0 2px 0 rgba(255, 255, 255, 0.1),
+      inset 0 -2px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+
+  .book-cover::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.03) 2px,
+      rgba(0, 0, 0, 0.03) 4px
+    );
+    border-radius: inherit;
+  }
+
+  /* Chapter navigation */
+  .chapter-nav {
+    @apply fixed bottom-6 right-6 flex space-x-2;
+  }
+
+  .chapter-nav button {
+    @apply p-3 bg-amber-800 hover:bg-amber-900 text-white rounded-full shadow-lg transition-all duration-200;
+  }
+
+  /* Timeline styling */
+  .timeline-entry {
+    @apply flex items-start space-x-4 py-3 border-l-4 border-amber-300 pl-4 mb-2 bg-gradient-to-r from-amber-50 to-transparent;
+    position: relative;
+  }
+
+  .timeline-entry::before {
+    content: '';
+    position: absolute;
+    left: -8px;
+    top: 16px;
+    width: 12px;
+    height: 12px;
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    border-radius: 50%;
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .timeline-year {
+    @apply font-bold text-amber-900 min-w-24 font-serif text-sm;
+    font-variant: small-caps;
+  }
+
+  .timeline-event {
+    @apply text-amber-800 flex-1 font-serif leading-relaxed;
+  }
+
+  .timeline-era {
+    @apply text-2xl font-bold text-amber-900 mb-6 mt-8 border-b-2 border-amber-300 pb-2;
+    font-family: 'Cinzel', serif;
+    background: linear-gradient(to right, rgba(245, 158, 11, 0.1), transparent);
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+
+  /* Enhanced list styling */
+  .chapter-content ul {
+    @apply my-6 space-y-2;
+  }
+
+  .chapter-content li {
+    @apply text-amber-800 font-serif leading-relaxed pl-2;
+    position: relative;
+  }
+
+  .chapter-content li::before {
+    content: '•';
+    color: rgb(245 158 11);
+    font-weight: bold;
+    position: absolute;
+    left: -1rem;
+  }
+
+  /* Character card styling */
+  .character-card {
+    @apply bg-gradient-to-br from-amber-50 to-amber-100 border-2 border-amber-200 rounded-xl p-6 my-6 shadow-lg;
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 1.5rem;
+    align-items: start;
+    max-width: none;
+    width: 100%;
+  }
+
+  .character-image {
+    @apply flex flex-col items-center space-y-2;
+  }
+
+  .character-image img {
+    @apply w-full h-48 object-cover rounded-lg border-2 border-amber-300 shadow-md;
+    background: linear-gradient(135deg, #f3f4f6, #e5e7eb);
+  }
+
+  .character-name {
+    @apply text-xl font-bold text-amber-900 mb-3;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.02em;
+  }
+
+  .character-description {
+    @apply text-amber-800 font-serif leading-relaxed;
+    text-align: justify;
+  }
+
+  .character-info {
+    @apply flex-1;
+  }
+
+  /* Location card styling */
+  .location-card {
+    @apply bg-gradient-to-br from-green-50 to-green-100 border-2 border-green-200 rounded-xl p-6 my-6 shadow-lg;
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    gap: 1.5rem;
+    align-items: start;
+  }
+
+  .location-image {
+    @apply flex flex-col items-center space-y-2;
+  }
+
+  .location-image img {
+    @apply w-full h-32 object-cover rounded-lg border-2 border-green-300 shadow-md;
+    background: linear-gradient(135deg, #f0fdf4, #dcfce7);
+  }
+
+  .location-name {
+    @apply text-xl font-bold text-green-900 mb-3;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.02em;
+  }
+
+  .location-description {
+    @apply text-green-800 font-serif leading-relaxed;
+    text-align: justify;
+  }
+
+  .location-info {
+    @apply flex-1;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .character-card,
+    .location-card {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .character-image img,
+    .location-image img {
+      height: 200px;
+    }
+  }
+
+  /* Print-like margins for formal appearance */
+  @media (min-width: 768px) {
+    .chapter-content {
+      column-count: 1;
+      column-gap: 3rem;
+      padding: 2rem;
+      max-width: none;
+    }
+  }
+
+  /* Fix chapter content width */
+  .chapter-content {
+    max-width: none;
+    width: 100%;
+  }
+
+  /* Line clamp utility */
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}

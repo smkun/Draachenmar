@@ -1,0 +1,965 @@
+import { Character } from '../types';
+
+export const characters: Character[] = [
+  // Gulanbarak - The Ironhammer Royal Family
+  {
+    "id": "rathgar-stoneforge-ironhammer",
+    "name": "High King Rathgar \"Stoneforge\" Ironhammer",
+    "race": "Dwarf",
+    "class": "Noble/Artificer",
+    "category": "npc",
+    "description": "King Rathgar \"Stoneforge\" Ironhammer is the revered ruler of Gulanbarak. He earned the moniker \"Stoneforge\" due to his unparalleled skill in crafting and forging, which has enriched the kingdom's wealth and defensive capabilities. Rathgar is a stout, bearded dwarf with a strong presence, often seen wearing regal armor adorned with intricate, rune-inscribed designs. He wields the legendary waraxe, \"Earthshaker,\" a symbol of his authority and craftsmanship. He rules over the seven dwarven Kings and guards the massive dwarven wall nation of Gulanbarak from the evil hordes of the Shard Lands.",
+    "image": "King Rathgar Ironhammer",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "ruler"]
+  },
+  {
+    "id": "kelda-ironhammer",
+    "name": "Queen Kelda Ironhammer",
+    "image": "Queen Kelda Ironhammer",
+    "race": "Dwarf",
+    "class": "Noble",
+    "category": "npc",
+    "description": "Queen Kelda is King Rathgar's steadfast partner and the heart of Gulanbarak's royal family. Her intelligence and charisma complement Rathgar's leadership, making her an invaluable advisor and diplomat. Kelda is renowned for her exquisite jewelry, crafted from the finest gemstones and precious metals mined deep within the dwarven realm. She is beloved among the dwarves for her benevolent nature and tireless efforts to improve the lives of her subjects.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "diplomat"]
+  },
+  {
+    "id": "balthyr-ironhammer",
+    "name": "Prince Balthyr Ironhammer",
+    "race": "Dwarf",
+    "class": "Fighter",
+    "category": "npc",
+    "description": "Prince Balthyr, the eldest son of King Rathgar and Queen Kelda, is a warrior of exceptional skill and honor. He commands the Ironguard, Gulanbarak's elite defense force, and is known for his unwavering dedication to protecting the kingdom from external threats. Balthyr carries the ancestral warhammer, \"Stonebreaker,\" a symbol of his lineage and commitment to his people.",
+    "image": "Prince Balthyr Ironhammer",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "warrior", "military"]
+  },
+  {
+    "id": "hilda-ironhammer",
+    "name": "Princess Hilda Ironhammer",
+    "image": "Princess Hilda Ironhammer",
+    "race": "Dwarf",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Princess Hilda is known for her passion for the arcane arts and her role as the kingdom's chief mage. She studies ancient dwarven runic magic and has used her knowledge to strengthen Gulanbarak's defenses with powerful enchantments. Her robes are adorned with runes that shimmer with protective magic, and she is respected as a guardian of dwarven tradition.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "magic", "wizard"]
+  },
+  {
+    "id": "darrin-ironhammer",
+    "name": "Prince Darrin Ironhammer",
+    "image": "Prince Darrin Ironhammer",
+    "race": "Dwarf",
+    "class": "Scholar",
+    "category": "npc",
+    "description": "Prince Darrin, the youngest member of the Ironhammer family, possesses a keen intellect and a thirst for knowledge. He serves as the kingdom's chief historian and explorer, delving into the depths of Gulanbarak's extensive tunnels to uncover forgotten dwarven lore and hidden treasures. Darrin's discoveries contribute to the kingdom's rich history and cultural heritage.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "scholar", "explorer"]
+  },
+
+  // Great Woods of Averlys - Elven Court
+  {
+    "id": "cirilia-moonshadow",
+    "name": "Queen Cirilia Moonshadow",
+    "race": "Elf",
+    "class": "Noble/Enchanter",
+    "category": "npc",
+    "description": "Queen Cirilia Moonshadow is the elegant and wise ruler of the Great Woods of Averlys. She is known for her ethereal beauty, with silver hair that shimmers like moonlight and piercing emerald eyes that radiate wisdom and grace. Cirilia is a skilled diplomat and a powerful enchantress, with a deep connection to the forest and its magical energies. She is revered by her subjects for her dedication to preserving the natural balance of Averlys and her commitment to peaceful coexistence with neighboring realms.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "elf", "great-woods", "ruler", "magic"]
+  },
+  {
+    "id": "thalorin-dawnblade",
+    "name": "Captain Thalorin Dawnblade",
+    "image": "Captain Thalorin Dawnblade",
+    "race": "Elf",
+    "class": "Fighter",
+    "category": "npc",
+    "description": "Captain Thalorin Dawnblade is the leader of Queen Cirilia's elite elven guards, known as the Silverleaf Sentinels. He is a master of the blade and a fierce protector of the queen. Thalorin's loyalty is unwavering, and he embodies the ideals of honor and chivalry.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "military", "elf", "great-woods", "captain", "guard"]
+  },
+  {
+    "id": "elowen-windwhisper",
+    "name": "High Counselor Elowen Windwhisper",
+    "race": "Elf",
+    "class": "Noble",
+    "category": "npc",
+    "description": "High Counselor Elowen Windwhisper is Queen Cirilia's chief advisor. She possesses a deep understanding of the political landscape and is a skilled negotiator. Elowen's wisdom and keen intellect make her an invaluable asset to the queen.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "advisor", "elf", "great-woods", "counselor", "diplomat"]
+  },
+  {
+    "id": "lirael-sunshadow",
+    "name": "Archdruid Lirael Sunshadow",
+    "image": "Archdruid Lirael Sunshadow",
+    "race": "Elf",
+    "class": "Druid",
+    "category": "npc",
+    "description": "Archdruid Lirael Sunshadow is the spiritual leader of Averlys's elves. She communes with the ancient spirits of the forest and ensures the harmony of the natural world. Lirael's guidance is essential in maintaining the balance between the elves and the enchanted woods they call home.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "druid", "elf", "great-woods", "spiritual", "nature"]
+  },
+  {
+    "id": "galadriel-starfall",
+    "name": "Ambassador Galadriel Starfall",
+    "image": "Ambassador Galadriel Starfall",
+    "race": "Elf",
+    "class": "Noble",
+    "category": "npc",
+    "description": "Ambassador Galadriel Starfall is Queen Cirilia's envoy to neighboring realms. She is responsible for forging alliances and maintaining diplomatic relations with other races. Galadriel is known for her eloquence and her ability to bridge cultural divides.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "diplomat", "elf", "great-woods", "ambassador"]
+  },
+  {
+    "id": "thandor-wildtracker",
+    "name": "Master Ranger Thandor Wildtracker",
+    "image": "Master Ranger Thandor Wildtracker",
+    "race": "Elf",
+    "class": "Ranger",
+    "category": "npc",
+    "description": "Master Ranger Thandor Wildtracker is the guardian of Averlys's borders. He leads a group of skilled elven scouts and is responsible for protecting the realm from threats that may emerge from the wilderness. Thandor's knowledge of the woods is unparalleled, and his loyalty to Queen Cirilia is unwavering.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "ranger", "elf", "great-woods", "scout", "guardian"]
+  },
+
+  // Seven Dwarven Kings of Gulanbarak
+  {
+    "id": "bulgad-grimmantle",
+    "name": "King Bulgad Grimmantle",
+    "race": "Dwarf",
+    "class": "Noble/Fighter",
+    "category": "npc",
+    "description": "King Bulgad Grimmantle is the ruler of Durinhold district in Gulanbarak. Known for his grim demeanor and unwavering dedication to duty, he oversees the spiritual and cultural heart of the dwarven realm. His district houses grand temples and maintains the sacred traditions of the dwarven people.",
+    "location": "Durinhold, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "durinhold", "ruler"]
+  },
+  {
+    "id": "ellgrid-earthforge",
+    "name": "King Ellgrid Earthforge",
+    "race": "Dwarf",
+    "class": "Noble/Artificer",
+    "category": "npc",
+    "description": "King Ellgrid Earthforge rules the Thrainforge district, the industrial heart of Gulanbarak. A master craftsman himself, he oversees the great forges and workshops that produce the finest dwarven weapons and armor. His domain is filled with the constant sound of hammers on anvils.",
+    "location": "Thrainforge, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "thrainforge", "craftsman"]
+  },
+  {
+    "id": "naser-graybeard",
+    "name": "King Naser Graybeard",
+    "race": "Dwarf",
+    "class": "Noble/Cleric",
+    "category": "npc",
+    "description": "King Naser Graybeard governs the Morndrak Depths district, the mining heart of Gulanbarak. His long gray beard is a symbol of wisdom earned through decades of delving into the deepest mines. He oversees the extraction of precious gems and metals that fuel the kingdom's wealth.",
+    "location": "Morndrak Depths, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "morndrak-depths", "mining"]
+  },
+  {
+    "id": "baelgin-ironhand",
+    "name": "King Baelgin Ironhand",
+    "race": "Dwarf",
+    "class": "Noble/Fighter",
+    "category": "npc",
+    "description": "King Baelgin Ironhand rules Nebelgar Heights, the military stronghold of Gulanbarak. His iron prosthetic hand, earned in battle against orc raiders, is both a symbol of sacrifice and strength. He commands the external defenses and elite military units.",
+    "location": "Nebelgar Heights, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "nebelgar-heights", "military"]
+  },
+  {
+    "id": "gromli-steelarm",
+    "name": "King Gromli Steelarm",
+    "race": "Dwarf",
+    "class": "Noble/Wizard",
+    "category": "npc",
+    "description": "King Gromli Steelarm oversees Runicar Spire, the scholarly and magical center of Gulanbarak. His steel arm gauntlet is inscribed with powerful runes that aid in his magical studies. He governs the great libraries and maintains the ancient dwarven magical traditions.",
+    "location": "Runicar Spire, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "runicar-spire", "magic", "scholar"]
+  },
+  {
+    "id": "velog-stormshield",
+    "name": "King Velog Stormshield",
+    "race": "Dwarf",
+    "class": "Noble/Ranger",
+    "category": "npc",
+    "description": "King Velog Stormshield rules Stoneharbor district, the maritime hub of Gulanbarak. His storm-weathered shield bears the scars of countless sea battles. He commands the dwarven fleet and oversees all maritime trade and naval defenses.",
+    "location": "Stoneharbor, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "stoneharbor", "maritime", "naval"]
+  },
+  {
+    "id": "hjalmar-anvilheart",
+    "name": "King Hjalmar Anvilheart",
+    "race": "Dwarf",
+    "class": "Noble/Paladin",
+    "category": "npc",
+    "description": "King Hjalmar Anvilheart governs Valthor Hollow, the residential and community center of Gulanbarak. His heart burns with passion for his people's welfare, earning him the name 'Anvilheart'. He focuses on housing, community services, and maintaining dwarven social bonds.",
+    "location": "Valthor Hollow, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "royalty", "dwarf", "gulanbarak", "valthor-hollow", "community"]
+  },
+
+  // Key District Leaders and Important Figures
+  {
+    "id": "borin-flamebeard",
+    "name": "Master Borin Flamebeard",
+    "race": "Dwarf",
+    "class": "Artificer",
+    "category": "npc",
+    "description": "Master Borin Flamebeard is the Chief Blacksmith of Thrainforge district. His red beard seems to flicker like flames when he works at the forge. He is renowned throughout Gulanbarak for creating weapons and armor of exceptional quality, including pieces for the royal family.",
+    "location": "Thrainforge, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "craftsman", "dwarf", "gulanbarak", "blacksmith", "thrainforge"]
+  },
+  {
+    "id": "mirna-stonereader",
+    "name": "Elder Mirna Stonereader",
+    "race": "Dwarf",
+    "class": "Cleric/Diviner",
+    "category": "npc",
+    "description": "Elder Mirna Stonereader is a powerful seeress in Runicar Spire. She can read the future in the patterns of stone and crystal, providing guidance to both the royal family and common folk. Her prophecies have saved Gulanbarak from disaster multiple times.",
+    "location": "Runicar Spire, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "seer", "dwarf", "gulanbarak", "runicar-spire", "prophecy", "elder"]
+  },
+  {
+    "id": "aldrik-thunderfoot",
+    "name": "Captain Aldrik Thunderfoot",
+    "race": "Dwarf",
+    "class": "Fighter",
+    "category": "npc",
+    "description": "Captain Aldrik Thunderfoot serves as Lieutenant of External Defense in Nebelgar Heights. His thunderous footsteps can be heard echoing through the fortress halls as he conducts inspections. He is King Baelgin's most trusted military advisor and field commander.",
+    "location": "Nebelgar Heights, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "military", "dwarf", "gulanbarak", "nebelgar-heights", "captain", "defense"]
+  },
+  {
+    "id": "faela-silverquill",
+    "name": "Lorekeeper Faela Silverquill",
+    "race": "Dwarf",
+    "class": "Wizard/Scribe",
+    "category": "npc",
+    "description": "Lorekeeper Faela Silverquill is the Keeper of the Grand Libraries in Runicar Spire. Her silver quill pen is enchanted to never run out of ink and can write in any language. She maintains the vast collection of dwarven knowledge and assists scholars from across the realm.",
+    "location": "Runicar Spire, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "scholar", "dwarf", "gulanbarak", "runicar-spire", "librarian", "lorekeeper"]
+  },
+  {
+    "id": "garnar-lightbearer",
+    "name": "High Priest Garnar Lightbearer",
+    "race": "Dwarf",
+    "class": "Cleric",
+    "category": "npc",
+    "description": "High Priest Garnar Lightbearer is the spiritual leader of Durinhold district. He carries an ancient blessed hammer that glows with divine light during ceremonies. He conducts the most important religious rituals and provides spiritual guidance to the royal family.",
+    "location": "Durinhold, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "priest", "dwarf", "gulanbarak", "durinhold", "spiritual", "religious"]
+  },
+  {
+    "id": "lorna-wavebreaker",
+    "name": "Captain Lorna Wavebreaker",
+    "race": "Dwarf",
+    "class": "Fighter/Navigator",
+    "category": "npc",
+    "description": "Captain Lorna Wavebreaker commands the dwarven fleet from Stoneharbor. Despite the dwarven preference for solid ground, she has mastered the seas and leads daring naval expeditions. Her ship 'The Granite Tide' is the flagship of the dwarven navy.",
+    "location": "Stoneharbor, Gulanbarak",
+    "creator": "Campaign Setting",
+    "tags": ["character", "naval", "dwarf", "gulanbarak", "stoneharbor", "captain", "fleet"]
+  },
+
+  // Dale Lands Henge - Conclave of Arcane Sovereigns
+  {
+    "id": "elara-fireweaver",
+    "name": "Archmage Elara Fireweaver",
+    "image": "Archmage Elara Fireweaver",
+    "race": "Human",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Archmage Elara Fireweaver heads the Conclave of Arcane Sovereigns in Dale Lands Henge. A master of fire magic, she can weave flames with artistic precision and devastating power. As the leader of the magical council, she oversees the governance of the most magically advanced city in the realm.",
+    "location": "Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "archmage", "human", "dale-lands", "fire-magic", "ruler", "council"]
+  },
+  {
+    "id": "thaldir-stonebinder",
+    "name": "Magister Thaldir Stonebinder",
+    "race": "Human",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Magister Thaldir Stonebinder is an earth mage and geomancy expert on the Conclave of Arcane Sovereigns. He can shape stone and earth with ease, and his mastery of geological magic has helped design the floating spires of Dale Lands Henge. His deep connection to the earth provides stability to the aerial city.",
+    "location": "Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "magister", "human", "dale-lands", "earth-magic", "geomancy", "council"]
+  },
+  {
+    "id": "seraphina-starwhisper",
+    "name": "Archdiviner Seraphina Starwhisper",
+    "image": "Archdiviner Seraphina Starwhisper",
+    "race": "Human",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Archdiviner Seraphina Starwhisper is the divination specialist of the Conclave, able to see glimpses of the future and distant events. Her starwhisper abilities allow her to commune with celestial forces for guidance. She serves as the council's strategic advisor and oracle.",
+    "location": "Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "archdiviner", "human", "dale-lands", "divination", "seer", "council"]
+  },
+  {
+    "id": "lyria-stormrider",
+    "name": "Spellweaver Lyria Stormrider",
+    "image": "Spellweaver Lyria Stormrider",
+    "race": "Human",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Spellweaver Lyria Stormrider controls the weather magic that keeps Dale Lands Henge aloft. Her mastery over wind and storm allows the floating city to navigate the skies safely. She rides the winds themselves during important ceremonies, demonstrating her incredible aerial magic abilities.",
+    "location": "Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "spellweaver", "human", "dale-lands", "storm-magic", "weather", "council"]
+  },
+  {
+    "id": "dorian-shadowcloak",
+    "name": "Master Enchanter Dorian Shadowcloak",
+    "image": "Master Enchanter Dorian Shadowcloak",
+    "race": "Human",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Master Enchanter Dorian Shadowcloak specializes in enchantments and protective wards for Dale Lands Henge. His shadow cloak allows him to move unseen when needed, and his mastery of enchantment magic protects the city's most important secrets. He maintains the magical barriers that shield the floating city.",
+    "location": "Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "enchanter", "human", "dale-lands", "enchantment", "shadows", "council"]
+  },
+
+  // Dale Lands Henge University Headmasters
+  {
+    "id": "thaldor-stoneguard",
+    "name": "Headmaster Thaldor Stoneguard",
+    "race": "Dwarf",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Headmaster Thaldor Stoneguard leads the Aegis Enclave, the university's school of Abjuration magic. This stout dwarf specializes in protective magic and defensive spells. His unwavering dedication to safeguarding students and knowledge makes him one of the most respected educators in the magical city.",
+    "location": "Aegis Enclave, Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "headmaster", "dwarf", "dale-lands", "abjuration", "protection", "university"]
+  },
+  {
+    "id": "lysandra-moonshade",
+    "name": "Headmistress Lysandra Moonshade",
+    "race": "High Elf",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Headmistress Lysandra Moonshade oversees Callkeep Spire, the Conjuration school. This graceful high elf has mastered the art of summoning and creation magic. Her moonshade abilities allow her to work with shadow and moonlight to enhance her conjuration spells.",
+    "location": "Callkeep Spire, Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "headmistress", "high-elf", "dale-lands", "conjuration", "summoning", "university"]
+  },
+  {
+    "id": "faelar-starsight",
+    "name": "Headmaster Faelar Starsight",
+    "race": "Aarakocra",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Headmaster Faelar Starsight runs the Oracle's Den, the school of Divination. This wise aarakocra has an extraordinary gift for foresight and stargazing. His aerial perspective and natural connection to the skies make him an exceptional divination teacher in the floating city.",
+    "location": "Oracle's Den, Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "headmaster", "aarakocra", "dale-lands", "divination", "flight", "university"]
+  },
+  {
+    "id": "elandria-heartwhisper",
+    "name": "Headmistress Elandria Heartwhisper",
+    "race": "Tiefling",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Headmistress Elandria Heartwhisper leads Mindweave Tower, the Enchantment school. Despite her tiefling heritage, she uses her natural charisma and understanding of minds to teach ethical enchantment magic. Her heartwhisper abilities allow her to sense the true intentions of others.",
+    "location": "Mindweave Tower, Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "headmistress", "tiefling", "dale-lands", "enchantment", "mind-magic", "university"]
+  },
+  {
+    "id": "brondar-stormfist",
+    "name": "Headmaster Brondar Stormfist",
+    "race": "Goliath",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Headmaster Brondar Stormfist oversees Stormforge Bastion, the school of Evocation. This massive goliath combines physical prowess with devastating magical power. His stormfist technique can channel lightning and thunder through his fists, making him a formidable evocation instructor.",
+    "location": "Stormforge Bastion, Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "headmaster", "goliath", "dale-lands", "evocation", "storm", "university"]
+  },
+
+  // Key Dale Lands Henge Officials
+  {
+    "id": "elysor-spellscribe",
+    "name": "Master Tomekeeper Elysor Spellscribe",
+    "race": "Half-Elf",
+    "class": "Wizard/Scribe",
+    "category": "npc",
+    "description": "Master Tomekeeper Elysor Spellscribe manages the vast Nexus Arcanum, the central library of Dale Lands Henge. His ability to magically preserve and organize knowledge makes him invaluable to the magical community. He can instantly locate any spell or magical theory within the vast collection.",
+    "location": "Nexus Arcanum, Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "tomekeeper", "half-elf", "dale-lands", "library", "knowledge", "scribe"]
+  },
+  {
+    "id": "lysander-starreach",
+    "name": "Astronomer Lysander Starreach",
+    "race": "Elf",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Astronomer Lysander Starreach leads the Celestial Observatory in Dale Lands Henge. His starreach abilities allow him to commune with celestial bodies and predict cosmic events. His astronomical research helps navigate the floating city and understand magical phenomena related to the heavens.",
+    "location": "Celestial Observatory, Dale Lands Henge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "astronomer", "elf", "dale-lands", "celestial", "stars", "observatory"]
+  },
+
+  // Legendary Heroes - Prophecy of Dragons Campaign
+  {
+    "id": "aldus-byrne",
+    "name": "Aldus Byrne",
+    "race": "Human",
+    "class": "Fighter",
+    "category": "player",
+    "description": "Aldus Byrne is a legendary warrior with fiery red hair and a brass dragon heart. His fire-breathing powers and unwavering courage made him a key figure in the Prophecy of Dragons. His brass heart grants him resistance to fire and the ability to breathe flames in battle, marking him as one of the eight chosen heroes.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "human", "hero", "prophecy-dragons", "fire", "brass-heart"]
+  },
+  {
+    "id": "keryth-aedithas",
+    "name": "Keryth Aedithas",
+    "race": "Human",
+    "class": "Wizard",
+    "category": "player",
+    "description": "Keryth Aedithas is a legendary mage with piercing blue eyes and mastery over ancient ice magic. One of the eight heroes of the Prophecy of Dragons, his control over frost and winter magic proved instrumental in the campaign. His icy spells could freeze entire battlefields and create barriers of solid ice.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "human", "hero", "prophecy-dragons", "ice", "mage"]
+  },
+  {
+    "id": "nyble-ironsprocket",
+    "name": "Nyble Ironsprocket",
+    "race": "Gnome",
+    "class": "Artificer",
+    "category": "player",
+    "description": "Nyble Ironsprocket is a legendary gnome tinkerer who bonded with a copper dragon during the Prophecy of Dragons campaign. His incredible steam and gear-based inventions, powered by his dragon bond, created mechanical marvels that aided the heroes. His copper dragon heritage grants him unique mechanical insights.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "gnome", "hero", "prophecy-dragons", "artificer", "copper-dragon"]
+  },
+  {
+    "id": "graal-onetusk",
+    "name": "Graal Onetusk",
+    "race": "Orc",
+    "class": "Druid",
+    "category": "player",
+    "description": "Graal Onetusk is a legendary orc druid with a green dragon heart, granting him extraordinary nature control and land healing abilities. Despite his orcish heritage, his connection to the natural world and role in the Prophecy of Dragons made him a respected hero. He could heal corrupted lands with his touch.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "orc", "hero", "prophecy-dragons", "druid", "green-heart", "nature"]
+  },
+
+  // Legendary Heroes - The Abyssal Egg Campaign
+  {
+    "id": "viktor-sorcerer",
+    "name": "Viktor",
+    "image": "Viktor",
+    "race": "Half-Elf",
+    "class": "Sorcerer",
+    "category": "player",
+    "description": "Viktor is a legendary half-elf sorcerer who played a crucial role in The Abyssal Egg campaign. His mastery of arcane magic and sorcerous power helped defeat the demon Malgrinax. His innate magical abilities and strategic thinking made him invaluable in the fight against abyssal forces.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "half-elf", "hero", "abyssal-egg", "sorcerer", "arcane"]
+  },
+  {
+    "id": "zander-lex",
+    "name": "Zander Lex",
+    "race": "Human",
+    "class": "Cleric",
+    "category": "player",
+    "description": "Zander Lex is a legendary human cleric devoted to Solanar, the Shining Sentinel. His divine healing powers and unwavering faith were instrumental in The Abyssal Egg campaign. His connection to the god of light and justice provided crucial protection against demonic corruption.",
+    "location": "The Abyssal Egg Campaign",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "human", "hero", "abyssal-egg", "cleric", "solanar", "divine"]
+  },
+  {
+    "id": "beldurion-elf",
+    "name": "Beldurion",
+    "image": "Beldurion",
+    "race": "Elf",
+    "class": "Rogue",
+    "category": "player",
+    "description": "Beldurion is a legendary elven rogue master of stealth and cunning who participated in The Abyssal Egg campaign. His ability to move unseen and strike from the shadows proved vital in infiltrating demonic strongholds. His elven agility and centuries of experience made him unmatched in reconnaissance.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "elf", "hero", "abyssal-egg", "rogue", "stealth", "cunning"]
+  },
+
+  // Legendary Heroes - Crypts of Eternity Campaign
+  {
+    "id": "beryl-mcdoyle",
+    "name": "Beryl McDoyle",
+    "race": "Human",
+    "class": "Fighter",
+    "category": "player",
+    "description": "Beryl McDoyle is a legendary human fighter known for her unwavering courage in the Crypts of Eternity campaign. Her determination and fighting prowess helped defeat the malevolent lich Vorloth the Soulrender. Her fearless leadership inspired her companions through the darkest crypts.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "human", "hero", "crypts-eternity", "fighter", "courage", "leader"]
+  },
+  {
+    "id": "murkial-aasimar",
+    "name": "Murkial",
+    "image": "Murkial",
+    "race": "Aasimar",
+    "class": "Warlock",
+    "category": "player",
+    "description": "Murkial is a legendary aasimar warlock whose celestial ancestry provided unique insights during the Crypts of Eternity campaign. Despite his warlock pact, his divine heritage helped resist the corruption of undeath and provided holy power against the lich's forces.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "aasimar", "hero", "crypts-eternity", "warlock", "celestial", "divine"]
+  },
+  {
+    "id": "ordek-dragonborn",
+    "name": "Ordek",
+    "image": "Ordek",
+    "race": "Dragonborn",
+    "class": "Paladin",
+    "category": "player",
+    "description": "Ordek is a legendary dragonborn paladin devoted to Aelthorin, the Wild Wanderer. His draconic breath weapon and divine smite abilities were crucial in the Crypts of Eternity campaign against undead forces. His chaotic good nature and paladin oaths created a unique heroic approach.",
+    "creator": "Campaign Setting",
+    "tags": ["character", "legendary", "dragonborn", "hero", "crypts-eternity", "paladin", "aelthorin", "divine"]
+  },
+
+  // Kronus Clockwork City Leadership
+  {
+    "id": "glim-sparkwhistle",
+    "name": "Glim Sparkwhistle",
+    "title": "Grand Artificer of Kronus",
+    "race": "Gnome",
+    "class": "Artificer",
+    "category": "npc",
+    "description": "Glim Sparkwhistle is the Grand Artificer and leader of Kronus, the magnificent clockwork city. With wild white hair that seems to spark with magical energy, Glim embodies the vibrant and innovative spirit of gnomish engineering. His genius-level intellect has helped transform Kronus into the most technologically advanced city in all of Draachenmar, complete with floating spires and mechanical wonders.",
+    "location": "Kronus",
+    "image": "Glim Sparkwhistle Grand Artificer of Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "leader", "gnome", "kronus", "artificer", "clockwork", "engineering"]
+  },
+  {
+    "id": "tinkernock-steambeard",
+    "name": "Admiral Tinkernock Steambeard",
+    "image": "Admiral Tinkernock Steambeard",
+    "creator": "Campaign Setting",
+    "tags": ["character", "admiral", "gnome", "kronus", "airship", "navigator", "fleet"]
+  },
+
+  // Kronus Orbital Academy Leadership
+  {
+    "id": "nimbus-gearturner",
+    "name": "Chancellor Nimbus Gearturner",
+    "image": "Chancellor Nimbus Gearturner",
+    "race": "Gnome",
+    "class": "Artificer/Wizard",
+    "category": "npc",
+    "description": "Chancellor Nimbus Gearturner heads the prestigious Orbital Academy of Kronus. As a visionary leader, he combines magical theory with mechanical innovation to push the boundaries of gnomish knowledge. His leadership has made the academy the premier institution for magical engineering and celestial studies.",
+    "location": "Orbital Academy, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "chancellor", "gnome", "kronus", "academy", "education", "visionary"]
+  },
+  {
+    "id": "stella-starshaper",
+    "name": "Professor Stella Starshaper",
+    "race": "Gnome",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Professor Stella Starshaper is the academy's leading expert in celestial magic and astronomical studies. Her research into the magical properties of stars and celestial bodies has revolutionized gnomish understanding of cosmic forces. She teaches advanced courses in stellar manipulation and celestial navigation.",
+    "location": "Orbital Academy, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "professor", "gnome", "kronus", "academy", "celestial", "astronomy"]
+  },
+  {
+    "id": "vortex-steamweaver",
+    "name": "Dr. Vortex Steamweaver",
+    "race": "Gnome",
+    "class": "Artificer",
+    "category": "npc",
+    "description": "Dr. Vortex Steamweaver is a pioneer in elemental propulsion research at the Orbital Academy. His groundbreaking work on steam-powered magical engines and elemental fusion drives has advanced Kronus's airship technology by decades. His experiments with controlled magical vortexes power many of the city's mechanical systems.",
+    "location": "Orbital Academy, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "doctor", "gnome", "kronus", "academy", "propulsion", "steam", "innovation"]
+  },
+  {
+    "id": "alric-timekeeper",
+    "name": "Master Alric Timekeeper",
+    "race": "Gnome",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Master Alric Timekeeper is the academy's expert in chronomancy and temporal magic. His studies of time manipulation and temporal mechanics have led to breakthrough discoveries in clockwork precision and magical timing systems. He maintains the great chronometer that synchronizes all of Kronus's mechanical operations.",
+    "location": "Orbital Academy, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "master", "gnome", "kronus", "academy", "time", "chronomancy", "clockwork"]
+  },
+  {
+    "id": "aurora-whimsylight",
+    "name": "Madame Aurora Whimsylight",
+    "race": "Gnome",
+    "class": "Wizard/Librarian",
+    "category": "npc",
+    "description": "Madame Aurora Whimsylight serves as the keeper of the Celestial Archives at the Orbital Academy. Her whimsical approach to organizing magical knowledge has created the most comprehensive collection of astronomical and mechanical texts in the known world. Her light-based cataloging system makes finding information both efficient and beautiful.",
+    "location": "Celestial Archives, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "librarian", "gnome", "kronus", "academy", "archives", "knowledge", "whimsical"]
+  },
+
+  // Kronus Academy Students & Notable Figures
+  {
+    "id": "daxon-cogtwist",
+    "name": "Daxon Cogtwist",
+    "image": "Daxon Cogtwist",
+    "race": "Gnome",
+    "class": "Artificer/Journalist",
+    "category": "npc",
+    "description": "Daxon Cogtwist is both a student at the Orbital Academy and the editor of the Kronus Chronicle, the city's premier newspaper. His dual perspective as student and journalist gives him unique insights into the academy's discoveries and their implications for Kronus society. His articles often feature the latest mechanical innovations.",
+    "location": "Orbital Academy, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "student", "gnome", "kronus", "academy", "journalist", "chronicle", "news"]
+  },
+  {
+    "id": "luna-lightcatcher",
+    "name": "Luna Lightcatcher",
+    "race": "Gnome",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Luna Lightcatcher is a brilliant research fellow at the Orbital Academy, born during the passage of the rare Astral Comet. Her birth under this celestial event granted her unique abilities to manipulate and capture starlight. Her research focuses on converting stellar energy into mechanical power for Kronus's innovations.",
+    "location": "Orbital Academy, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "researcher", "gnome", "kronus", "academy", "astral", "comet", "starlight"]
+  },
+  {
+    "id": "elara-moonlatch",
+    "name": "Lady Elara Moonlatch",
+    "race": "Gnome",
+    "class": "Wizard/Archivist",
+    "category": "npc",
+    "description": "Lady Elara Moonlatch serves as the Keeper of Arcane Archives in Kronus. Distinguished by her silvery-blue hair and elegant moon-shaped spectacles, she maintains the city's vast collection of magical knowledge and mechanical blueprints. Her archival system combines magical preservation with mechanical organization.",
+    "location": "Arcane Archives, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "keeper", "gnome", "kronus", "archives", "arcane", "preservation", "noble"]
+  },
+
+  // Kronus Business & Tavern Owners
+  {
+    "id": "meera-gearspinner",
+    "name": "Meera Gearspinner",
+    "race": "Gnome",
+    "class": "Artificer/Innkeeper",
+    "category": "npc",
+    "description": "Meera Gearspinner owns and operates the famous Cog and Gear Tavern, the social heart of Kronus. Her establishment features automated serving systems and mechanical entertainment that delights visitors from across the realm. Her warm hospitality and innovative approach to tavern-keeping make her establishment legendary.",
+    "location": "Cog and Gear Tavern, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "innkeeper", "gnome", "kronus", "tavern", "hospitality", "automated", "social"]
+  },
+  {
+    "id": "fizzlewick-geargrinder",
+    "name": "Fizzlewick Geargrinder",
+    "race": "Gnome",
+    "class": "Artificer/Merchant",
+    "category": "npc",
+    "description": "Fizzlewick Geargrinder runs the Cog & Sprocket Emporium, Kronus's premier mechanical parts and gadget shop. His expertise in gear ratios and mechanical systems makes him the go-to gnome for anyone needing precision parts. His shop contains an amazing array of clockwork components and magical mechanical devices.",
+    "location": "Cog & Sprocket Emporium, Kronus",
+    "creator": "Campaign Setting",
+    "tags": ["character", "merchant", "gnome", "kronus", "emporium", "mechanical", "gadgets", "precision"]
+  },
+
+  // Kingdom of Avalon - Royal Family
+  {
+    "id": "king-arie-avalon",
+    "name": "King Arie of Avalon",
+    "race": "Human",
+    "class": "Noble/Fighter",
+    "category": "npc",
+    "description": "King Arie of Avalon is the maritime ruler of the Kingdom of Avalon, distinguished by his regal crown adorned with seashells and pearls that symbolize his realm's connection to the sea. He governs the five duchies of Avalon with wisdom and strength, balancing the needs of both island and mainland territories. His leadership has made Avalon a prosperous maritime power.",
+    "location": "Kingdom of Avalon",
+    "image": "King Aric of Avalon",
+    "creator": "Campaign Setting",
+    "tags": ["character", "king", "human", "avalon", "maritime", "ruler", "nobility"]
+  },
+  {
+    "id": "duke-alaric-aerlin",
+    "name": "Duke Alaric of Aerlin",
+    "image": "Duke Alaric of Aerlin",
+    "creator": "Campaign Setting",
+    "tags": ["character", "duke", "human", "avalon", "aerlin", "fishing", "whaling", "maritime"]
+  },
+  {
+    "id": "duke-branwen-braeten",
+    "name": "Duke Branwen of Braeten",
+    "race": "Human",
+    "class": "Noble/Artificer",
+    "category": "npc",
+    "description": "Duke Branwen of Braeten governs the Island Duchy of Braeten, known for its vast forests and exceptional shipbuilding industry. His expertise in forestry management and ship construction has made Braeten's vessels highly sought after throughout the realm. He personally oversees the selection of timber for the kingdom's finest ships.",
+    "location": "Duchy of Braeten, Avalon",
+    "image": "Duke Branwen Duchy of Braeten",
+    "creator": "Campaign Setting",
+    "tags": ["character", "duke", "human", "avalon", "braeten", "shipbuilding", "forestry", "craftsmanship"]
+  },
+  {
+    "id": "duke-idris-albion",
+    "name": "Duke Idris of Albion",
+    "image": "Duke Idris of Albion",
+    "creator": "Campaign Setting",
+    "tags": ["character", "duke", "human", "avalon", "albion", "military", "fortification", "strategy"]
+  },
+  {
+    "id": "duchess-valeria-veringia",
+    "name": "Duchess Valeria of Veringia",
+    "race": "Human",
+    "class": "Noble/Bard",
+    "category": "npc",
+    "description": "Duchess Valeria of Veringia governs the Island Duchy of Veringia, specializing in maritime trade and diplomacy. Her charismatic personality and extensive trade networks have made Veringia the commercial heart of Avalon. She is renowned for her elegant diplomatic receptions and her ability to negotiate favorable trade agreements.",
+    "location": "Duchy of Veringia, Avalon",
+    "image": "Dutchess Valeria of Veringia",
+    "creator": "Campaign Setting",
+    "tags": ["character", "duchess", "human", "avalon", "veringia", "trade", "diplomacy", "commerce"]
+  },
+  {
+    "id": "duke-cedric-merish",
+    "name": "Duke Cedric of Merish",
+    "image": "Duke Cedric of Merish",
+    "creator": "Campaign Setting",
+    "tags": ["character", "duke", "human", "avalon", "merish", "culture", "arts", "patron"]
+  },
+
+  // Lineton Notable Figures
+  {
+    "id": "mayor-eldran-lineton",
+    "name": "Mayor Eldran",
+    "image": "Mayor Eldran",
+    "race": "Half-Elf",
+    "class": "Noble/Diplomat",
+    "category": "npc",
+    "description": "Mayor Eldran is the charismatic half-elf leader of Lineton, skillfully mediating disputes between the Avalon and Merish territories. His diplomatic expertise and natural charisma have made him invaluable in maintaining peace and prosperity in the border town. His half-elven heritage gives him unique insights into both human and elven perspectives.",
+    "location": "Lineton",
+    "creator": "Campaign Setting",
+    "tags": ["character", "mayor", "half-elf", "lineton", "diplomat", "mediator", "charismatic"]
+  },
+  {
+    "id": "threx-silver-stag",
+    "name": "Threx, Keeper of the Silver Stag",
+    "race": "Dragonborn",
+    "class": "Fighter/Innkeeper",
+    "category": "npc",
+    "description": "Threx is a silver dragonborn who owns and operates the famous Silver Stag tavern in Lineton. His gleaming silver scales and imposing presence make him a memorable figure, but his warm hospitality and excellent ale have made his establishment the social heart of the town. His tavern serves as neutral ground for travelers from all territories.",
+    "location": "Silver Stag Tavern, Lineton",
+    "creator": "Campaign Setting",
+    "tags": ["character", "innkeeper", "dragonborn", "lineton", "silver", "tavern", "hospitality"]
+  },
+  {
+    "id": "high-priestess-seri",
+    "name": "High Priestess Seri",
+    "race": "Elf",
+    "class": "Cleric",
+    "category": "npc",
+    "description": "High Priestess Seri leads the Temple of Luminara in Lineton, providing spiritual guidance to the diverse community. Her elven wisdom and deep connection to the divine make her a respected figure among all races and cultures in the town. She often mediates conflicts through spiritual counsel and divine insight.",
+    "location": "Temple of Luminara, Lineton",
+    "creator": "Campaign Setting",
+    "tags": ["character", "priest", "elf", "lineton", "temple", "luminara", "spiritual", "wisdom"]
+  },
+  {
+    "id": "captain-ilyra-lineton",
+    "name": "Captain Ilyra",
+    "image": "Captain Ilyra",
+    "race": "Half-Orc",
+    "class": "Fighter",
+    "category": "npc",
+    "description": "Captain Ilyra leads the town guard of Lineton with strength and honor. Despite potential prejudices against her half-orc heritage, she has earned respect through her unwavering dedication to protecting the town and its inhabitants. Her formidable combat skills and fair judgment make her an excellent leader of the guard.",
+    "location": "Lineton Town Guard",
+    "creator": "Campaign Setting",
+    "tags": ["character", "captain", "half-orc", "lineton", "guard", "warrior", "protector", "honor"]
+  },
+  {
+    "id": "master-elrin-academy",
+    "name": "Master Elrin",
+    "race": "Gnome",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Master Elrin heads the Arcane Academy in Lineton, bringing magical education to the border region. His gnomish intellect and vast magical knowledge have made the academy a respected institution for magical learning. He is known for his patient teaching methods and innovative approaches to magical education.",
+    "location": "Arcane Academy, Lineton",
+    "creator": "Campaign Setting",
+    "tags": ["character", "headmaster", "gnome", "lineton", "academy", "magic", "education", "arcane"]
+  },
+  {
+    "id": "baelor-merchant-prince",
+    "name": "Baelor, the Merchant Prince",
+    "race": "Dwarf",
+    "class": "Noble/Merchant",
+    "category": "npc",
+    "description": "Baelor is a wealthy dwarven trader known throughout Lineton as the 'Merchant Prince.' His beard is intricately braided with gold threads and adorned with precious gemstones, displaying his immense wealth. His extensive trade networks and business acumen have made him one of the most influential figures in Lineton's economy.",
+    "location": "Lineton",
+    "creator": "Campaign Setting",
+    "tags": ["character", "merchant", "dwarf", "lineton", "wealth", "trade", "prince", "business"]
+  },
+
+  // Vandrhaf Military Leadership
+  {
+    "id": "drakar-clawforge",
+    "name": "Lord Commander Drakar Clawforge",
+    "image": "Lord Commander Drakar Clawforge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "commander", "dragonborn", "vandrhaf", "military", "order-of-claw", "bronze"]
+  },
+  {
+    "id": "selene-scalewarden",
+    "name": "High Strategos Selene Scalewarden",
+    "image": "High Strategos Selene Scalewarden",
+    "creator": "Campaign Setting",
+    "tags": ["character", "strategos", "dragonborn", "vandrhaf", "military", "order-of-scale", "silver", "tactics"]
+  },
+  {
+    "id": "vaelis-blackfang",
+    "name": "Shadowmistress Vaelis Blackfang",
+    "image": "Shadowmistress Vaelis Blackfang",
+    "creator": "Campaign Setting",
+    "tags": ["character", "shadowmistress", "dragonborn", "vandrhaf", "espionage", "order-of-fang", "black", "stealth"]
+  },
+
+  // Uxmal Council of Alathar
+  {
+    "id": "chief-scalesong",
+    "name": "Chief Scalesong",
+    "race": "Lizardfolk",
+    "class": "Druid/Chieftain",
+    "category": "npc",
+    "description": "Chief Scalesong leads the Lizardfolk faction within Uxmal's Council of Alathar. His wisdom in both strategic planning and ancient tribal knowledge makes him one of the most respected leaders on the island. His deep connection to the swamplands and volcanic environment of Uxmal gives him unique insights into the island's natural defenses.",
+    "location": "Uxmal",
+    "image": "Chief Scalesong of the Lizardfolk",
+    "creator": "Campaign Setting",
+    "tags": ["character", "chief", "lizardfolk", "uxmal", "council", "druid", "wisdom", "tribal"]
+  },
+  {
+    "id": "aeris-skysong",
+    "name": "Aeris Skysong",
+    "race": "Aarakocra",
+    "class": "Ranger/Scout",
+    "category": "npc",
+    "description": "Aeris Skysong represents the Aarakocra on Uxmal's Council of Alathar. Her mastery of aerial reconnaissance and weather prediction makes her invaluable for island defense and trade route protection. Her songs can influence wind patterns and communicate across vast distances, earning her the name 'Skysong' among her people.",
+    "location": "Uxmal",
+    "image": "Aeris Skysong",
+    "creator": "Campaign Setting",
+    "tags": ["character", "representative", "aarakocra", "uxmal", "council", "aerial", "weather", "scout"]
+  },
+  {
+    "id": "high-shaman-emberheart",
+    "name": "High Shaman Emberheart",
+    "race": "Human",
+    "class": "Cleric/Shaman",
+    "category": "npc",
+    "description": "High Shaman Emberheart serves as the human representative on Uxmal's Council of Alathar. His deep connection to the volcanic spirits of Mount Tyravos grants him powerful fire and earth magic. He maintains the delicate balance between the island's volcanic forces and its inhabitants, earning respect from all races on Uxmal.",
+    "location": "Uxmal",
+    "image": "High Shaman Emberheart",
+    "creator": "Campaign Setting",
+    "tags": ["character", "shaman", "human", "uxmal", "council", "volcanic", "fire", "earth", "spirits"]
+  },
+  {
+    "id": "lady-nightshadow",
+    "name": "Lady Nightshadow",
+    "race": "Tabaxi",
+    "class": "Rogue/Diplomat",
+    "category": "npc",
+    "description": "Lady Nightshadow represents the Tabaxi interests in Uxmal's Council of Alathar. Her feline grace and natural stealth abilities make her an excellent spy and negotiator. She manages the complex trade relationships between Uxmal and other nations, using her charm and cunning to secure favorable deals for the island.",
+    "location": "Uxmal",
+    "image": "Lady Nightshadow",
+    "creator": "Campaign Setting",
+    "tags": ["character", "lady", "tabaxi", "uxmal", "council", "stealth", "trade", "diplomat", "feline"]
+  },
+  {
+    "id": "elder-shellforge",
+    "name": "Elder Shellforge",
+    "race": "Tortle",
+    "class": "Artificer/Elder",
+    "category": "npc",
+    "description": "Elder Shellforge serves as the Tortle representative on Uxmal's Council of Alathar. His centuries of life experience and mastery of shell-crafting techniques make him a wise counselor and skilled artificer. He creates protective items and defensive structures using techniques passed down through generations of Tortle crafters.",
+    "location": "Uxmal",
+    "image": "Elder Shellforge",
+    "creator": "Campaign Setting",
+    "tags": ["character", "elder", "tortle", "uxmal", "council", "artificer", "shell-crafting", "ancient", "wisdom"]
+  },
+
+  // Frozen Vilos Leadership
+  {
+    "id": "queen-yurta-frost",
+    "name": "Queen Yurta",
+    "race": "Frost Giant",
+    "class": "Noble/Sorcerer",
+    "category": "npc",
+    "description": "Queen Yurta is the towering ruler of Frozen Vilos, a frost giant of immense power and presence. Her piercing blue eyes can freeze opponents with a glance, and her mastery of ice magic is legendary throughout the frozen realm. As both a warrior and sorceress, she commands absolute respect from her subjects and strikes fear into any who would threaten her domain.",
+    "location": "Frozen Vilos",
+    "image": "Yurta Queen of Frost",
+    "creator": "Campaign Setting",
+    "tags": ["character", "queen", "frost-giant", "frozen-vilos", "ice-magic", "sorcerer", "ruler", "giant"]
+  },
+
+  // Gray Order - Council of Eldertomes
+  {
+    "id": "drakarn-spellbinder",
+    "name": "Archmage Drakarn Spellbinder",
+    "image": "Archmage Drakarn Spellbinder",
+    "creator": "Campaign Setting",
+    "tags": ["character", "archmage", "human", "gray-order", "council", "spellbinding", "magical-scripts", "leader"]
+  },
+  {
+    "id": "marwen-earthshaper",
+    "name": "Professor Marwen Earthshaper",
+    "image": "Professor Marwen Earthshaper",
+    "creator": "Campaign Setting",
+    "tags": ["character", "professor", "human", "gray-order", "council", "archaeology", "geology", "earth-magic"]
+  },
+  {
+    "id": "vaelora-wordsmith",
+    "name": "Lady Vaelora Wordsmith",
+    "image": "Lady Vaelora Wordsmith",
+    "creator": "Campaign Setting",
+    "tags": ["character", "lady", "human", "gray-order", "council", "diplomacy", "linguistics", "wordsmith"]
+  },
+  {
+    "id": "thalgrim-forgeheart",
+    "name": "Master Thalgrim Forgeheart",
+    "image": "Master Thalgrim Forgeheart",
+    "creator": "Campaign Setting",
+    "tags": ["character", "master", "dwarf", "gray-order", "council", "artificer", "craftsmanship", "magical-items"]
+  },
+  {
+    "id": "lirael-starwhisper",
+    "name": "High Priestess Lirael Starwhisper",
+    "image": "High Priestess Lirael Starwhisper",
+    "creator": "Campaign Setting",
+    "tags": ["character", "priestess", "human", "gray-order", "council", "divine-magic", "spiritual", "celestial"]
+  },
+  {
+    "id": "elandra-tomekeeper",
+    "name": "Scribe Elandra Tomekeeper",
+    "image": "Scribe Elandra Tomekeeper",
+    "creator": "Campaign Setting",
+    "tags": ["character", "scribe", "human", "gray-order", "council", "historian", "archivist", "record-keeping"]
+  },
+  {
+    "id": "faelan-wildshadow",
+    "name": "Ranger Faelan Wildshadow",
+    "image": "Ranger Faelan Wildshadow",
+    "creator": "Campaign Setting",
+    "tags": ["character", "ranger", "human", "gray-order", "council", "tracking", "survival", "wilderness", "expeditions"]
+  },
+  {
+    "id": "elysa-truthseeker",
+    "name": "Mistress Elysa Truthseeker",
+    "image": "Mistress Elysa Truthseeker",
+    "creator": "Campaign Setting",
+    "tags": ["character", "mistress", "human", "gray-order", "council", "ethics", "truth", "oversight", "justice"]
+  },
+
+  // Legacy characters (keeping a few for continuity)
+  {
+    "id": "yorandis",
+    "name": "Yorandis the Archmage",
+    "race": "Human",
+    "class": "Wizard",
+    "category": "npc",
+    "description": "Yorandis is a legendary figure known for his extraordinary skills as a mage and his creation of the Luminous Amulet. An aged wizard with wisdom gained over a lifetime of magical study and experimentation, he began his journey as an apprentice to a renowned mage, learning the intricacies of arcane arts and mastering various spells and incantations.",
+    "image": "yorandis",
+    "creator": "Paul Moore",
+    "tags": ["character", "magic", "legendary", "wizard", "archmage"]
+  }
+];

@@ -1,0 +1,6089 @@
+{
+  "generated": "2025-09-24T11:24:50.805Z",
+  "images": {
+    "characters": [
+      {
+        "originalPath": "/images/characters/Admiral Tinkernock Steambeard.webp",
+        "webPath": "/Draachenmar/images/characters/Admiral Tinkernock Steambeard.webp",
+        "fileName": "Admiral Tinkernock Steambeard.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Aeris Skysong.webp",
+        "webPath": "/Draachenmar/images/characters/Aeris Skysong.webp",
+        "fileName": "Aeris Skysong.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Alchemist Kaelin.webp",
+        "webPath": "/Draachenmar/images/characters/Alchemist Kaelin.webp",
+        "fileName": "Alchemist Kaelin.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Ambassador Galadriel Starfall.webp",
+        "webPath": "/Draachenmar/images/characters/Ambassador Galadriel Starfall.webp",
+        "fileName": "Ambassador Galadriel Starfall.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/amulet_of_yorandis.webp",
+        "webPath": "/Draachenmar/images/characters/amulet_of_yorandis.webp",
+        "fileName": "amulet_of_yorandis.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/ansgar.webp",
+        "webPath": "/Draachenmar/images/characters/ansgar.webp",
+        "fileName": "ansgar.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/arburus.webp",
+        "webPath": "/Draachenmar/images/characters/arburus.webp",
+        "fileName": "arburus.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Archdiviner Seraphina Starwhisper.webp",
+        "webPath": "/Draachenmar/images/characters/Archdiviner Seraphina Starwhisper.webp",
+        "fileName": "Archdiviner Seraphina Starwhisper.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Archdruid Lirael Sunshadow.webp",
+        "webPath": "/Draachenmar/images/characters/Archdruid Lirael Sunshadow.webp",
+        "fileName": "Archdruid Lirael Sunshadow.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Archmage Drakarn Spellbinder.webp",
+        "webPath": "/Draachenmar/images/characters/Archmage Drakarn Spellbinder.webp",
+        "fileName": "Archmage Drakarn Spellbinder.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Archmage Elara Fireweaver.webp",
+        "webPath": "/Draachenmar/images/characters/Archmage Elara Fireweaver.webp",
+        "fileName": "Archmage Elara Fireweaver.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Archmagus Sylaria Frostshaper.webp",
+        "webPath": "/Draachenmar/images/characters/Archmagus Sylaria Frostshaper.webp",
+        "fileName": "Archmagus Sylaria Frostshaper.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Argentus.webp",
+        "webPath": "/Draachenmar/images/characters/Argentus.webp",
+        "fileName": "Argentus.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Aurelia Windshaper.webp",
+        "webPath": "/Draachenmar/images/characters/Aurelia Windshaper.webp",
+        "fileName": "Aurelia Windshaper.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Aurelium the Lost City.webp",
+        "webPath": "/Draachenmar/images/characters/Aurelium the Lost City.webp",
+        "fileName": "Aurelium the Lost City.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/barlow_piff.webp",
+        "webPath": "/Draachenmar/images/characters/barlow_piff.webp",
+        "fileName": "barlow_piff.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Beldurion.webp",
+        "webPath": "/Draachenmar/images/characters/Beldurion.webp",
+        "fileName": "Beldurion.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/brimor_s_parchment.webp",
+        "webPath": "/Draachenmar/images/characters/brimor_s_parchment.webp",
+        "fileName": "brimor_s_parchment.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/brimor_s_spyglass.webp",
+        "webPath": "/Draachenmar/images/characters/brimor_s_spyglass.webp",
+        "fileName": "brimor_s_spyglass.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/brimorn_brasspocket.webp",
+        "webPath": "/Draachenmar/images/characters/brimorn_brasspocket.webp",
+        "fileName": "brimorn_brasspocket.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/brimors_sextant.webp",
+        "webPath": "/Draachenmar/images/characters/brimors_sextant.webp",
+        "fileName": "brimors_sextant.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Brother Cedric.webp",
+        "webPath": "/Draachenmar/images/characters/Brother Cedric.webp",
+        "fileName": "Brother Cedric.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/brynlee_piff.webp",
+        "webPath": "/Draachenmar/images/characters/brynlee_piff.webp",
+        "fileName": "brynlee_piff.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Captain Ilyra.webp",
+        "webPath": "/Draachenmar/images/characters/Captain Ilyra.webp",
+        "fileName": "Captain Ilyra.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Captain Thalorin Dawnblade.webp",
+        "webPath": "/Draachenmar/images/characters/Captain Thalorin Dawnblade.webp",
+        "fileName": "Captain Thalorin Dawnblade.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Chancellor Nimbus Gearturner.webp",
+        "webPath": "/Draachenmar/images/characters/Chancellor Nimbus Gearturner.webp",
+        "fileName": "Chancellor Nimbus Gearturner.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/charmhorn_pentant.webp",
+        "webPath": "/Draachenmar/images/characters/charmhorn_pentant.webp",
+        "fileName": "charmhorn_pentant.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Chief Scalesong of the Lizardfolk.webp",
+        "webPath": "/Draachenmar/images/characters/Chief Scalesong of the Lizardfolk.webp",
+        "fileName": "Chief Scalesong of the Lizardfolk.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/City of Respite.webp",
+        "webPath": "/Draachenmar/images/characters/City of Respite.webp",
+        "fileName": "City of Respite.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Daxon Cogtwist.webp",
+        "webPath": "/Draachenmar/images/characters/Daxon Cogtwist.webp",
+        "fileName": "Daxon Cogtwist.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/drake_the_damned.webp",
+        "webPath": "/Draachenmar/images/characters/drake_the_damned.webp",
+        "fileName": "drake_the_damned.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Duke Alaric of Aerlin.webp",
+        "webPath": "/Draachenmar/images/characters/Duke Alaric of Aerlin.webp",
+        "fileName": "Duke Alaric of Aerlin.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Duke Branwen Duchy of Braeten.webp",
+        "webPath": "/Draachenmar/images/characters/Duke Branwen Duchy of Braeten.webp",
+        "fileName": "Duke Branwen Duchy of Braeten.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Duke Cedric of Merish.webp",
+        "webPath": "/Draachenmar/images/characters/Duke Cedric of Merish.webp",
+        "fileName": "Duke Cedric of Merish.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Duke Idris of Albion.webp",
+        "webPath": "/Draachenmar/images/characters/Duke Idris of Albion.webp",
+        "fileName": "Duke Idris of Albion.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Dutchess Valeria of Veringia.webp",
+        "webPath": "/Draachenmar/images/characters/Dutchess Valeria of Veringia.webp",
+        "fileName": "Dutchess Valeria of Veringia.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/egon.webp",
+        "webPath": "/Draachenmar/images/characters/egon.webp",
+        "fileName": "egon.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/egons_manor.webp",
+        "webPath": "/Draachenmar/images/characters/egons_manor.webp",
+        "fileName": "egons_manor.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Elara Hearhtstone.webp",
+        "webPath": "/Draachenmar/images/characters/Elara Hearhtstone.webp",
+        "fileName": "Elara Hearhtstone.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Elder Shellforge.webp",
+        "webPath": "/Draachenmar/images/characters/Elder Shellforge.webp",
+        "fileName": "Elder Shellforge.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Elder Thalara.webp",
+        "webPath": "/Draachenmar/images/characters/Elder Thalara.webp",
+        "fileName": "Elder Thalara.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/fizz.webp",
+        "webPath": "/Draachenmar/images/characters/fizz.webp",
+        "fileName": "fizz.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/font_of_mysteries.webp",
+        "webPath": "/Draachenmar/images/characters/font_of_mysteries.webp",
+        "fileName": "font_of_mysteries.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/fontana_aeternum.webp",
+        "webPath": "/Draachenmar/images/characters/fontana_aeternum.webp",
+        "fileName": "fontana_aeternum.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Glim Sparkwhistle Grand Artificer of Kronus.webp",
+        "webPath": "/Draachenmar/images/characters/Glim Sparkwhistle Grand Artificer of Kronus.webp",
+        "fileName": "Glim Sparkwhistle Grand Artificer of Kronus.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/gnomerix_in_dragon_form.webp",
+        "webPath": "/Draachenmar/images/characters/gnomerix_in_dragon_form.webp",
+        "fileName": "gnomerix_in_dragon_form.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/gnomerix_in_gnome_form.webp",
+        "webPath": "/Draachenmar/images/characters/gnomerix_in_gnome_form.webp",
+        "fileName": "gnomerix_in_gnome_form.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Graldin Thistlewood.webp",
+        "webPath": "/Draachenmar/images/characters/Graldin Thistlewood.webp",
+        "fileName": "Graldin Thistlewood.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Grand Master Dragonrider  Kaelin Stormwing.webp",
+        "webPath": "/Draachenmar/images/characters/Grand Master Dragonrider  Kaelin Stormwing.webp",
+        "fileName": "Grand Master Dragonrider  Kaelin Stormwing.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Guardian Rolkar.webp",
+        "webPath": "/Draachenmar/images/characters/Guardian Rolkar.webp",
+        "fileName": "Guardian Rolkar.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/High Priestess Lirael Starwhisper.webp",
+        "webPath": "/Draachenmar/images/characters/High Priestess Lirael Starwhisper.webp",
+        "fileName": "High Priestess Lirael Starwhisper.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/High Scholar Thandor Stoneforge.webp",
+        "webPath": "/Draachenmar/images/characters/High Scholar Thandor Stoneforge.webp",
+        "fileName": "High Scholar Thandor Stoneforge.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/High Shaman Emberheart.webp",
+        "webPath": "/Draachenmar/images/characters/High Shaman Emberheart.webp",
+        "fileName": "High Shaman Emberheart.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/High Strategos Selene Scalewarden.webp",
+        "webPath": "/Draachenmar/images/characters/High Strategos Selene Scalewarden.webp",
+        "fileName": "High Strategos Selene Scalewarden.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Hunter Varric.webp",
+        "webPath": "/Draachenmar/images/characters/Hunter Varric.webp",
+        "fileName": "Hunter Varric.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Ice Lotus.webp",
+        "webPath": "/Draachenmar/images/characters/Ice Lotus.webp",
+        "fileName": "Ice Lotus.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/imre.webp",
+        "webPath": "/Draachenmar/images/characters/imre.webp",
+        "fileName": "imre.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/janos_nagy.webp",
+        "webPath": "/Draachenmar/images/characters/janos_nagy.webp",
+        "fileName": "janos_nagy.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Kaltfish Capital of Vandrhaf.webp",
+        "webPath": "/Draachenmar/images/characters/Kaltfish Capital of Vandrhaf.webp",
+        "fileName": "Kaltfish Capital of Vandrhaf.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/kass.webp",
+        "webPath": "/Draachenmar/images/characters/kass.webp",
+        "fileName": "kass.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/King Aric of Avalon.webp",
+        "webPath": "/Draachenmar/images/characters/King Aric of Avalon.webp",
+        "fileName": "King Aric of Avalon.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/King Rathgar Ironhammer.webp",
+        "webPath": "/Draachenmar/images/characters/King Rathgar Ironhammer.webp",
+        "fileName": "King Rathgar Ironhammer.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/kolos.webp",
+        "webPath": "/Draachenmar/images/characters/kolos.webp",
+        "fileName": "kolos.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Kronus the Clockwork City.webp",
+        "webPath": "/Draachenmar/images/characters/Kronus the Clockwork City.webp",
+        "fileName": "Kronus the Clockwork City.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Lady Nightshadow.webp",
+        "webPath": "/Draachenmar/images/characters/Lady Nightshadow.webp",
+        "fileName": "Lady Nightshadow.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Lady Vaelora Wordsmith.webp",
+        "webPath": "/Draachenmar/images/characters/Lady Vaelora Wordsmith.webp",
+        "fileName": "Lady Vaelora Wordsmith.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Lord Commander Drakar Clawforge.webp",
+        "webPath": "/Draachenmar/images/characters/Lord Commander Drakar Clawforge.webp",
+        "fileName": "Lord Commander Drakar Clawforge.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/lukas_the_one-man_band.webp",
+        "webPath": "/Draachenmar/images/characters/lukas_the_one-man_band.webp",
+        "fileName": "lukas_the_one-man_band.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Maelin Windrider.webp",
+        "webPath": "/Draachenmar/images/characters/Maelin Windrider.webp",
+        "fileName": "Maelin Windrider.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/mahael_varga.webp",
+        "webPath": "/Draachenmar/images/characters/mahael_varga.webp",
+        "fileName": "mahael_varga.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Map of Haven.webp",
+        "webPath": "/Draachenmar/images/characters/Map of Haven.webp",
+        "fileName": "Map of Haven.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Master Enchanter Dorian Shadowcloak.webp",
+        "webPath": "/Draachenmar/images/characters/Master Enchanter Dorian Shadowcloak.webp",
+        "fileName": "Master Enchanter Dorian Shadowcloak.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Master Ranger Thandor Wildtracker.webp",
+        "webPath": "/Draachenmar/images/characters/Master Ranger Thandor Wildtracker.webp",
+        "fileName": "Master Ranger Thandor Wildtracker.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Master Thalgrim Forgeheart.webp",
+        "webPath": "/Draachenmar/images/characters/Master Thalgrim Forgeheart.webp",
+        "fileName": "Master Thalgrim Forgeheart.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Mayor Elandra Stonehaven.webp",
+        "webPath": "/Draachenmar/images/characters/Mayor Elandra Stonehaven.webp",
+        "fileName": "Mayor Elandra Stonehaven.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Mayor Eldran.webp",
+        "webPath": "/Draachenmar/images/characters/Mayor Eldran.webp",
+        "fileName": "Mayor Eldran.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/miklos.webp",
+        "webPath": "/Draachenmar/images/characters/miklos.webp",
+        "fileName": "miklos.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Mistress Elysa Truthseeker.webp",
+        "webPath": "/Draachenmar/images/characters/Mistress Elysa Truthseeker.webp",
+        "fileName": "Mistress Elysa Truthseeker.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/moonwhisper.webp",
+        "webPath": "/Draachenmar/images/characters/moonwhisper.webp",
+        "fileName": "moonwhisper.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Murkial.webp",
+        "webPath": "/Draachenmar/images/characters/Murkial.webp",
+        "fileName": "Murkial.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Ordek.webp",
+        "webPath": "/Draachenmar/images/characters/Ordek.webp",
+        "fileName": "Ordek.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Prince Balthyr Ironhammer.webp",
+        "webPath": "/Draachenmar/images/characters/Prince Balthyr Ironhammer.webp",
+        "fileName": "Prince Balthyr Ironhammer.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Prince Darrin Ironhammer.webp",
+        "webPath": "/Draachenmar/images/characters/Prince Darrin Ironhammer.webp",
+        "fileName": "Prince Darrin Ironhammer.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Princess Hilda Ironhammer.webp",
+        "webPath": "/Draachenmar/images/characters/Princess Hilda Ironhammer.webp",
+        "fileName": "Princess Hilda Ironhammer.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Professor Marwen Earthshaper.webp",
+        "webPath": "/Draachenmar/images/characters/Professor Marwen Earthshaper.webp",
+        "fileName": "Professor Marwen Earthshaper.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Providence.webp",
+        "webPath": "/Draachenmar/images/characters/Providence.webp",
+        "fileName": "Providence.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Queen Kelda Ironhammer.webp",
+        "webPath": "/Draachenmar/images/characters/Queen Kelda Ironhammer.webp",
+        "fileName": "Queen Kelda Ironhammer.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/raccoon_npc_2.webp",
+        "webPath": "/Draachenmar/images/characters/raccoon_npc_2.webp",
+        "fileName": "raccoon_npc_2.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/raccoon_npc.webp",
+        "webPath": "/Draachenmar/images/characters/raccoon_npc.webp",
+        "fileName": "raccoon_npc.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Ranger Faelan Wildshadow.webp",
+        "webPath": "/Draachenmar/images/characters/Ranger Faelan Wildshadow.webp",
+        "fileName": "Ranger Faelan Wildshadow.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/researching_the_enchanted_door_of_whispering_oaks.webp",
+        "webPath": "/Draachenmar/images/characters/researching_the_enchanted_door_of_whispering_oaks.webp",
+        "fileName": "researching_the_enchanted_door_of_whispering_oaks.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Rividen Stonebough.webp",
+        "webPath": "/Draachenmar/images/characters/Rividen Stonebough.webp",
+        "fileName": "Rividen Stonebough.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Sage Elowyn.webp",
+        "webPath": "/Draachenmar/images/characters/Sage Elowyn.webp",
+        "fileName": "Sage Elowyn.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Scribe Elandra Tomekeeper.webp",
+        "webPath": "/Draachenmar/images/characters/Scribe Elandra Tomekeeper.webp",
+        "fileName": "Scribe Elandra Tomekeeper.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Sentry Lira.webp",
+        "webPath": "/Draachenmar/images/characters/Sentry Lira.webp",
+        "fileName": "Sentry Lira.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Shadowmistress Vaelis Blackfang.webp",
+        "webPath": "/Draachenmar/images/characters/Shadowmistress Vaelis Blackfang.webp",
+        "fileName": "Shadowmistress Vaelis Blackfang.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Spellweaver Lyria Stormrider.webp",
+        "webPath": "/Draachenmar/images/characters/Spellweaver Lyria Stormrider.webp",
+        "fileName": "Spellweaver Lyria Stormrider.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/the Stein.webp",
+        "webPath": "/Draachenmar/images/characters/the Stein.webp",
+        "fileName": "the Stein.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/The Wall - Northern Entry.webp",
+        "webPath": "/Draachenmar/images/characters/The Wall - Northern Entry.webp",
+        "fileName": "The Wall - Northern Entry.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/The Wall - Section of Souther Face.webp",
+        "webPath": "/Draachenmar/images/characters/The Wall - Section of Souther Face.webp",
+        "fileName": "The Wall - Section of Souther Face.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/The Zephyr Serpent - Flagship.webp",
+        "webPath": "/Draachenmar/images/characters/The Zephyr Serpent - Flagship.webp",
+        "fileName": "The Zephyr Serpent - Flagship.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/the_band_of_loyalty.webp",
+        "webPath": "/Draachenmar/images/characters/the_band_of_loyalty.webp",
+        "fileName": "the_band_of_loyalty.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/the_orb_of_phuquyuall.webp",
+        "webPath": "/Draachenmar/images/characters/the_orb_of_phuquyuall.webp",
+        "fileName": "the_orb_of_phuquyuall.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/the_silver_knight.webp",
+        "webPath": "/Draachenmar/images/characters/the_silver_knight.webp",
+        "fileName": "the_silver_knight.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/tip_of_the_silver_lance.webp",
+        "webPath": "/Draachenmar/images/characters/tip_of_the_silver_lance.webp",
+        "fileName": "tip_of_the_silver_lance.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/tobar_fizzykeg.webp",
+        "webPath": "/Draachenmar/images/characters/tobar_fizzykeg.webp",
+        "fileName": "tobar_fizzykeg.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Trader Selene.webp",
+        "webPath": "/Draachenmar/images/characters/Trader Selene.webp",
+        "fileName": "Trader Selene.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Upsala - Fishing Town.webp",
+        "webPath": "/Draachenmar/images/characters/Upsala - Fishing Town.webp",
+        "fileName": "Upsala - Fishing Town.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Upsala Springtime - Just before the annual harvest of the ice lotus.webp",
+        "webPath": "/Draachenmar/images/characters/Upsala Springtime - Just before the annual harvest of the ice lotus.webp",
+        "fileName": "Upsala Springtime - Just before the annual harvest of the ice lotus.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Uxmal the Jungle City.webp",
+        "webPath": "/Draachenmar/images/characters/Uxmal the Jungle City.webp",
+        "fileName": "Uxmal the Jungle City.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Uxmal Volcano - Tyravos v2.webp",
+        "webPath": "/Draachenmar/images/characters/Uxmal Volcano - Tyravos v2.webp",
+        "fileName": "Uxmal Volcano - Tyravos v2.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/uxmals_hidden_atrium.webp",
+        "webPath": "/Draachenmar/images/characters/uxmals_hidden_atrium.webp",
+        "fileName": "uxmals_hidden_atrium.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Viktor.webp",
+        "webPath": "/Draachenmar/images/characters/Viktor.webp",
+        "fileName": "Viktor.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Village of Haven.webp",
+        "webPath": "/Draachenmar/images/characters/Village of Haven.webp",
+        "fileName": "Village of Haven.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/whispering_oak.webp",
+        "webPath": "/Draachenmar/images/characters/whispering_oak.webp",
+        "fileName": "whispering_oak.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/yorandis.webp",
+        "webPath": "/Draachenmar/images/characters/yorandis.webp",
+        "fileName": "yorandis.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/characters/Yurta Queen of Frost.webp",
+        "webPath": "/Draachenmar/images/characters/Yurta Queen of Frost.webp",
+        "fileName": "Yurta Queen of Frost.webp",
+        "category": "characters",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      }
+    ],
+    "locations": [
+      {
+        "originalPath": "/images/locations/Aurelium.webp",
+        "webPath": "/Draachenmar/images/locations/Aurelium.webp",
+        "fileName": "Aurelium.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Everleaf Spire.webp",
+        "webPath": "/Draachenmar/images/locations/Everleaf Spire.webp",
+        "fileName": "Everleaf Spire.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Gulanbarak - The Wall.webp",
+        "webPath": "/Draachenmar/images/locations/Gulanbarak - The Wall.webp",
+        "fileName": "Gulanbarak - The Wall.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Henge Market.webp",
+        "webPath": "/Draachenmar/images/locations/Henge Market.webp",
+        "fileName": "Henge Market.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Henge.webp",
+        "webPath": "/Draachenmar/images/locations/Henge.webp",
+        "fileName": "Henge.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Kaltfish.webp",
+        "webPath": "/Draachenmar/images/locations/Kaltfish.webp",
+        "fileName": "Kaltfish.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Kronus.webp",
+        "webPath": "/Draachenmar/images/locations/Kronus.webp",
+        "fileName": "Kronus.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Lineton.webp",
+        "webPath": "/Draachenmar/images/locations/Lineton.webp",
+        "fileName": "Lineton.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Pelthorn Fortress.webp",
+        "webPath": "/Draachenmar/images/locations/Pelthorn Fortress.webp",
+        "fileName": "Pelthorn Fortress.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Providence.webp",
+        "webPath": "/Draachenmar/images/locations/Providence.webp",
+        "fileName": "Providence.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Respite.webp",
+        "webPath": "/Draachenmar/images/locations/Respite.webp",
+        "fileName": "Respite.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/The Dales.webp",
+        "webPath": "/Draachenmar/images/locations/The Dales.webp",
+        "fileName": "The Dales.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/The Lost City of Eldrathis.webp",
+        "webPath": "/Draachenmar/images/locations/The Lost City of Eldrathis.webp",
+        "fileName": "The Lost City of Eldrathis.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Tyravos.webp",
+        "webPath": "/Draachenmar/images/locations/Tyravos.webp",
+        "fileName": "Tyravos.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/U-Zaer.webp",
+        "webPath": "/Draachenmar/images/locations/U-Zaer.webp",
+        "fileName": "U-Zaer.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Upsala.webp",
+        "webPath": "/Draachenmar/images/locations/Upsala.webp",
+        "fileName": "Upsala.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/locations/Uxmal.webp",
+        "webPath": "/Draachenmar/images/locations/Uxmal.webp",
+        "fileName": "Uxmal.webp",
+        "category": "locations",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "format": "webp"
+      }
+    ],
+    "items": [
+      {
+        "originalPath": "/images/items/aegis_of_luminalis_v2.webp",
+        "webPath": "/Draachenmar/images/items/aegis_of_luminalis_v2.webp",
+        "fileName": "aegis_of_luminalis_v2.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/aegis_of_the_battlemaster.webp",
+        "webPath": "/Draachenmar/images/items/aegis_of_the_battlemaster.webp",
+        "fileName": "aegis_of_the_battlemaster.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/claymorph_ball.webp",
+        "webPath": "/Draachenmar/images/items/claymorph_ball.webp",
+        "fileName": "claymorph_ball.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/diadam_of_chronicles.webp",
+        "webPath": "/Draachenmar/images/items/diadam_of_chronicles.webp",
+        "fileName": "diadam_of_chronicles.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/earthdhaker.webp",
+        "webPath": "/Draachenmar/images/items/earthdhaker.webp",
+        "fileName": "earthdhaker.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/eclipse_arrow_of_aethertide_v2.webp",
+        "webPath": "/Draachenmar/images/items/eclipse_arrow_of_aethertide_v2.webp",
+        "fileName": "eclipse_arrow_of_aethertide_v2.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/frostbane.webp",
+        "webPath": "/Draachenmar/images/items/frostbane.webp",
+        "fileName": "frostbane.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/luminous_amulet_of_yorandis.webp",
+        "webPath": "/Draachenmar/images/items/luminous_amulet_of_yorandis.webp",
+        "fileName": "luminous_amulet_of_yorandis.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/magebind_staff.webp",
+        "webPath": "/Draachenmar/images/items/magebind_staff.webp",
+        "fileName": "magebind_staff.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/melodious_lyre_of_harmonia_v2.webp",
+        "webPath": "/Draachenmar/images/items/melodious_lyre_of_harmonia_v2.webp",
+        "fileName": "melodious_lyre_of_harmonia_v2.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/necrobane.webp",
+        "webPath": "/Draachenmar/images/items/necrobane.webp",
+        "fileName": "necrobane.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/ring_of_luminous_valor_v2.webp",
+        "webPath": "/Draachenmar/images/items/ring_of_luminous_valor_v2.webp",
+        "fileName": "ring_of_luminous_valor_v2.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/shield_of_dawn_v2.webp",
+        "webPath": "/Draachenmar/images/items/shield_of_dawn_v2.webp",
+        "fileName": "shield_of_dawn_v2.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/songblade_of_elandriel_v2.webp",
+        "webPath": "/Draachenmar/images/items/songblade_of_elandriel_v2.webp",
+        "fileName": "songblade_of_elandriel_v2.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/starfire_amulet_v2.webp",
+        "webPath": "/Draachenmar/images/items/starfire_amulet_v2.webp",
+        "fileName": "starfire_amulet_v2.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/sword_of_celestial_reckoning_v2.webp",
+        "webPath": "/Draachenmar/images/items/sword_of_celestial_reckoning_v2.webp",
+        "fileName": "sword_of_celestial_reckoning_v2.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/the_runic_codex.webp",
+        "webPath": "/Draachenmar/images/items/the_runic_codex.webp",
+        "fileName": "the_runic_codex.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/items/verdant_heartwood_talisman_v2.webp",
+        "webPath": "/Draachenmar/images/items/verdant_heartwood_talisman_v2.webp",
+        "fileName": "verdant_heartwood_talisman_v2.webp",
+        "category": "items",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      }
+    ],
+    "deities": [
+      {
+        "originalPath": "/images/deities/Aelthorin.webp",
+        "webPath": "/Draachenmar/images/deities/Aelthorin.webp",
+        "fileName": "Aelthorin.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Aestus.webp",
+        "webPath": "/Draachenmar/images/deities/Aestus.webp",
+        "fileName": "Aestus.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Aqumaris.webp",
+        "webPath": "/Draachenmar/images/deities/Aqumaris.webp",
+        "fileName": "Aqumaris.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Astraia.webp",
+        "webPath": "/Draachenmar/images/deities/Astraia.webp",
+        "fileName": "Astraia.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Draconis Ignis.webp",
+        "webPath": "/Draachenmar/images/deities/Draconis Ignis.webp",
+        "fileName": "Draconis Ignis.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Foliara.webp",
+        "webPath": "/Draachenmar/images/deities/Foliara.webp",
+        "fileName": "Foliara.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Hibernus.webp",
+        "webPath": "/Draachenmar/images/deities/Hibernus.webp",
+        "fileName": "Hibernus.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Lirix.webp",
+        "webPath": "/Draachenmar/images/deities/Lirix.webp",
+        "fileName": "Lirix.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Nekrulon.webp",
+        "webPath": "/Draachenmar/images/deities/Nekrulon.webp",
+        "fileName": "Nekrulon.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Nyxia.webp",
+        "webPath": "/Draachenmar/images/deities/Nyxia.webp",
+        "fileName": "Nyxia.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Ora'Kai.webp",
+        "webPath": "/Draachenmar/images/deities/Ora'Kai.webp",
+        "fileName": "Ora'Kai.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Solanus.webp",
+        "webPath": "/Draachenmar/images/deities/Solanus.webp",
+        "fileName": "Solanus.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Solonar.webp",
+        "webPath": "/Draachenmar/images/deities/Solonar.webp",
+        "fileName": "Solonar.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Terraqua.webp",
+        "webPath": "/Draachenmar/images/deities/Terraqua.webp",
+        "fileName": "Terraqua.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Thaldir.webp",
+        "webPath": "/Draachenmar/images/deities/Thaldir.webp",
+        "fileName": "Thaldir.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/the Astral Triad.webp",
+        "webPath": "/Draachenmar/images/deities/the Astral Triad.webp",
+        "fileName": "the Astral Triad.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/The Court of Seasons - Deities of the Changing Year.webp",
+        "webPath": "/Draachenmar/images/deities/The Court of Seasons - Deities of the Changing Year.webp",
+        "fileName": "The Court of Seasons - Deities of the Changing Year.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/the Primordial Concordant.webp",
+        "webPath": "/Draachenmar/images/deities/the Primordial Concordant.webp",
+        "fileName": "the Primordial Concordant.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Verdantia.webp",
+        "webPath": "/Draachenmar/images/deities/Verdantia.webp",
+        "fileName": "Verdantia.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Veridia.webp",
+        "webPath": "/Draachenmar/images/deities/Veridia.webp",
+        "fileName": "Veridia.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Xyrrul.webp",
+        "webPath": "/Draachenmar/images/deities/Xyrrul.webp",
+        "fileName": "Xyrrul.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Zarithak.webp",
+        "webPath": "/Draachenmar/images/deities/Zarithak.webp",
+        "fileName": "Zarithak.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/deities/Zephyron.webp",
+        "webPath": "/Draachenmar/images/deities/Zephyron.webp",
+        "fileName": "Zephyron.webp",
+        "category": "deities",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      }
+    ],
+    "artifacts": [
+      {
+        "originalPath": "/images/artifacts/aaracokra_eagle_paladin.webp",
+        "webPath": "/Draachenmar/images/artifacts/aaracokra_eagle_paladin.webp",
+        "fileName": "aaracokra_eagle_paladin.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/abyssal_egg.webp",
+        "webPath": "/Draachenmar/images/artifacts/abyssal_egg.webp",
+        "fileName": "abyssal_egg.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/aelthorin.webp",
+        "webPath": "/Draachenmar/images/artifacts/aelthorin.webp",
+        "fileName": "aelthorin.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/aestus.webp",
+        "webPath": "/Draachenmar/images/artifacts/aestus.webp",
+        "fileName": "aestus.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/aftermath_of_the_emmisary.webp",
+        "webPath": "/Draachenmar/images/artifacts/aftermath_of_the_emmisary.webp",
+        "fileName": "aftermath_of_the_emmisary.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/airship_ethereal.webp",
+        "webPath": "/Draachenmar/images/artifacts/airship_ethereal.webp",
+        "fileName": "airship_ethereal.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/alchemist_shop.webp",
+        "webPath": "/Draachenmar/images/artifacts/alchemist_shop.webp",
+        "fileName": "alchemist_shop.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/aldus.webp",
+        "webPath": "/Draachenmar/images/artifacts/aldus.webp",
+        "fileName": "aldus.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/alfgand.webp",
+        "webPath": "/Draachenmar/images/artifacts/alfgand.webp",
+        "fileName": "alfgand.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/apothacary.webp",
+        "webPath": "/Draachenmar/images/artifacts/apothacary.webp",
+        "fileName": "apothacary.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/aqumaris.webp",
+        "webPath": "/Draachenmar/images/artifacts/aqumaris.webp",
+        "fileName": "aqumaris.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/arakokra_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/arakokra_1.webp",
+        "fileName": "arakokra_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/arcane_academy.webp",
+        "webPath": "/Draachenmar/images/artifacts/arcane_academy.webp",
+        "fileName": "arcane_academy.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/arkenath.webp",
+        "webPath": "/Draachenmar/images/artifacts/arkenath.webp",
+        "fileName": "arkenath.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/art_room.webp",
+        "webPath": "/Draachenmar/images/artifacts/art_room.webp",
+        "fileName": "art_room.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/artisans_alley_gareth_and_lirea.webp",
+        "webPath": "/Draachenmar/images/artifacts/artisans_alley_gareth_and_lirea.webp",
+        "fileName": "artisans_alley_gareth_and_lirea.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/ashenwight.webp",
+        "webPath": "/Draachenmar/images/artifacts/ashenwight.webp",
+        "fileName": "ashenwight.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/astraia.webp",
+        "webPath": "/Draachenmar/images/artifacts/astraia.webp",
+        "fileName": "astraia.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/astral_elf.webp",
+        "webPath": "/Draachenmar/images/artifacts/astral_elf.webp",
+        "fileName": "astral_elf.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/automaton_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/automaton_1.webp",
+        "fileName": "automaton_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/automaton_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/automaton_2.webp",
+        "fileName": "automaton_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/badlands_ruined_keep.webp",
+        "webPath": "/Draachenmar/images/artifacts/badlands_ruined_keep.webp",
+        "fileName": "badlands_ruined_keep.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/badlands_ruined_towers.webp",
+        "webPath": "/Draachenmar/images/artifacts/badlands_ruined_towers.webp",
+        "fileName": "badlands_ruined_towers.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/barlow_inn.webp",
+        "webPath": "/Draachenmar/images/artifacts/barlow_inn.webp",
+        "fileName": "barlow_inn.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/baron_tbd.webp",
+        "webPath": "/Draachenmar/images/artifacts/baron_tbd.webp",
+        "fileName": "baron_tbd.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/baroness_tbd.webp",
+        "webPath": "/Draachenmar/images/artifacts/baroness_tbd.webp",
+        "fileName": "baroness_tbd.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/beldurion.webp",
+        "webPath": "/Draachenmar/images/artifacts/beldurion.webp",
+        "fileName": "beldurion.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/beryl.webp",
+        "webPath": "/Draachenmar/images/artifacts/beryl.webp",
+        "fileName": "beryl.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/black_dragon.webp",
+        "webPath": "/Draachenmar/images/artifacts/black_dragon.webp",
+        "fileName": "black_dragon.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/black_dragonborn.webp",
+        "webPath": "/Draachenmar/images/artifacts/black_dragonborn.webp",
+        "fileName": "black_dragonborn.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/black_half-dragon_pegasus.webp",
+        "webPath": "/Draachenmar/images/artifacts/black_half-dragon_pegasus.webp",
+        "fileName": "black_half-dragon_pegasus.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/black_tabaxi_rogue_v2.webp",
+        "webPath": "/Draachenmar/images/artifacts/black_tabaxi_rogue_v2.webp",
+        "fileName": "black_tabaxi_rogue_v2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/black_tabaxi_rogue.webp",
+        "webPath": "/Draachenmar/images/artifacts/black_tabaxi_rogue.webp",
+        "fileName": "black_tabaxi_rogue.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/black_wyrmsteed_v2.webp",
+        "webPath": "/Draachenmar/images/artifacts/black_wyrmsteed_v2.webp",
+        "fileName": "black_wyrmsteed_v2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/black_wyrmsteed.webp",
+        "webPath": "/Draachenmar/images/artifacts/black_wyrmsteed.webp",
+        "fileName": "black_wyrmsteed.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/blacksmith_shop_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/blacksmith_shop_2.webp",
+        "fileName": "blacksmith_shop_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/blacksmith_shop.webp",
+        "webPath": "/Draachenmar/images/artifacts/blacksmith_shop.webp",
+        "fileName": "blacksmith_shop.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/blue_wyrmsteed.webp",
+        "webPath": "/Draachenmar/images/artifacts/blue_wyrmsteed.webp",
+        "fileName": "blue_wyrmsteed.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/book_cover.webp",
+        "webPath": "/Draachenmar/images/artifacts/book_cover.webp",
+        "fileName": "book_cover.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/brogan.webp",
+        "webPath": "/Draachenmar/images/artifacts/brogan.webp",
+        "fileName": "brogan.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/bugbear_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/bugbear_1.webp",
+        "fileName": "bugbear_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/caelum_flameheart.webp",
+        "webPath": "/Draachenmar/images/artifacts/caelum_flameheart.webp",
+        "fileName": "caelum_flameheart.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/captain_ilyra.webp",
+        "webPath": "/Draachenmar/images/artifacts/captain_ilyra.webp",
+        "fileName": "captain_ilyra.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/castle_on_a_hill_in_the_dales.webp",
+        "webPath": "/Draachenmar/images/artifacts/castle_on_a_hill_in_the_dales.webp",
+        "fileName": "castle_on_a_hill_in_the_dales.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/celestial_observatory.webp",
+        "webPath": "/Draachenmar/images/artifacts/celestial_observatory.webp",
+        "fileName": "celestial_observatory.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/celestial_sovereign.webp",
+        "webPath": "/Draachenmar/images/artifacts/celestial_sovereign.webp",
+        "fileName": "celestial_sovereign.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/chancellor_nimbus_gearturner.webp",
+        "webPath": "/Draachenmar/images/artifacts/chancellor_nimbus_gearturner.webp",
+        "fileName": "chancellor_nimbus_gearturner.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/chef_ardin.webp",
+        "webPath": "/Draachenmar/images/artifacts/chef_ardin.webp",
+        "fileName": "chef_ardin.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/child_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/child_1.webp",
+        "fileName": "child_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/chronocrystal.webp",
+        "webPath": "/Draachenmar/images/artifacts/chronocrystal.webp",
+        "fileName": "chronocrystal.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/chronoscore.webp",
+        "webPath": "/Draachenmar/images/artifacts/chronoscore.webp",
+        "fileName": "chronoscore.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/cintaria.webp",
+        "webPath": "/Draachenmar/images/artifacts/cintaria.webp",
+        "fileName": "cintaria.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/city_of_uxmal_suburbs.webp",
+        "webPath": "/Draachenmar/images/artifacts/city_of_uxmal_suburbs.webp",
+        "fileName": "city_of_uxmal_suburbs.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/cleric_of_life.webp",
+        "webPath": "/Draachenmar/images/artifacts/cleric_of_life.webp",
+        "fileName": "cleric_of_life.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/clevon.webp",
+        "webPath": "/Draachenmar/images/artifacts/clevon.webp",
+        "fileName": "clevon.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/clockwork_dragon.webp",
+        "webPath": "/Draachenmar/images/artifacts/clockwork_dragon.webp",
+        "fileName": "clockwork_dragon.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/cog_and_sprocket_emporium.webp",
+        "webPath": "/Draachenmar/images/artifacts/cog_and_sprocket_emporium.webp",
+        "fileName": "cog_and_sprocket_emporium.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/crypts_of_eternity.webp",
+        "webPath": "/Draachenmar/images/artifacts/crypts_of_eternity.webp",
+        "fileName": "crypts_of_eternity.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/crystal_caverns.webp",
+        "webPath": "/Draachenmar/images/artifacts/crystal_caverns.webp",
+        "fileName": "crystal_caverns.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/crystal_memory_vault.webp",
+        "webPath": "/Draachenmar/images/artifacts/crystal_memory_vault.webp",
+        "fileName": "crystal_memory_vault.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dale_village.webp",
+        "webPath": "/Draachenmar/images/artifacts/dale_village.webp",
+        "fileName": "dale_village.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dancing_tumble_weeds.webp",
+        "webPath": "/Draachenmar/images/artifacts/dancing_tumble_weeds.webp",
+        "fileName": "dancing_tumble_weeds.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dark_elf_priestess.webp",
+        "webPath": "/Draachenmar/images/artifacts/dark_elf_priestess.webp",
+        "fileName": "dark_elf_priestess.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dark_elf_queen.webp",
+        "webPath": "/Draachenmar/images/artifacts/dark_elf_queen.webp",
+        "fileName": "dark_elf_queen.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dark_forest_keep.webp",
+        "webPath": "/Draachenmar/images/artifacts/dark_forest_keep.webp",
+        "fileName": "dark_forest_keep.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/darthme_an_anthropomorphic_hippopotamus_stands_confidently_at_3a90debf-1a35-4243-a130-ca5ea7b00da1_0.webp",
+        "webPath": "/Draachenmar/images/artifacts/darthme_an_anthropomorphic_hippopotamus_stands_confidently_at_3a90debf-1a35-4243-a130-ca5ea7b00da1_0.webp",
+        "fileName": "darthme_an_anthropomorphic_hippopotamus_stands_confidently_at_3a90debf-1a35-4243-a130-ca5ea7b00da1_0.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/darthme_create_an_illustration_of_captain_nyssa_ironclaw_arma_d448b99e-998d-4965-bdda-e95d5506bf7f_0.webp",
+        "webPath": "/Draachenmar/images/artifacts/darthme_create_an_illustration_of_captain_nyssa_ironclaw_arma_d448b99e-998d-4965-bdda-e95d5506bf7f_0.webp",
+        "fileName": "darthme_create_an_illustration_of_captain_nyssa_ironclaw_arma_d448b99e-998d-4965-bdda-e95d5506bf7f_0.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/darthme_depict_the_voidclaw_a_400-ton_nishemani-class_raider_e713eb5f-a75b-45c0-837e-c796bc5a51de_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/darthme_depict_the_voidclaw_a_400-ton_nishemani-class_raider_e713eb5f-a75b-45c0-837e-c796bc5a51de_1.webp",
+        "fileName": "darthme_depict_the_voidclaw_a_400-ton_nishemani-class_raider_e713eb5f-a75b-45c0-837e-c796bc5a51de_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/darthme_design_thragar_stoneheart_the_proud_and_powerful_dwar_096e0c0e-3e62-4d47-b61e-6cf0cbfa48ae_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/darthme_design_thragar_stoneheart_the_proud_and_powerful_dwar_096e0c0e-3e62-4d47-b61e-6cf0cbfa48ae_1.webp",
+        "fileName": "darthme_design_thragar_stoneheart_the_proud_and_powerful_dwar_096e0c0e-3e62-4d47-b61e-6cf0cbfa48ae_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dawc.webp",
+        "webPath": "/Draachenmar/images/artifacts/dawc.webp",
+        "fileName": "dawc.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/daxon_cogtwist.webp",
+        "webPath": "/Draachenmar/images/artifacts/daxon_cogtwist.webp",
+        "fileName": "daxon_cogtwist.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/desert_dance.webp",
+        "webPath": "/Draachenmar/images/artifacts/desert_dance.webp",
+        "fileName": "desert_dance.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/draachenmar_cover.webp",
+        "webPath": "/Draachenmar/images/artifacts/draachenmar_cover.webp",
+        "fileName": "draachenmar_cover.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/draconis_ignis.webp",
+        "webPath": "/Draachenmar/images/artifacts/draconis_ignis.webp",
+        "fileName": "draconis_ignis.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dragon_rider.webp",
+        "webPath": "/Draachenmar/images/artifacts/dragon_rider.webp",
+        "fileName": "dragon_rider.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dragonborn_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/dragonborn_1.webp",
+        "fileName": "dragonborn_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/drow_female_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/drow_female_1.webp",
+        "fileName": "drow_female_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/drow_house_matron.webp",
+        "webPath": "/Draachenmar/images/artifacts/drow_house_matron.webp",
+        "fileName": "drow_house_matron.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/drow_wizard_male.webp",
+        "webPath": "/Draachenmar/images/artifacts/drow_wizard_male.webp",
+        "fileName": "drow_wizard_male.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/durin_s_gardens_in_durinhold.webp",
+        "webPath": "/Draachenmar/images/artifacts/durin_s_gardens_in_durinhold.webp",
+        "fileName": "durin_s_gardens_in_durinhold.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dwarf_artifier.webp",
+        "webPath": "/Draachenmar/images/artifacts/dwarf_artifier.webp",
+        "fileName": "dwarf_artifier.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dwarf_artisan.webp",
+        "webPath": "/Draachenmar/images/artifacts/dwarf_artisan.webp",
+        "fileName": "dwarf_artisan.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dwarf_blacksmith.webp",
+        "webPath": "/Draachenmar/images/artifacts/dwarf_blacksmith.webp",
+        "fileName": "dwarf_blacksmith.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dwarf_innkeeper.webp",
+        "webPath": "/Draachenmar/images/artifacts/dwarf_innkeeper.webp",
+        "fileName": "dwarf_innkeeper.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/dwarven_corridor.webp",
+        "webPath": "/Draachenmar/images/artifacts/dwarven_corridor.webp",
+        "fileName": "dwarven_corridor.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/ebonforge_blacksmith.webp",
+        "webPath": "/Draachenmar/images/artifacts/ebonforge_blacksmith.webp",
+        "fileName": "ebonforge_blacksmith.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elandriell_the_star_shaper.webp",
+        "webPath": "/Draachenmar/images/artifacts/elandriell_the_star_shaper.webp",
+        "fileName": "elandriell_the_star_shaper.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/eldon_gearforge.webp",
+        "webPath": "/Draachenmar/images/artifacts/eldon_gearforge.webp",
+        "fileName": "eldon_gearforge.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elf_animist.webp",
+        "webPath": "/Draachenmar/images/artifacts/elf_animist.webp",
+        "fileName": "elf_animist.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elf_gladiator_fight.webp",
+        "webPath": "/Draachenmar/images/artifacts/elf_gladiator_fight.webp",
+        "fileName": "elf_gladiator_fight.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elf_mentalist.webp",
+        "webPath": "/Draachenmar/images/artifacts/elf_mentalist.webp",
+        "fileName": "elf_mentalist.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elf_priestess.webp",
+        "webPath": "/Draachenmar/images/artifacts/elf_priestess.webp",
+        "fileName": "elf_priestess.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elf_ritual_caster.webp",
+        "webPath": "/Draachenmar/images/artifacts/elf_ritual_caster.webp",
+        "fileName": "elf_ritual_caster.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elf_runecaster.webp",
+        "webPath": "/Draachenmar/images/artifacts/elf_runecaster.webp",
+        "fileName": "elf_runecaster.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elf_sorceress.webp",
+        "webPath": "/Draachenmar/images/artifacts/elf_sorceress.webp",
+        "fileName": "elf_sorceress.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elf_wizard_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/elf_wizard_2.webp",
+        "fileName": "elf_wizard_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elf_wizard.webp",
+        "webPath": "/Draachenmar/images/artifacts/elf_wizard.webp",
+        "fileName": "elf_wizard.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elven_jewel_crafter.webp",
+        "webPath": "/Draachenmar/images/artifacts/elven_jewel_crafter.webp",
+        "fileName": "elven_jewel_crafter.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/elven_noble_woman.webp",
+        "webPath": "/Draachenmar/images/artifacts/elven_noble_woman.webp",
+        "fileName": "elven_noble_woman.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/eoji.webp",
+        "webPath": "/Draachenmar/images/artifacts/eoji.webp",
+        "fileName": "eoji.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/evil_spider_guy.webp",
+        "webPath": "/Draachenmar/images/artifacts/evil_spider_guy.webp",
+        "fileName": "evil_spider_guy.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/fat_rat_queen.webp",
+        "webPath": "/Draachenmar/images/artifacts/fat_rat_queen.webp",
+        "fileName": "fat_rat_queen.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/female_druid_with_lion.webp",
+        "webPath": "/Draachenmar/images/artifacts/female_druid_with_lion.webp",
+        "fileName": "female_druid_with_lion.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/female_vampire_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/female_vampire_1.webp",
+        "fileName": "female_vampire_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/female_vampire_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/female_vampire_2.webp",
+        "fileName": "female_vampire_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/female_vampire_3_elderly.webp",
+        "webPath": "/Draachenmar/images/artifacts/female_vampire_3_elderly.webp",
+        "fileName": "female_vampire_3_elderly.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/foliara.webp",
+        "webPath": "/Draachenmar/images/artifacts/foliara.webp",
+        "fileName": "foliara.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/follower_of_lloth.webp",
+        "webPath": "/Draachenmar/images/artifacts/follower_of_lloth.webp",
+        "fileName": "follower_of_lloth.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/fracturedhourglass.webp",
+        "webPath": "/Draachenmar/images/artifacts/fracturedhourglass.webp",
+        "fileName": "fracturedhourglass.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/frost_orc.webp",
+        "webPath": "/Draachenmar/images/artifacts/frost_orc.webp",
+        "fileName": "frost_orc.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/frosthearth_inn_upsala.webp",
+        "webPath": "/Draachenmar/images/artifacts/frosthearth_inn_upsala.webp",
+        "fileName": "frosthearth_inn_upsala.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/frostwolf_of_vilos.webp",
+        "webPath": "/Draachenmar/images/artifacts/frostwolf_of_vilos.webp",
+        "fileName": "frostwolf_of_vilos.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/furb_3.webp",
+        "webPath": "/Draachenmar/images/artifacts/furb_3.webp",
+        "fileName": "furb_3.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/furb_4.webp",
+        "webPath": "/Draachenmar/images/artifacts/furb_4.webp",
+        "fileName": "furb_4.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/furb_5.webp",
+        "webPath": "/Draachenmar/images/artifacts/furb_5.webp",
+        "fileName": "furb_5.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/furbius.webp",
+        "webPath": "/Draachenmar/images/artifacts/furbius.webp",
+        "fileName": "furbius.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/furbs.webp",
+        "webPath": "/Draachenmar/images/artifacts/furbs.webp",
+        "fileName": "furbs.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/gellen.webp",
+        "webPath": "/Draachenmar/images/artifacts/gellen.webp",
+        "fileName": "gellen.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/gloomhaven_castle.webp",
+        "webPath": "/Draachenmar/images/artifacts/gloomhaven_castle.webp",
+        "fileName": "gloomhaven_castle.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/goblin_drunken_master_v2.webp",
+        "webPath": "/Draachenmar/images/artifacts/goblin_drunken_master_v2.webp",
+        "fileName": "goblin_drunken_master_v2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/goblin_drunken_master.webp",
+        "webPath": "/Draachenmar/images/artifacts/goblin_drunken_master.webp",
+        "fileName": "goblin_drunken_master.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/goblin_psi-warrior.webp",
+        "webPath": "/Draachenmar/images/artifacts/goblin_psi-warrior.webp",
+        "fileName": "goblin_psi-warrior.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/goblin_shaman.webp",
+        "webPath": "/Draachenmar/images/artifacts/goblin_shaman.webp",
+        "fileName": "goblin_shaman.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/gold_dragon.webp",
+        "webPath": "/Draachenmar/images/artifacts/gold_dragon.webp",
+        "fileName": "gold_dragon.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/graal.webp",
+        "webPath": "/Draachenmar/images/artifacts/graal.webp",
+        "fileName": "graal.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/green_wyrmsteed.webp",
+        "webPath": "/Draachenmar/images/artifacts/green_wyrmsteed.webp",
+        "fileName": "green_wyrmsteed.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/grimtoe.webp",
+        "webPath": "/Draachenmar/images/artifacts/grimtoe.webp",
+        "fileName": "grimtoe.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/guardian_of_the_void.webp",
+        "webPath": "/Draachenmar/images/artifacts/guardian_of_the_void.webp",
+        "fileName": "guardian_of_the_void.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/half-elf_ranger.webp",
+        "webPath": "/Draachenmar/images/artifacts/half-elf_ranger.webp",
+        "fileName": "half-elf_ranger.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/half-elf_wizard_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/half-elf_wizard_1.webp",
+        "fileName": "half-elf_wizard_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/half-elf_wizard_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/half-elf_wizard_2.webp",
+        "fileName": "half-elf_wizard_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/halfling_pirates.webp",
+        "webPath": "/Draachenmar/images/artifacts/halfling_pirates.webp",
+        "fileName": "halfling_pirates.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/halfling_priest.webp",
+        "webPath": "/Draachenmar/images/artifacts/halfling_priest.webp",
+        "fileName": "halfling_priest.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/halfling_vampire_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/halfling_vampire_2.webp",
+        "fileName": "halfling_vampire_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/halfling_vampire.webp",
+        "webPath": "/Draachenmar/images/artifacts/halfling_vampire.webp",
+        "fileName": "halfling_vampire.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/halfling_wizard.webp",
+        "webPath": "/Draachenmar/images/artifacts/halfling_wizard.webp",
+        "fileName": "halfling_wizard.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/hanging_gardens.webp",
+        "webPath": "/Draachenmar/images/artifacts/hanging_gardens.webp",
+        "fileName": "hanging_gardens.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/hearthstone_emporium_upsala.webp",
+        "webPath": "/Draachenmar/images/artifacts/hearthstone_emporium_upsala.webp",
+        "fileName": "hearthstone_emporium_upsala.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/heartstone_crystal.webp",
+        "webPath": "/Draachenmar/images/artifacts/heartstone_crystal.webp",
+        "fileName": "heartstone_crystal.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/hellhound.webp",
+        "webPath": "/Draachenmar/images/artifacts/hellhound.webp",
+        "fileName": "hellhound.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/henge.webp",
+        "webPath": "/Draachenmar/images/artifacts/henge.webp",
+        "fileName": "henge.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/hibernus.webp",
+        "webPath": "/Draachenmar/images/artifacts/hibernus.webp",
+        "fileName": "hibernus.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/high_priestess_seri.webp",
+        "webPath": "/Draachenmar/images/artifacts/high_priestess_seri.webp",
+        "fileName": "high_priestess_seri.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/hipposorc.webp",
+        "webPath": "/Draachenmar/images/artifacts/hipposorc.webp",
+        "fileName": "hipposorc.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/hogan.webp",
+        "webPath": "/Draachenmar/images/artifacts/hogan.webp",
+        "fileName": "hogan.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/house_in_the_dales.webp",
+        "webPath": "/Draachenmar/images/artifacts/house_in_the_dales.webp",
+        "fileName": "house_in_the_dales.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/human_alchemist.webp",
+        "webPath": "/Draachenmar/images/artifacts/human_alchemist.webp",
+        "fileName": "human_alchemist.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/human_fighter_2_female.webp",
+        "webPath": "/Draachenmar/images/artifacts/human_fighter_2_female.webp",
+        "fileName": "human_fighter_2_female.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/human_fighter_3.webp",
+        "webPath": "/Draachenmar/images/artifacts/human_fighter_3.webp",
+        "fileName": "human_fighter_3.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/human_fighter_4.webp",
+        "webPath": "/Draachenmar/images/artifacts/human_fighter_4.webp",
+        "fileName": "human_fighter_4.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/human_fighter.webp",
+        "webPath": "/Draachenmar/images/artifacts/human_fighter.webp",
+        "fileName": "human_fighter.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/human_hunter.webp",
+        "webPath": "/Draachenmar/images/artifacts/human_hunter.webp",
+        "fileName": "human_hunter.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/igniss_drow_assassin.webp",
+        "webPath": "/Draachenmar/images/artifacts/igniss_drow_assassin.webp",
+        "fileName": "igniss_drow_assassin.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/iss_ellison.webp",
+        "webPath": "/Draachenmar/images/artifacts/iss_ellison.webp",
+        "fileName": "iss_ellison.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/jasper_of_melodies.webp",
+        "webPath": "/Draachenmar/images/artifacts/jasper_of_melodies.webp",
+        "fileName": "jasper_of_melodies.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/javon.webp",
+        "webPath": "/Draachenmar/images/artifacts/javon.webp",
+        "fileName": "javon.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/k_hara.webp",
+        "webPath": "/Draachenmar/images/artifacts/k_hara.webp",
+        "fileName": "k_hara.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/kaelith_mindweaver.webp",
+        "webPath": "/Draachenmar/images/artifacts/kaelith_mindweaver.webp",
+        "fileName": "kaelith_mindweaver.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/karthag_the_bloody_v2.webp",
+        "webPath": "/Draachenmar/images/artifacts/karthag_the_bloody_v2.webp",
+        "fileName": "karthag_the_bloody_v2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/karthag_the_bloody.webp",
+        "webPath": "/Draachenmar/images/artifacts/karthag_the_bloody.webp",
+        "fileName": "karthag_the_bloody.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/keryth.webp",
+        "webPath": "/Draachenmar/images/artifacts/keryth.webp",
+        "fileName": "keryth.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/king_rathgar_with_earthshaker.webp",
+        "webPath": "/Draachenmar/images/artifacts/king_rathgar_with_earthshaker.webp",
+        "fileName": "king_rathgar_with_earthshaker.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/knight_of_the_rose.webp",
+        "webPath": "/Draachenmar/images/artifacts/knight_of_the_rose.webp",
+        "fileName": "knight_of_the_rose.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/lady_elara_moonlatch_the_keeper_of_the_arcane_archives_in_the_clockwork_city_of_kronus.webp",
+        "webPath": "/Draachenmar/images/artifacts/lady_elara_moonlatch_the_keeper_of_the_arcane_archives_in_the_clockwork_city_of_kronus.webp",
+        "fileName": "lady_elara_moonlatch_the_keeper_of_the_arcane_archives_in_the_clockwork_city_of_kronus.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/laelira_shadowdancer.webp",
+        "webPath": "/Draachenmar/images/artifacts/laelira_shadowdancer.webp",
+        "fileName": "laelira_shadowdancer.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/leonin_paladin_-_fighter.webp",
+        "webPath": "/Draachenmar/images/artifacts/leonin_paladin_-_fighter.webp",
+        "fileName": "leonin_paladin_-_fighter.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/levievilman.webp",
+        "webPath": "/Draachenmar/images/artifacts/levievilman.webp",
+        "fileName": "levievilman.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/library_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/library_2.webp",
+        "fileName": "library_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/library.webp",
+        "webPath": "/Draachenmar/images/artifacts/library.webp",
+        "fileName": "library.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/lineton.webp",
+        "webPath": "/Draachenmar/images/artifacts/lineton.webp",
+        "fileName": "lineton.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/lion_tabaxi_gladiator.webp",
+        "webPath": "/Draachenmar/images/artifacts/lion_tabaxi_gladiator.webp",
+        "fileName": "lion_tabaxi_gladiator.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/lirix.webp",
+        "webPath": "/Draachenmar/images/artifacts/lirix.webp",
+        "fileName": "lirix.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/lizard_man.webp",
+        "webPath": "/Draachenmar/images/artifacts/lizard_man.webp",
+        "fileName": "lizard_man.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/lizard_sombreros.webp",
+        "webPath": "/Draachenmar/images/artifacts/lizard_sombreros.webp",
+        "fileName": "lizard_sombreros.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/lizardman_jungle_warrior.webp",
+        "webPath": "/Draachenmar/images/artifacts/lizardman_jungle_warrior.webp",
+        "fileName": "lizardman_jungle_warrior.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/lord_leonidas_ironclaw.webp",
+        "webPath": "/Draachenmar/images/artifacts/lord_leonidas_ironclaw.webp",
+        "fileName": "lord_leonidas_ironclaw.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/lost_city_of_eldrathis.webp",
+        "webPath": "/Draachenmar/images/artifacts/lost_city_of_eldrathis.webp",
+        "fileName": "lost_city_of_eldrathis.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/male_frost_giant.webp",
+        "webPath": "/Draachenmar/images/artifacts/male_frost_giant.webp",
+        "fileName": "male_frost_giant.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/male_vampire_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/male_vampire_1.webp",
+        "fileName": "male_vampire_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/male_veiled.webp",
+        "webPath": "/Draachenmar/images/artifacts/male_veiled.webp",
+        "fileName": "male_veiled.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/malgorth.webp",
+        "webPath": "/Draachenmar/images/artifacts/malgorth.webp",
+        "fileName": "malgorth.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/mallard_rogue.webp",
+        "webPath": "/Draachenmar/images/artifacts/mallard_rogue.webp",
+        "fileName": "mallard_rogue.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/market_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/market_1.webp",
+        "fileName": "market_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/market_square.webp",
+        "webPath": "/Draachenmar/images/artifacts/market_square.webp",
+        "fileName": "market_square.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/mayor_eldran.webp",
+        "webPath": "/Draachenmar/images/artifacts/mayor_eldran.webp",
+        "fileName": "mayor_eldran.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/merchant_caravan.webp",
+        "webPath": "/Draachenmar/images/artifacts/merchant_caravan.webp",
+        "fileName": "merchant_caravan.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/millisteed_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/millisteed_1.webp",
+        "fileName": "millisteed_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/mind_flayer.webp",
+        "webPath": "/Draachenmar/images/artifacts/mind_flayer.webp",
+        "fileName": "mind_flayer.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/minotaur_cleric_braum.webp",
+        "webPath": "/Draachenmar/images/artifacts/minotaur_cleric_braum.webp",
+        "fileName": "minotaur_cleric_braum.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/misty_lookout_tavern.webp",
+        "webPath": "/Draachenmar/images/artifacts/misty_lookout_tavern.webp",
+        "fileName": "misty_lookout_tavern.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/moegen.webp",
+        "webPath": "/Draachenmar/images/artifacts/moegen.webp",
+        "fileName": "moegen.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/mollten_anvil.webp",
+        "webPath": "/Draachenmar/images/artifacts/mollten_anvil.webp",
+        "fileName": "mollten_anvil.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/mounnted_red_dragon.webp",
+        "webPath": "/Draachenmar/images/artifacts/mounnted_red_dragon.webp",
+        "fileName": "mounnted_red_dragon.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/mummy_lord.webp",
+        "webPath": "/Draachenmar/images/artifacts/mummy_lord.webp",
+        "fileName": "mummy_lord.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/murkial.webp",
+        "webPath": "/Draachenmar/images/artifacts/murkial.webp",
+        "fileName": "murkial.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/nekrulon.webp",
+        "webPath": "/Draachenmar/images/artifacts/nekrulon.webp",
+        "fileName": "nekrulon.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/nexus_arcanum_-_grand_library.webp",
+        "webPath": "/Draachenmar/images/artifacts/nexus_arcanum_-_grand_library.webp",
+        "fileName": "nexus_arcanum_-_grand_library.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/nightmare_pegasus_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/nightmare_pegasus_1.webp",
+        "fileName": "nightmare_pegasus_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/nightmare_pegasus_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/nightmare_pegasus_2.webp",
+        "fileName": "nightmare_pegasus_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/noiul_adim_-_gnome_artificer.webp",
+        "webPath": "/Draachenmar/images/artifacts/noiul_adim_-_gnome_artificer.webp",
+        "fileName": "noiul_adim_-_gnome_artificer.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/nubian_female.webp",
+        "webPath": "/Draachenmar/images/artifacts/nubian_female.webp",
+        "fileName": "nubian_female.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/nyble.webp",
+        "webPath": "/Draachenmar/images/artifacts/nyble.webp",
+        "fileName": "nyble.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/nyxia.webp",
+        "webPath": "/Draachenmar/images/artifacts/nyxia.webp",
+        "fileName": "nyxia.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/oblieg.webp",
+        "webPath": "/Draachenmar/images/artifacts/oblieg.webp",
+        "fileName": "oblieg.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/obsidian_goliath.webp",
+        "webPath": "/Draachenmar/images/artifacts/obsidian_goliath.webp",
+        "fileName": "obsidian_goliath.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/open_air_market_of_henge.webp",
+        "webPath": "/Draachenmar/images/artifacts/open_air_market_of_henge.webp",
+        "fileName": "open_air_market_of_henge.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/ora_kai.webp",
+        "webPath": "/Draachenmar/images/artifacts/ora_kai.webp",
+        "fileName": "ora_kai.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/orc_gladiator.webp",
+        "webPath": "/Draachenmar/images/artifacts/orc_gladiator.webp",
+        "fileName": "orc_gladiator.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/orc_warior.webp",
+        "webPath": "/Draachenmar/images/artifacts/orc_warior.webp",
+        "fileName": "orc_warior.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/orcish_war_elephant.webp",
+        "webPath": "/Draachenmar/images/artifacts/orcish_war_elephant.webp",
+        "fileName": "orcish_war_elephant.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/ordek.webp",
+        "webPath": "/Draachenmar/images/artifacts/ordek.webp",
+        "fileName": "ordek.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/orphan_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/orphan_1.webp",
+        "fileName": "orphan_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/orphan_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/orphan_2.webp",
+        "fileName": "orphan_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/orphan_3.webp",
+        "webPath": "/Draachenmar/images/artifacts/orphan_3.webp",
+        "fileName": "orphan_3.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/orpholu_-_merror_sorcerer.webp",
+        "webPath": "/Draachenmar/images/artifacts/orpholu_-_merror_sorcerer.webp",
+        "fileName": "orpholu_-_merror_sorcerer.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/otter_dude.webp",
+        "webPath": "/Draachenmar/images/artifacts/otter_dude.webp",
+        "fileName": "otter_dude.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/page_75_pic.webp",
+        "webPath": "/Draachenmar/images/artifacts/page_75_pic.webp",
+        "fileName": "page_75_pic.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/pirate_lady.webp",
+        "webPath": "/Draachenmar/images/artifacts/pirate_lady.webp",
+        "fileName": "pirate_lady.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/planning_defense_of_the_wall.webp",
+        "webPath": "/Draachenmar/images/artifacts/planning_defense_of_the_wall.webp",
+        "fileName": "planning_defense_of_the_wall.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/polar_bear_-_werebear.webp",
+        "webPath": "/Draachenmar/images/artifacts/polar_bear_-_werebear.webp",
+        "fileName": "polar_bear_-_werebear.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/quill_parchment_scriptorium.webp",
+        "webPath": "/Draachenmar/images/artifacts/quill_parchment_scriptorium.webp",
+        "fileName": "quill_parchment_scriptorium.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/ratfolk_swashbuckler.webp",
+        "webPath": "/Draachenmar/images/artifacts/ratfolk_swashbuckler.webp",
+        "fileName": "ratfolk_swashbuckler.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/red_wyrmsteed.webp",
+        "webPath": "/Draachenmar/images/artifacts/red_wyrmsteed.webp",
+        "fileName": "red_wyrmsteed.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/rhino_gladiator.webp",
+        "webPath": "/Draachenmar/images/artifacts/rhino_gladiator.webp",
+        "fileName": "rhino_gladiator.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/ruined_keep.webp",
+        "webPath": "/Draachenmar/images/artifacts/ruined_keep.webp",
+        "fileName": "ruined_keep.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/runewave_docks.webp",
+        "webPath": "/Draachenmar/images/artifacts/runewave_docks.webp",
+        "fileName": "runewave_docks.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/rustic_fishing_village.webp",
+        "webPath": "/Draachenmar/images/artifacts/rustic_fishing_village.webp",
+        "fileName": "rustic_fishing_village.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/sand_drake.webp",
+        "webPath": "/Draachenmar/images/artifacts/sand_drake.webp",
+        "fileName": "sand_drake.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/sentinel_hold.webp",
+        "webPath": "/Draachenmar/images/artifacts/sentinel_hold.webp",
+        "fileName": "sentinel_hold.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/shigly.webp",
+        "webPath": "/Draachenmar/images/artifacts/shigly.webp",
+        "fileName": "shigly.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/silver_chalice_tavern_upsala.webp",
+        "webPath": "/Draachenmar/images/artifacts/silver_chalice_tavern_upsala.webp",
+        "fileName": "silver_chalice_tavern_upsala.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/silver_stag_tavern_-_threx.webp",
+        "webPath": "/Draachenmar/images/artifacts/silver_stag_tavern_-_threx.webp",
+        "fileName": "silver_stag_tavern_-_threx.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/sky_raider_goblin.webp",
+        "webPath": "/Draachenmar/images/artifacts/sky_raider_goblin.webp",
+        "fileName": "sky_raider_goblin.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/skybound_stables.webp",
+        "webPath": "/Draachenmar/images/artifacts/skybound_stables.webp",
+        "fileName": "skybound_stables.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/skyship_forge_in_the_clockwork_city_of_kronus.webp",
+        "webPath": "/Draachenmar/images/artifacts/skyship_forge_in_the_clockwork_city_of_kronus.webp",
+        "fileName": "skyship_forge_in_the_clockwork_city_of_kronus.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/snow_covered_mountain.webp",
+        "webPath": "/Draachenmar/images/artifacts/snow_covered_mountain.webp",
+        "fileName": "snow_covered_mountain.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/solanus.webp",
+        "webPath": "/Draachenmar/images/artifacts/solanus.webp",
+        "fileName": "solanus.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/solonar.webp",
+        "webPath": "/Draachenmar/images/artifacts/solonar.webp",
+        "fileName": "solonar.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/sorcfemale.webp",
+        "webPath": "/Draachenmar/images/artifacts/sorcfemale.webp",
+        "fileName": "sorcfemale.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/ssej_ir.webp",
+        "webPath": "/Draachenmar/images/artifacts/ssej_ir.webp",
+        "fileName": "ssej_ir.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/starlight_haven_orphanage.webp",
+        "webPath": "/Draachenmar/images/artifacts/starlight_haven_orphanage.webp",
+        "fileName": "starlight_haven_orphanage.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/starshroud.webp",
+        "webPath": "/Draachenmar/images/artifacts/starshroud.webp",
+        "fileName": "starshroud.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/steelbound_market.webp",
+        "webPath": "/Draachenmar/images/artifacts/steelbound_market.webp",
+        "fileName": "steelbound_market.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/sukkotto_hantei.webp",
+        "webPath": "/Draachenmar/images/artifacts/sukkotto_hantei.webp",
+        "fileName": "sukkotto_hantei.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/swamp_village.webp",
+        "webPath": "/Draachenmar/images/artifacts/swamp_village.webp",
+        "fileName": "swamp_village.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/sword_-_umbral.webp",
+        "webPath": "/Draachenmar/images/artifacts/sword_-_umbral.webp",
+        "fileName": "sword_-_umbral.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tabaxi_fat_lady.webp",
+        "webPath": "/Draachenmar/images/artifacts/tabaxi_fat_lady.webp",
+        "fileName": "tabaxi_fat_lady.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tabaxi_merchant_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/tabaxi_merchant_2.webp",
+        "fileName": "tabaxi_merchant_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tabaxi_merchant.webp",
+        "webPath": "/Draachenmar/images/artifacts/tabaxi_merchant.webp",
+        "fileName": "tabaxi_merchant.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tabaxi_sorcerer.webp",
+        "webPath": "/Draachenmar/images/artifacts/tabaxi_sorcerer.webp",
+        "fileName": "tabaxi_sorcerer.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tavern.webp",
+        "webPath": "/Draachenmar/images/artifacts/tavern.webp",
+        "fileName": "tavern.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tbd_tabaxi.webp",
+        "webPath": "/Draachenmar/images/artifacts/tbd_tabaxi.webp",
+        "fileName": "tbd_tabaxi.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/temporalband.webp",
+        "webPath": "/Draachenmar/images/artifacts/temporalband.webp",
+        "fileName": "temporalband.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/terraqua.webp",
+        "webPath": "/Draachenmar/images/artifacts/terraqua.webp",
+        "fileName": "terraqua.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/thaldir.webp",
+        "webPath": "/Draachenmar/images/artifacts/thaldir.webp",
+        "fileName": "thaldir.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_arcane_archives.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_arcane_archives.webp",
+        "fileName": "the_arcane_archives.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_astral_comet.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_astral_comet.webp",
+        "fileName": "the_astral_comet.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_astral_triad.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_astral_triad.webp",
+        "fileName": "the_astral_triad.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_chronicles_of_draachenmar.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_chronicles_of_draachenmar.webp",
+        "fileName": "the_chronicles_of_draachenmar.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_clockwork_city_of_kronus.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_clockwork_city_of_kronus.webp",
+        "fileName": "the_clockwork_city_of_kronus.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_court_of_seasons_-_deities_of_the_changing_year.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_court_of_seasons_-_deities_of_the_changing_year.webp",
+        "fileName": "the_court_of_seasons_-_deities_of_the_changing_year.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_luminous_garden_a_jewel_in_the_heart_of_the_clockwork_city_of_kronus.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_luminous_garden_a_jewel_in_the_heart_of_the_clockwork_city_of_kronus.webp",
+        "fileName": "the_luminous_garden_a_jewel_in_the_heart_of_the_clockwork_city_of_kronus.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_monument_of_echoes.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_monument_of_echoes.webp",
+        "fileName": "the_monument_of_echoes.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_primordial_concordant.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_primordial_concordant.webp",
+        "fileName": "the_primordial_concordant.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_serpents_whisper.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_serpents_whisper.webp",
+        "fileName": "the_serpents_whisper.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_shadow_mark.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_shadow_mark.webp",
+        "fileName": "the_shadow_mark.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/the_starlit_sanctum.webp",
+        "webPath": "/Draachenmar/images/artifacts/the_starlit_sanctum.webp",
+        "fileName": "the_starlit_sanctum.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/timeweaverscloak.webp",
+        "webPath": "/Draachenmar/images/artifacts/timeweaverscloak.webp",
+        "fileName": "timeweaverscloak.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tinkers_shop.webp",
+        "webPath": "/Draachenmar/images/artifacts/tinkers_shop.webp",
+        "fileName": "tinkers_shop.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tir_zinith.webp",
+        "webPath": "/Draachenmar/images/artifacts/tir_zinith.webp",
+        "fileName": "tir_zinith.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fiz_artgerm.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fiz_artgerm.webp",
+        "fileName": "tobar_and_fiz_artgerm.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_1.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_1.webp",
+        "fileName": "tobar_and_fizz_1.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_10.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_10.webp",
+        "fileName": "tobar_and_fizz_10.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_11.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_11.webp",
+        "fileName": "tobar_and_fizz_11.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_12.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_12.webp",
+        "fileName": "tobar_and_fizz_12.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_13.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_13.webp",
+        "fileName": "tobar_and_fizz_13.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_14.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_14.webp",
+        "fileName": "tobar_and_fizz_14.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_15.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_15.webp",
+        "fileName": "tobar_and_fizz_15.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_16.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_16.webp",
+        "fileName": "tobar_and_fizz_16.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_17.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_17.webp",
+        "fileName": "tobar_and_fizz_17.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_18.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_18.webp",
+        "fileName": "tobar_and_fizz_18.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_19.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_19.webp",
+        "fileName": "tobar_and_fizz_19.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_2.webp",
+        "fileName": "tobar_and_fizz_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_3.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_3.webp",
+        "fileName": "tobar_and_fizz_3.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_4.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_4.webp",
+        "fileName": "tobar_and_fizz_4.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_5.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_5.webp",
+        "fileName": "tobar_and_fizz_5.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_6.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_6.webp",
+        "fileName": "tobar_and_fizz_6.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_7.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_7.webp",
+        "fileName": "tobar_and_fizz_7.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_8.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_8.webp",
+        "fileName": "tobar_and_fizz_8.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_9.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_9.webp",
+        "fileName": "tobar_and_fizz_9.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tobar_and_fizz_asian_hiro.webp",
+        "webPath": "/Draachenmar/images/artifacts/tobar_and_fizz_asian_hiro.webp",
+        "fileName": "tobar_and_fizz_asian_hiro.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tortle_artificer.webp",
+        "webPath": "/Draachenmar/images/artifacts/tortle_artificer.webp",
+        "fileName": "tortle_artificer.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/tortle_monestary_on_uxmal.webp",
+        "webPath": "/Draachenmar/images/artifacts/tortle_monestary_on_uxmal.webp",
+        "fileName": "tortle_monestary_on_uxmal.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/trident.webp",
+        "webPath": "/Draachenmar/images/artifacts/trident.webp",
+        "fileName": "trident.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/ularieth.webp",
+        "webPath": "/Draachenmar/images/artifacts/ularieth.webp",
+        "fileName": "ularieth.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/umbra.webp",
+        "webPath": "/Draachenmar/images/artifacts/umbra.webp",
+        "fileName": "umbra.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/undead_elf.webp",
+        "webPath": "/Draachenmar/images/artifacts/undead_elf.webp",
+        "fileName": "undead_elf.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/undead_witch.webp",
+        "webPath": "/Draachenmar/images/artifacts/undead_witch.webp",
+        "fileName": "undead_witch.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/vaelira_steelheart.webp",
+        "webPath": "/Draachenmar/images/artifacts/vaelira_steelheart.webp",
+        "fileName": "vaelira_steelheart.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/vampire_lord.webp",
+        "webPath": "/Draachenmar/images/artifacts/vampire_lord.webp",
+        "fileName": "vampire_lord.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/velek.webp",
+        "webPath": "/Draachenmar/images/artifacts/velek.webp",
+        "fileName": "velek.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/verdantia.webp",
+        "webPath": "/Draachenmar/images/artifacts/verdantia.webp",
+        "fileName": "verdantia.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/veridia.webp",
+        "webPath": "/Draachenmar/images/artifacts/veridia.webp",
+        "fileName": "veridia.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/viktor.webp",
+        "webPath": "/Draachenmar/images/artifacts/viktor.webp",
+        "fileName": "viktor.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/village_2.webp",
+        "webPath": "/Draachenmar/images/artifacts/village_2.webp",
+        "fileName": "village_2.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/village_tbd.webp",
+        "webPath": "/Draachenmar/images/artifacts/village_tbd.webp",
+        "fileName": "village_tbd.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/vorlother_with_the_soulcrown.webp",
+        "webPath": "/Draachenmar/images/artifacts/vorlother_with_the_soulcrown.webp",
+        "fileName": "vorlother_with_the_soulcrown.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/vorloths_phylactery.webp",
+        "webPath": "/Draachenmar/images/artifacts/vorloths_phylactery.webp",
+        "fileName": "vorloths_phylactery.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/warforged.webp",
+        "webPath": "/Draachenmar/images/artifacts/warforged.webp",
+        "fileName": "warforged.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/warrior.webp",
+        "webPath": "/Draachenmar/images/artifacts/warrior.webp",
+        "fileName": "warrior.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/wearbear_barbarian.webp",
+        "webPath": "/Draachenmar/images/artifacts/wearbear_barbarian.webp",
+        "fileName": "wearbear_barbarian.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/whispering_tomes_library.webp",
+        "webPath": "/Draachenmar/images/artifacts/whispering_tomes_library.webp",
+        "fileName": "whispering_tomes_library.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/whispering_woods.webp",
+        "webPath": "/Draachenmar/images/artifacts/whispering_woods.webp",
+        "fileName": "whispering_woods.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/white_dragon.webp",
+        "webPath": "/Draachenmar/images/artifacts/white_dragon.webp",
+        "fileName": "white_dragon.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/white_wyrmsteed.webp",
+        "webPath": "/Draachenmar/images/artifacts/white_wyrmsteed.webp",
+        "fileName": "white_wyrmsteed.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/whitestone_keep.webp",
+        "webPath": "/Draachenmar/images/artifacts/whitestone_keep.webp",
+        "fileName": "whitestone_keep.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/wolfen_fighter.webp",
+        "webPath": "/Draachenmar/images/artifacts/wolfen_fighter.webp",
+        "fileName": "wolfen_fighter.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/xarann.webp",
+        "webPath": "/Draachenmar/images/artifacts/xarann.webp",
+        "fileName": "xarann.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/xyrrul.webp",
+        "webPath": "/Draachenmar/images/artifacts/xyrrul.webp",
+        "fileName": "xyrrul.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/yenzaphir.webp",
+        "webPath": "/Draachenmar/images/artifacts/yenzaphir.webp",
+        "fileName": "yenzaphir.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/yorxan.webp",
+        "webPath": "/Draachenmar/images/artifacts/yorxan.webp",
+        "fileName": "yorxan.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/yumiko_starlight.webp",
+        "webPath": "/Draachenmar/images/artifacts/yumiko_starlight.webp",
+        "fileName": "yumiko_starlight.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/zander.webp",
+        "webPath": "/Draachenmar/images/artifacts/zander.webp",
+        "fileName": "zander.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/zarithak.webp",
+        "webPath": "/Draachenmar/images/artifacts/zarithak.webp",
+        "fileName": "zarithak.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/zemyr.webp",
+        "webPath": "/Draachenmar/images/artifacts/zemyr.webp",
+        "fileName": "zemyr.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/zephyria_windwhisper.webp",
+        "webPath": "/Draachenmar/images/artifacts/zephyria_windwhisper.webp",
+        "fileName": "zephyria_windwhisper.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/zephyron.webp",
+        "webPath": "/Draachenmar/images/artifacts/zephyron.webp",
+        "fileName": "zephyron.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/zyndarai_hold.webp",
+        "webPath": "/Draachenmar/images/artifacts/zyndarai_hold.webp",
+        "fileName": "zyndarai_hold.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/artifacts/zyndorik_the_blade.webp",
+        "webPath": "/Draachenmar/images/artifacts/zyndorik_the_blade.webp",
+        "fileName": "zyndorik_the_blade.webp",
+        "category": "artifacts",
+        "size": {
+          "width": 1024,
+          "height": 1024
+        },
+        "format": "webp"
+      }
+    ],
+    "maps": [
+      {
+        "originalPath": "/images/maps/brimor_s_wonderous_map_set.webp",
+        "webPath": "/Draachenmar/images/maps/brimor_s_wonderous_map_set.webp",
+        "fileName": "brimor_s_wonderous_map_set.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/coopers-hole-kraken-promotional.webp",
+        "webPath": "/Draachenmar/images/maps/coopers-hole-kraken-promotional.webp",
+        "fileName": "coopers-hole-kraken-promotional.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-of-the-lich-lord-1.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-of-the-lich-lord-1.webp",
+        "fileName": "crypts-of-the-lich-lord-1.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-of-the-lich-lord-10.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-of-the-lich-lord-10.webp",
+        "fileName": "crypts-of-the-lich-lord-10.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-of-the-lich-lord-2.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-of-the-lich-lord-2.webp",
+        "fileName": "crypts-of-the-lich-lord-2.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-of-the-lich-lord-3.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-of-the-lich-lord-3.webp",
+        "fileName": "crypts-of-the-lich-lord-3.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-of-the-lich-lord-4.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-of-the-lich-lord-4.webp",
+        "fileName": "crypts-of-the-lich-lord-4.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-of-the-lich-lord-5.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-of-the-lich-lord-5.webp",
+        "fileName": "crypts-of-the-lich-lord-5.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-of-the-lich-lord-6.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-of-the-lich-lord-6.webp",
+        "fileName": "crypts-of-the-lich-lord-6.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-of-the-lich-lord-7.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-of-the-lich-lord-7.webp",
+        "fileName": "crypts-of-the-lich-lord-7.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-of-the-lich-lord-9.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-of-the-lich-lord-9.webp",
+        "fileName": "crypts-of-the-lich-lord-9.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-set-1.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-set-1.webp",
+        "fileName": "crypts-set-1.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-set-2.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-set-2.webp",
+        "fileName": "crypts-set-2.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/crypts-set-3.webp",
+        "webPath": "/Draachenmar/images/maps/crypts-set-3.webp",
+        "fileName": "crypts-set-3.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/draachenmar_second_draft.webp",
+        "webPath": "/Draachenmar/images/maps/draachenmar_second_draft.webp",
+        "fileName": "draachenmar_second_draft.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/drachenmar_24x36_1_inch_scale.webp",
+        "webPath": "/Draachenmar/images/maps/drachenmar_24x36_1_inch_scale.webp",
+        "fileName": "drachenmar_24x36_1_inch_scale.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/drachenmar_8x10.webp",
+        "webPath": "/Draachenmar/images/maps/drachenmar_8x10.webp",
+        "fileName": "drachenmar_8x10.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/drachenmar_map_-_tony_scan.webp",
+        "webPath": "/Draachenmar/images/maps/drachenmar_map_-_tony_scan.webp",
+        "fileName": "drachenmar_map_-_tony_scan.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/drachenmar_smpl2.webp",
+        "webPath": "/Draachenmar/images/maps/drachenmar_smpl2.webp",
+        "fileName": "drachenmar_smpl2.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/dwarven_keep.webp",
+        "webPath": "/Draachenmar/images/maps/dwarven_keep.webp",
+        "fileName": "dwarven_keep.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/dwarven_small_settlement.webp",
+        "webPath": "/Draachenmar/images/maps/dwarven_small_settlement.webp",
+        "fileName": "dwarven_small_settlement.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/henge.webp",
+        "webPath": "/Draachenmar/images/maps/henge.webp",
+        "fileName": "henge.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/hidden_cave.webp",
+        "webPath": "/Draachenmar/images/maps/hidden_cave.webp",
+        "fileName": "hidden_cave.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/hill_small_bae.webp",
+        "webPath": "/Draachenmar/images/maps/hill_small_bae.webp",
+        "fileName": "hill_small_bae.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/large_house.webp",
+        "webPath": "/Draachenmar/images/maps/large_house.webp",
+        "fileName": "large_house.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/lunar_map.webp",
+        "webPath": "/Draachenmar/images/maps/lunar_map.webp",
+        "fileName": "lunar_map.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/map_of_haven.webp",
+        "webPath": "/Draachenmar/images/maps/map_of_haven.webp",
+        "fileName": "map_of_haven.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/respite.webp",
+        "webPath": "/Draachenmar/images/maps/respite.webp",
+        "fileName": "respite.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/respite2.webp",
+        "webPath": "/Draachenmar/images/maps/respite2.webp",
+        "fileName": "respite2.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/rividen_map_merchant_of_henge.webp",
+        "webPath": "/Draachenmar/images/maps/rividen_map_merchant_of_henge.webp",
+        "fileName": "rividen_map_merchant_of_henge.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/ruins-grid-trees-patreon.webp",
+        "webPath": "/Draachenmar/images/maps/ruins-grid-trees-patreon.webp",
+        "fileName": "ruins-grid-trees-patreon.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_2017-00_warrens01_hi-res.webp",
+        "webPath": "/Draachenmar/images/maps/sac_2017-00_warrens01_hi-res.webp",
+        "fileName": "sac_2017-00_warrens01_hi-res.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_2017-02_sauriantombs_hi-res.webp",
+        "webPath": "/Draachenmar/images/maps/sac_2017-02_sauriantombs_hi-res.webp",
+        "fileName": "sac_2017-02_sauriantombs_hi-res.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_2017-03_catawombs_hi-res.webp",
+        "webPath": "/Draachenmar/images/maps/sac_2017-03_catawombs_hi-res.webp",
+        "fileName": "sac_2017-03_catawombs_hi-res.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_2017-04_unaussprechlichen_kulten_hi-res.webp",
+        "webPath": "/Draachenmar/images/maps/sac_2017-04_unaussprechlichen_kulten_hi-res.webp",
+        "fileName": "sac_2017-04_unaussprechlichen_kulten_hi-res.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_2017-05_mazeverse_hi-res.webp",
+        "webPath": "/Draachenmar/images/maps/sac_2017-05_mazeverse_hi-res.webp",
+        "fileName": "sac_2017-05_mazeverse_hi-res.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_demontemple_1600x1243_72dpi.webp",
+        "webPath": "/Draachenmar/images/maps/sac_demontemple_1600x1243_72dpi.webp",
+        "fileName": "sac_demontemple_1600x1243_72dpi.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_endingdespair_1600x1243_72dpi.webp",
+        "webPath": "/Draachenmar/images/maps/sac_endingdespair_1600x1243_72dpi.webp",
+        "fileName": "sac_endingdespair_1600x1243_72dpi.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_faneofhisrathi01_1600x1243_72dpi.webp",
+        "webPath": "/Draachenmar/images/maps/sac_faneofhisrathi01_1600x1243_72dpi.webp",
+        "fileName": "sac_faneofhisrathi01_1600x1243_72dpi.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_faneofhisrathi02_1600x1243_72dpi.webp",
+        "webPath": "/Draachenmar/images/maps/sac_faneofhisrathi02_1600x1243_72dpi.webp",
+        "fileName": "sac_faneofhisrathi02_1600x1243_72dpi.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_faneofhisrathi03_3366x2615_300dpi.webp",
+        "webPath": "/Draachenmar/images/maps/sac_faneofhisrathi03_3366x2615_300dpi.webp",
+        "fileName": "sac_faneofhisrathi03_3366x2615_300dpi.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_tombimrat_1400x1058_72dpi.webp",
+        "webPath": "/Draachenmar/images/maps/sac_tombimrat_1400x1058_72dpi.webp",
+        "fileName": "sac_tombimrat_1400x1058_72dpi.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_zogruins01_1666x1301_72dpi.webp",
+        "webPath": "/Draachenmar/images/maps/sac_zogruins01_1666x1301_72dpi.webp",
+        "fileName": "sac_zogruins01_1666x1301_72dpi.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/sac_zogruins03_1600x1243_72dpi.webp",
+        "webPath": "/Draachenmar/images/maps/sac_zogruins03_1600x1243_72dpi.webp",
+        "fileName": "sac_zogruins03_1600x1243_72dpi.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/small_temple.webp",
+        "webPath": "/Draachenmar/images/maps/small_temple.webp",
+        "fileName": "small_temple.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/temple-complex-ruins-grid.webp",
+        "webPath": "/Draachenmar/images/maps/temple-complex-ruins-grid.webp",
+        "fileName": "temple-complex-ruins-grid.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/tomb_1.webp",
+        "webPath": "/Draachenmar/images/maps/tomb_1.webp",
+        "fileName": "tomb_1.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      },
+      {
+        "originalPath": "/images/maps/wheaton-map.webp",
+        "webPath": "/Draachenmar/images/maps/wheaton-map.webp",
+        "fileName": "wheaton-map.webp",
+        "category": "maps",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "format": "webp"
+      }
+    ]
+  }
+}
